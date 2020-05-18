@@ -7,38 +7,495 @@
 
 ## 🏠 Contents
 
-- [Python (205)](#python)
-- [Go (82)](#go)
-- [Ruby (21)](#ruby)
-- [JavaScript (66)](#javascript)
-- [HCL (21)](#hcl)
-- [Shell (69)](#shell)
-- [Others (94)](#others)
-- [HTML (7)](#html)
-- [TypeScript (7)](#typescript)
-- [Java (21)](#java)
-- [Swift (10)](#swift)
-- [Scala (1)](#scala)
-- [Jupyter&amp;nbsp;Notebook (1)](#jupyter-notebook)
-- [Rust (3)](#rust)
-- [Vue (1)](#vue)
-- [Objective-C (6)](#objective-c)
-- [Erlang (1)](#erlang)
+- [AppleScript (1)](#applescript)
+- [C (6)](#c)
 - [CSS (5)](#css)
-- [Makefile (3)](#makefile)
-- [PHP (7)](#php)
+- [Dockerfile (2)](#dockerfile)
+- [Erlang (1)](#erlang)
+- [Go (82)](#go)
+- [Groovy (1)](#groovy)
+- [HCL (21)](#hcl)
+- [HTML (7)](#html)
+- [Haskell (2)](#haskell)
+- [Java (21)](#java)
+- [JavaScript (66)](#javascript)
+- [Jupyter&amp;nbsp;Notebook (1)](#jupyter-notebook)
 - [Kotlin (1)](#kotlin)
 - [Lua (1)](#lua)
-- [PowerShell (1)](#powershell)
-- [AppleScript (1)](#applescript)
-- [Dockerfile (2)](#dockerfile)
-- [Haskell (2)](#haskell)
-- [C (6)](#c)
-- [TSQL (1)](#tsql)
-- [Vim&amp;nbsp;script (1)](#vim-script)
+- [Makefile (3)](#makefile)
+- [Objective-C (6)](#objective-c)
+- [Others (94)](#others)
+- [PHP (7)](#php)
 - [Perl (2)](#perl)
+- [PowerShell (1)](#powershell)
+- [Python (205)](#python)
 - [Roff (1)](#roff)
-- [Groovy (1)](#groovy)
+- [Ruby (21)](#ruby)
+- [Rust (3)](#rust)
+- [Scala (1)](#scala)
+- [Shell (69)](#shell)
+- [Swift (10)](#swift)
+- [TSQL (1)](#tsql)
+- [TypeScript (7)](#typescript)
+- [Vim&amp;nbsp;script (1)](#vim-script)
+- [Vue (1)](#vue)
+
+## AppleScript
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) | BetterTouchTool Touch Bar Presets | vas3k | 1776 |
+
+**[⬆ Back to Index](#-contents)**
+
+## C
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 11242 |
+| 2 |  [fzy](https://github.com/jhawthorn/fzy) | :mag: A simple, fast fuzzy finder for the terminal | jhawthorn | 1740 |
+| 3 |  [tig](https://github.com/jonas/tig) | Text-mode interface for git | jonas | 9023 |
+| 4 |  [tmate](https://github.com/tmate-io/tmate) | Instant Terminal Sharing | tmate-io | 3561 |
+| 5 |  [tsunami-udp](https://github.com/sebsto/tsunami-udp) | Fork of Tsunami UDP File Transfer Server and Client w/fix to compile on MacOS | sebsto | 101 |
+| 6 |  [mimipenguin](https://github.com/huntergregal/mimipenguin) | A tool to dump the login password from the current linux user | huntergregal | 2695 |
+
+**[⬆ Back to Index](#-contents)**
+
+## CSS
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [Korean-Spelling-Checker-Workflow](https://github.com/miname/Korean-Spelling-Checker-Workflow) | macOS X Automator의 workflow 형태로 작동하는 한국어 맞춤법 검사기. | miname | 9 |
+| 2 |  [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) | Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates. | iann0036 | 970 |
+| 3 |  [real-time-insights-account-activity](https://github.com/awslabs/real-time-insights-account-activity) | An application and real-time dashboard providing insights into AWS account activity. | awslabs | 27 |
+| 4 |  [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) | List of applications and tools that make my macOS experience even more amazing | nikitavoloboev | 16832 |
+| 5 |  [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) | Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim | editor-bootstrap | 1599 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Dockerfile
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [docker-alpine](https://github.com/smebberson/docker-alpine) | Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers. | smebberson | 566 |
+| 2 |  [dockerfiles](https://github.com/jessfraz/dockerfiles) | Various Dockerfiles I use on the desktop and on servers. | jessfraz | 9810 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Erlang
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [bus1](https://github.com/keewon/bus1) | 버스 운행 정보를 그래프로 표시 | keewon | 1 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Go
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [awesome-podcasts](https://github.com/pbnj/awesome-podcasts) | 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts | pbnj | 173 |
+| 2 |  [curse](https://github.com/mikesmitty/curse) | CURSE is an SSH certificate signing server, built as an alternative to Netflix&#39;s BLESS tool, but without a dependency on AWS. | mikesmitty | 180 |
+| 3 |  [ssmsh](https://github.com/bwhaley/ssmsh) | A shell for the EC2 Parameter Store | bwhaley | 208 |
+| 4 |  [awsweeper](https://github.com/cloudetc/awsweeper) | A tool for cleaning your AWS account | cloudetc | 210 |
+| 5 |  [terracognita](https://github.com/cycloidio/terracognita) | Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration | cycloidio | 279 |
+| 6 |  [aws-env](https://github.com/Droplr/aws-env) | Secure way to handle environment variables in Docker and envfile with AWS Parameter Store | Droplr | 301 |
+| 7 |  [panther](https://github.com/panther-labs/panther) | Detect threats with log data and improve cloud security posture | panther-labs | 571 |
+| 8 |  [tflint](https://github.com/terraform-linters/tflint) | TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform &amp;gt;= 0.12) | terraform-linters | 1538 |
+| 9 |  [hubble](https://github.com/cilium/hubble) | Hubble - Network, Service &amp; Security Observability for Kubernetes | cilium | 865 |
+| 10 |  [kubectl-tree](https://github.com/ahmetb/kubectl-tree) | kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!) | ahmetb | 1469 |
+| 11 |  [shhgit](https://github.com/eth0izzle/shhgit) | Ah shhgit! Find GitHub secrets in real time | eth0izzle | 2250 |
+| 12 |  [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) | Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances | AutoSpotting | 1690 |
+| 13 |  [sops](https://github.com/mozilla/sops) | Simple and flexible tool for managing secrets | mozilla | 4272 |
+| 14 |  [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image | wagoodman | 20016 |
+| 15 |  [go-aws-news](https://github.com/circa10a/go-aws-news) | Fetch what&#39;s new from AWS | circa10a | 6 |
+| 16 |  [route53-cleaner](https://github.com/caarlos0-graveyard/route53-cleaner) | [WIP] Suggests records that could be deleted from your AWS Route53 hosted zones | caarlos0-graveyard | 11 |
+| 17 |  [sync-ssh-keys](https://github.com/samber/sync-ssh-keys) | 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership. | samber | 72 |
+| 18 |  [trackiam](https://github.com/glassechidna/trackiam) | A project to collate IAM actions, AWS APIs and managed policies from various public sources. | glassechidna | 58 |
+| 19 |  [scenery](https://github.com/dmlittle/scenery) | A Terraform plan output prettifier | dmlittle | 337 |
+| 20 |  [teleport](https://github.com/gravitational/teleport) | Zero Trust Access to Infrastructure and Applications | gravitational | 8080 |
+| 21 |  [kube-aws](https://github.com/kubernetes-incubator/kube-aws) | A command-line tool to declaratively manage Kubernetes clusters on AWS | kubernetes-incubator | 1124 |
+| 22 |  [finala](https://github.com/similarweb/finala) | A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses. | similarweb | 439 |
+| 23 |  [assume-role](https://github.com/remind101/assume-role) | Easily assume AWS roles in your terminal. | remind101 | 386 |
+| 24 |  [usql](https://github.com/xo/usql) | Universal command-line interface for SQL databases | xo | 5865 |
+| 25 |  [cloudtrailbeat](https://github.com/aidan-/cloudtrailbeat) | Easily export AWS CloudTrail events to ElasticSearch | aidan- | 29 |
+| 26 |  [aws-lb-readvertiser](https://github.com/gardener/aws-lb-readvertiser) | Reacts on changes of the underlying ip addresses of AWS elastic load balancers. | gardener | 4 |
+| 27 |  [gossm](https://github.com/gjbae1212/gossm) | 💻Interactive CLI tool that you can connect to ec2 using commands same as start-session, ssh in AWS SSM Session Manager | gjbae1212 | 95 |
+| 28 |  [terratest](https://github.com/gruntwork-io/terratest) | Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. | gruntwork-io | 3875 |
+| 29 |  [sloop](https://github.com/salesforce/sloop) | Kubernetes History Visualization | salesforce | 535 |
+| 30 |  [sampler](https://github.com/sqshq/sampler) | Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. | sqshq | 7977 |
+| 31 |  [terraformer](https://github.com/GoogleCloudPlatform/terraformer) | CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code | GoogleCloudPlatform | 2863 |
+| 32 |  [k9s](https://github.com/derailed/k9s) | 🐶 Kubernetes CLI To Manage Your Clusters In Style! | derailed | 6590 |
+| 33 |  [decolink](https://github.com/seapy/decolink) | Decoration link | seapy | 26 |
+| 34 |  [octant](https://github.com/vmware-tanzu/octant) | Highly extensible platform for developers to better understand the complexity of Kubernetes clusters. | vmware-tanzu | 3949 |
+| 35 |  [chaoskube](https://github.com/linki/chaoskube) | chaoskube periodically kills random pods in your Kubernetes cluster. | linki | 1154 |
+| 36 |  [kubeval](https://github.com/instrumenta/kubeval) | Validate your Kubernetes configuration files, supports multiple Kubernetes versions | instrumenta | 1794 |
+| 37 |  [ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) | An implementation of an SSH certificate authority. | cloudtools | 598 |
+| 38 |  [jira](https://github.com/go-jira/jira) | simple jira command line client in Go | go-jira | 1889 |
+| 39 |  [aws-metadata-proxy](https://github.com/Netflix-Skunkworks/aws-metadata-proxy) | AWS Metadata Proxy for protection against SSRF | Netflix-Skunkworks | 64 |
+| 40 |  [argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous deployment for Kubernetes. | argoproj | 2968 |
+| 41 |  [chamber](https://github.com/segmentio/chamber) | CLI for managing secrets | segmentio | 1587 |
+| 42 |  [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) | Terraform AWS provider | terraform-providers | 4209 |
+| 43 |  [awslambdaproxy](https://github.com/dan-v/awslambdaproxy) | An AWS Lambda powered HTTP/SOCKS web proxy | dan-v | 503 |
+| 44 |  [iamy](https://github.com/99designs/iamy) | A cli tool for importing and exporting AWS IAM configuration to YAML files | 99designs | 188 |
+| 45 |  [kubectx](https://github.com/ahmetb/kubectx) | Faster way to switch between clusters and namespaces in kubectl | ahmetb | 7323 |
+| 46 |  [bigbrother](https://github.com/DailyHotel/bigbrother) | Notify when IP addresses of AWS ELB are changed | DailyHotel | 2 |
+| 47 |  [cw](https://github.com/lucagrulla/cw) | The best way to tail AWS CloudWatch Logs from your terminal | lucagrulla | 260 |
+| 48 |  [alfred-maestro](https://github.com/iansinnott/alfred-maestro) | An Alfred workflow to execute Keyboard Maestro macros. | iansinnott | 268 |
+| 49 |  [ksniff](https://github.com/eldadru/ksniff) | Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark | eldadru | 855 |
+| 50 |  [gauth](https://github.com/pcarrier/gauth) | Google Authenticator on your laptop | pcarrier | 141 |
+| 51 |  [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP | Versent | 755 |
+| 52 |  [aws-limits-exporter](https://github.com/danielfm/aws-limits-exporter) | Expose AWS service usage and limits to Prometheus | danielfm | 26 |
+| 53 |  [aws-nuke](https://github.com/rebuy-de/aws-nuke) | Nuke a whole AWS account and delete all its resources. | rebuy-de | 1061 |
+| 54 |  [aws-keycloak](https://github.com/mulesoft-labs/aws-keycloak) | aws-vault like tool for Keycloak authentication | mulesoft-labs | 15 |
+| 55 |  [yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter) | AWS cloudwatch to prometheus exporter - Discovers services through AWS tags, gets cloudwatch data and provides them as prometheus metrics with AWS tags as labels. | ivx | 131 |
+| 56 |  [utern](https://github.com/knqyf263/utern) | Multi group and stream log tailing for AWS CloudWatch Logs. | knqyf263 | 211 |
+| 57 |  [gdrive](https://github.com/gdrive-org/gdrive) | Google Drive CLI Client | gdrive-org | 6557 |
+| 58 |  [aws-vault](https://github.com/99designs/aws-vault) | A vault for securely storing and accessing AWS credentials in development environments | 99designs | 3448 |
+| 59 |  [skm](https://github.com/TimothyYe/skm) | A simple and powerful SSH keys manager | TimothyYe | 617 |
+| 60 |  [ssm-sh](https://github.com/itsdalmo/ssm-sh) | Experiment to use SSM RunCommand instead of SSH | itsdalmo | 137 |
+| 61 |  [CURdashboard](https://github.com/andyfase/CURdashboard) | CURdashboard is an automated, extendable and configurable AWS customer usage report analyzer (CUR) | andyfase | 16 |
+| 62 |  [traildash](https://github.com/AppliedTrust/traildash) | AWS CloudTrail Dashboard | AppliedTrust | 358 |
+| 63 |  [atlantis](https://github.com/runatlantis/atlantis) | Terraform Pull Request Automation | runatlantis | 2702 |
+| 64 |  [terraform-inventory](https://github.com/adammck/terraform-inventory) | Terraform State → Ansible Dynamic Inventory | adammck | 1344 |
+| 65 |  [terragrunt](https://github.com/gruntwork-io/terragrunt) | Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. | gruntwork-io | 3829 |
+| 66 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 16306 |
+| 67 |  [Alfred-collection](https://github.com/msoedov/Alfred-collection) | A collection of all known Alfred3 workflows | msoedov | 560 |
+| 68 |  [fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | junegunn | 29290 |
+| 69 |  [jiq](https://github.com/fiatjaf/jiq) | jid on jq - interactive JSON query tool using jq expressions | fiatjaf | 437 |
+| 70 |  [jid](https://github.com/simeji/jid) | json incremental digger | simeji | 5543 |
+| 71 |  [mu](https://github.com/stelligent/mu) | A full-stack DevOps on AWS framework | stelligent | 925 |
+| 72 |  [huproxy](https://github.com/google/huproxy) |  | google | 217 |
+| 73 |  [komiser](https://github.com/mlabouardy/komiser) | :cloud: Cloud Environment Inspector 👮:lock: :moneybag: | mlabouardy | 2423 |
+| 74 |  [gron](https://github.com/tomnomnom/gron) | Make JSON greppable! | tomnomnom | 6298 |
+| 75 |  [redalert](https://github.com/jonog/redalert) | :rocket: continuously test all the things - trigger alerts on failure :boom: | jonog | 84 |
+| 76 |  [zsh-history](https://github.com/b4b4r07/zsh-history) | A plugin for zsh history extended by golang, dealing it like SQL | b4b4r07 | 76 |
+| 77 |  [awless](https://github.com/wallix/awless) | A Mighty CLI for AWS | wallix | 4590 |
+| 78 |  [peco](https://github.com/peco/peco) | Simplistic interactive filtering tool | peco | 5885 |
+| 79 |  [terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) | A @HashiCorp Terraform provider for managing Google Calendar events. | sethvargo | 102 |
+| 80 |  [terraboard](https://github.com/camptocamp/terraboard) | :earth_africa: :clipboard:  A web dashboard to inspect Terraform States | camptocamp | 932 |
+| 81 |  [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) | INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations. | crazy-canux | 303 |
+| 82 |  [beats](https://github.com/elastic/beats) | :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash | elastic | 8830 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Groovy
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [rundeck](https://github.com/rundeck/rundeck) | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | rundeck | 3751 |
+
+**[⬆ Back to Index](#-contents)**
+
+## HCL
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) | Terraform module which creates SNS topic and Lambda function which sends notifications to Slack | terraform-aws-modules | 220 |
+| 2 |  [KubeNow](https://github.com/kubenow/KubeNow) | Deploy Kubernetes. Now! | kubenow | 276 |
+| 3 |  [intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) | Sample code for the blog post &#34;An Introduction to Terraform&#34; | gruntwork-io | 399 |
+| 4 |  [start-docker-kubernetes](https://github.com/alicek106/start-docker-kubernetes) | 시작하세요! 도커, 그리고 쿠버네티스 책에서 사용되는 예제를 정리한 저장소입니다. | alicek106 | 14 |
+| 5 |  [reference-architectures](https://github.com/cloudposse/reference-architectures) | Get up and running quickly with one of our reference architecture using our fully automated cold-start process. | cloudposse | 100 |
+| 6 |  [govuk-aws](https://github.com/alphagov/govuk-aws) | The GOV.UK repository for our Migration to AWS | alphagov | 100 |
+| 7 |  [cztack](https://github.com/chanzuckerberg/cztack) | The CZI infrastructure stack. | chanzuckerberg | 30 |
+| 8 |  [tf_ghe_server](https://github.com/mengesb/tf_ghe_server) | Terraform GitHub Enterprise plan | mengesb | 3 |
+| 9 |  [best-practices](https://github.com/hashicorp/best-practices) |  | hashicorp | 1453 |
+| 10 |  [terraform-aws-cloudtrail-cloudwatch-alarms](https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms) | Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail. | cloudposse | 140 |
+| 11 |  [terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) | Terraform module which creates IAM resources on AWS | terraform-aws-modules | 216 |
+| 12 |  [terraform-ecs-fargate](https://github.com/turnerlabs/terraform-ecs-fargate) | A Terraform template used for provisioning web application stacks on AWS ECS Fargate | turnerlabs | 198 |
+| 13 |  [terraform-aws-cis-fundamentals](https://github.com/opsgang/terraform-aws-cis-fundamentals) | This Terraform module helps to setup an AWS account with the requirements of  CIS Amazon Web Services Foundations Benchmark v1.1.0 | opsgang | 16 |
+| 14 |  [cloud-custodian-docker](https://github.com/geekmuse/cloud-custodian-docker) | Containerized Deployment for Cloud Custodian | geekmuse | 4 |
+| 15 |  [terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) | Terraform Best Practices for AWS users | ozbillwang | 683 |
+| 16 |  [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) | Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations. | nozaq | 371 |
+| 17 |  [terraform-aws-vpc-peering-multi-account](https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account) | Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers | cloudposse | 28 |
+| 18 |  [terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) | Terraform module which creates EC2-VPC security groups on AWS | terraform-aws-modules | 256 |
+| 19 |  [solarch-assoc](https://github.com/jeremy-cc/solarch-assoc) | Solutions Architech Associate | jeremy-cc | 1 |
+| 20 |  [terraform-modules](https://github.com/rampart81/terraform-modules) | Terraform Modules | rampart81 | 4 |
+| 21 |  [tack](https://github.com/kz8s/tack) | Terraform module for creating Kubernetes cluster running on Container Linux by CoreOS in an AWS VPC | kz8s | 743 |
+
+**[⬆ Back to Index](#-contents)**
+
+## HTML
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) | DevOps Guide from basic to advanced with Interview Questions and Notes 🔥 | Tikam02 | 2772 |
+| 2 |  [awsiamlogin](https://github.com/naveen-vijay/awsiamlogin) | AWS IAM Login makes it easy to navigate across multiple AWS accounts through bookmarks. | naveen-vijay | 13 |
+| 3 |  [complete-aws-iam-reference](https://github.com/widdix/complete-aws-iam-reference) | Complete AWS IAM Reference | widdix | 206 |
+| 4 |  [dev-tips](https://github.com/HomoEfficio/dev-tips) | 개발하다 마주쳤던 작은 문제들과 해결 방법 정리 | HomoEfficio | 528 |
+| 5 |  [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) | Hands on labs and code to help you learn, measure, and build using architectural best practices. | awslabs | 814 |
+| 6 |  [portainer](https://github.com/portainer/portainer) | Making Docker management easy. | portainer | 14636 |
+| 7 |  [kibana_health_metric_vis](https://github.com/clamarque/kibana_health_metric_vis) | Plugin for kibana Version 4.x, 5.x, 6.x and 7.x to change color of metric depending to the planned state of health | clamarque | 46 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Haskell
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | Informative git prompt for zsh | olivierverdier | 1376 |
+| 2 |  [shellcheck](https://github.com/koalaman/shellcheck) | ShellCheck, a static analysis tool for shell scripts | koalaman | 19978 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Java
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [pipeline-aws-plugin](https://github.com/jenkinsci/pipeline-aws-plugin) | Jenkins Pipeline Step Plugin for AWS | jenkinsci | 338 |
+| 2 |  [aws-smtp-relay](https://github.com/loopingz/aws-smtp-relay) | Local SMTP server that convert SMTP message to AWS SES API Call to allow you to use role instance | loopingz | 34 |
+| 3 |  [AWSUtilities](https://github.com/cpopp/AWSUtilities) |  | cpopp | 2 |
+| 4 |  [aws-ec2-ssh](https://github.com/widdix/aws-ec2-ssh) | Manage AWS EC2 SSH access with IAM | widdix | 756 |
+| 5 |  [aphelion](https://github.com/FINRAOS/aphelion) | Aphelion is a web application that captures and visualizes your AWS services usage limits. It continuously collects data in the background and you can visualize the data in easy-to-see graphs and charts. | FINRAOS | 26 |
+| 6 |  [skywalking](https://github.com/apache/skywalking) | APM, Application Performance Monitoring System | apache | 13339 |
+| 7 |  [keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) | Adds a Metrics Endpoint to Keycloak | aerogear | 126 |
+| 8 |  [trusted-overlord](https://github.com/beeva/trusted-overlord) | Aggregate AWS Trusted Advisor alarms, AWS Health notifications and AWS Support cases from several AWS accounts | beeva | 74 |
+| 9 |  [keycloak-health-checks](https://github.com/thomasdarimont/keycloak-health-checks) | Keycloak Extension for health checks | thomasdarimont | 68 |
+| 10 |  [BashSupport](https://github.com/BashSupport/BashSupport) | Bash and shell script language support for JetBrains IDEs | BashSupport | 559 |
+| 11 |  [keycloak-monitoring-prometheus](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus) | Monitor your keycloak with prometheus | larscheid-schmitzhermes | 51 |
+| 12 |  [keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applications and Services | keycloak | 6189 |
+| 13 |  [fullstop](https://github.com/zalando-stups/fullstop) | Audit reporting: collect violations across all AWS accounts | zalando-stups | 39 |
+| 14 |  [pacbot](https://github.com/tmobile/pacbot) | PacBot (Policy as Code Bot) | tmobile | 862 |
+| 15 |  [newrelic-api](https://github.com/opsmatters/newrelic-api) | Java client library for the New Relic Monitoring and Alerting REST APIs built using Jersey and Gson. | opsmatters | 8 |
+| 16 |  [pwm](https://github.com/pwm-project/pwm) | pwm | pwm-project | 563 |
+| 17 |  [cloudwatch-logs-subscription-consumer](https://github.com/amazon-archives/cloudwatch-logs-subscription-consumer) | A specialized Amazon Kinesis stream reader (based on the Amazon Kinesis Connector Library) that can help you deliver data from Amazon CloudWatch Logs to any other system in near real-time using a CloudWatch Logs Subscription Filter. | amazon-archives | 393 |
+| 18 |  [soundwave](https://github.com/pinterest/soundwave) | A searchable EC2 Inventory store | pinterest | 96 |
+| 19 |  [ice](https://github.com/Teevity/ice) | AWS Usage Tool | Teevity | 2687 |
+| 20 |  [AWS_Tutorials](https://github.com/qyjohn/AWS_Tutorials) |  | qyjohn | 26 |
+| 21 |  [elasticsearch-http-user-auth](https://github.com/elasticfence/elasticsearch-http-user-auth) | HTTP Basic Authentication and IP ACL plugin for Elasticsearch :key: (UNMAINTAINED) | elasticfence | 142 |
+
+**[⬆ Back to Index](#-contents)**
+
+## JavaScript
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [aws-account-controller](https://github.com/iann0036/aws-account-controller) | Self-service creation and deletion of sandbox-style accounts. | iann0036 | 220 |
+| 2 |  [learn-aws-lambda](https://github.com/dwyl/learn-aws-lambda) | :sparkles: Learn how to use AWS Lambda to easily create infinitely scalable web services | dwyl | 869 |
+| 3 |  [former2](https://github.com/iann0036/former2) | Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources. | iann0036 | 400 |
+| 4 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | 📋 Creating your own Awesome List of GitHub stars! | abhijithvijayan | 257 |
+| 5 |  [emr-slack-notify](https://github.com/rkr2017/emr-slack-notify) | AWS Lambda function to send EMR events to Slack via SNS | rkr2017 | 1 |
+| 6 |  [1on1-questions](https://github.com/VGraupera/1on1-questions) | Mega list of 1 on 1 meeting questions compiled from a variety to sources | VGraupera | 7614 |
+| 7 |  [blast-radius](https://github.com/28mm/blast-radius) | Interactive visualizations of Terraform dependency graphs using d3.js | 28mm | 985 |
+| 8 |  [auto-remediate](https://github.com/cloudconformity/auto-remediate) | Cloud Conformity Auto Remediate | cloudconformity | 90 |
+| 9 |  [aws-to-slack](https://github.com/arabold/aws-to-slack) | Forward AWS CloudWatch Alarms and other notifications from Amazon SNS to Slack. | arabold | 221 |
+| 10 |  [aws-multi-account-viewer](https://github.com/awslabs/aws-multi-account-viewer) | Serverless app designed for any customer with two or more accounts to view resources across accounts/regions in simple single pane of glass website | awslabs | 54 |
+| 11 |  [aws_console_extension](https://github.com/jncharon/aws_console_extension) | This extension changes the AWS console header color depending on the region you selected. This visual hint will help you avoid creating resources in the wrong region ! | jncharon | 2 |
+| 12 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 12240 |
+| 13 |  [Lepton](https://github.com/hackjutsu/Lepton) | 💻    Democratizing Snippet Management (macOS/Win/Linux) | hackjutsu | 7543 |
+| 14 |  [JustSupport](https://github.com/justeat/JustSupport) |  | justeat | 15 |
+| 15 |  [stretchly](https://github.com/hovancik/stretchly) | break time reminder app | hovancik | 1661 |
+| 16 |  [ramme](https://github.com/terkelg/ramme) | Unofficial Instagram Desktop App. | terkelg | 3239 |
+| 17 |  [lambda-cloudwatch-slack](https://github.com/assertible/lambda-cloudwatch-slack) | Send AWS CloudWatch notifications to a Slack channel using Lambda | assertible | 309 |
+| 18 |  [AWSConsoleRecorderGenerator](https://github.com/iann0036/AWSConsoleRecorderGenerator) | A helper extension that is used to assist in the development of the Console Recorder for AWS. | iann0036 | 69 |
+| 19 |  [aws-lambda](https://github.com/blueimp/aws-lambda) | Collection of functions for AWS Lambda | blueimp | 239 |
+| 20 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers | awesome-selfhosted | 44511 |
+| 21 |  [consigliere](https://github.com/newscorpaus/consigliere) | Multi-account AWS Trusted Advisor Dashboard | newscorpaus | 35 |
+| 22 |  [awx](https://github.com/ansible/awx) | AWX Project | ansible | 7775 |
+| 23 |  [ec2-event-slack-notifier](https://github.com/dtan4/ec2-event-slack-notifier) | AWS Lambda function / Docker image to notify EC2 Scheduled Events to Slack | dtan4 | 9 |
+| 24 |  [learnGitBranching](https://github.com/pcottle/learnGitBranching) | An interactive git visualization to challenge and educate! | pcottle | 17666 |
+| 25 |  [page-translator](https://github.com/jeremiahlee/page-translator) | One-click in-line page translation for Firefox | jeremiahlee | 112 |
+| 26 |  [scans](https://github.com/cloudsploit/scans) | Cloud security configuration checks | cloudsploit | 976 |
+| 27 |  [fusuma](https://github.com/hiroppy/fusuma) | ✍️Fusuma makes slides with Markdown easily. | hiroppy | 3671 |
+| 28 |  [aws-cloudwatch-chart-slack](https://github.com/tmtk75/aws-cloudwatch-chart-slack) | Renderer for AWS CloudWatch Chart and Uploader to Slack | tmtk75 | 30 |
+| 29 |  [vizceral](https://github.com/Netflix/vizceral) | WebGL visualization for displaying animated traffic graphs | Netflix | 3521 |
+| 30 |  [NaverCafePass](https://github.com/joyfuI/NaverCafePass) | 네이버 카페 게시글 중 검색 허용되었으나 맴버공개인 글을 카페 가입없이 바로 볼 수 있게 해주는 브라우저 확장입니다. | joyfuI | 26 |
+| 31 |  [slack-to-opsgenie-alert-creator](https://github.com/opsgenie/slack-to-opsgenie-alert-creator) | Create alerts from messages sent to a Slack channel | opsgenie | 16 |
+| 32 |  [awsp](https://github.com/johnnyopao/awsp) | Switch AWS Profiles Easily | johnnyopao | 102 |
+| 33 |  [aws-lambda-edge-workshops](https://github.com/aws-samples/aws-lambda-edge-workshops) | This repository contains instructions and blueprints for Lambda@Edge workshops | aws-samples | 86 |
+| 34 |  [aws-lambda-workshop](https://github.com/lucpod/aws-lambda-workshop) | Some incremental examples suitable to host an AWS Lambda Functions workshop | lucpod | 19 |
+| 35 |  [aws-lambda-zombie-workshop](https://github.com/aws-samples/aws-lambda-zombie-workshop) | Code and walkthrough labs to set up a serverless chat application for the Zombie Apocalypse Workshop | aws-samples | 622 |
+| 36 |  [cloudmapper](https://github.com/duo-labs/cloudmapper) | CloudMapper helps you analyze your Amazon Web Services (AWS) environments. | duo-labs | 3491 |
+| 37 |  [cabot](https://github.com/arachnys/cabot) | Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty | arachnys | 4790 |
+| 38 |  [citizen](https://github.com/outsideris/citizen) | A Private Terraform Module Registry | outsideris | 149 |
+| 39 |  [hids-cloudwatchlogs-elasticsearch-template](https://github.com/awslabs/hids-cloudwatchlogs-elasticsearch-template) | Monitor Host-Based Intrusion Detection System Alerts on Amazon EC2 Instances | awslabs | 50 |
+| 40 |  [aws-limit-monitor](https://github.com/awslabs/aws-limit-monitor) | Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API. | awslabs | 238 |
+| 41 |  [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) | A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events. | indix | 130 |
+| 42 |  [auto-tag](https://github.com/GorillaStack/auto-tag) | Automatically tag AWS resources on creation, for cost assignment | GorillaStack | 261 |
+| 43 |  [airpass](https://github.com/alvesjtiago/airpass) | Airpass - status bar Mac app to overcome time constrained WiFi networks. | alvesjtiago | 320 |
+| 44 |  [Boostnote](https://github.com/BoostIO/Boostnote) | A markdown editor for developers on Mac, Windows and Linux. | BoostIO | 16933 |
+| 45 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 46453 |
+| 46 |  [dockly](https://github.com/lirantal/dockly) | Immersive terminal interface for managing docker containers and services | lirantal | 2605 |
+| 47 |  [markdownlint](https://github.com/DavidAnson/markdownlint) | A Node.js style checker and lint tool for Markdown/CommonMark files. | DavidAnson | 1953 |
+| 48 |  [gotodir](https://github.com/Wowu/gotodir) | Simple command line app for fast directory switching ⚡️ | Wowu | 22 |
+| 49 |  [logtrail](https://github.com/sivasamyk/logtrail) | Kibana plugin to view, search &amp; live tail log events | sivasamyk | 1281 |
+| 50 |  [standup-slack-bot](https://github.com/18F/standup-slack-bot) | A Slack bot to streamline team standup without disturbing the overall flow of conversation | 18F | 87 |
+| 51 |  [alfred-melon-youtube](https://github.com/hyunchel/alfred-melon-youtube) | :womans_hat: Alfred Workflow that creates a Youtube playlist with Melon chart. | hyunchel | 1 |
+| 52 |  [pro-CoinAnalyzer](https://github.com/visualkhh/pro-CoinAnalyzer) | pro-CoinAnalyzer | visualkhh | 7 |
+| 53 |  [aws-dashing](https://github.com/thibaultlaurens/aws-dashing) | simple aws dashboard powered by Dashing &amp; Node.js | thibaultlaurens | 59 |
+| 54 |  [overtime-cli](https://github.com/diit/overtime-cli) | Easy time-overlap tables for remote teams. | diit | 389 |
+| 55 |  [Domain-Status-Checker](https://github.com/skamsie/Domain-Status-Checker) | Gets ip, http return code and domain name registrar of domains | skamsie | 9 |
+| 56 |  [zabirepo](https://github.com/usiusi360/zabirepo) | Dashboard using the API of Zabbix | usiusi360 | 81 |
+| 57 |  [livepython](https://github.com/agermanidis/livepython) | Visually trace Python code in real-time. | agermanidis | 2438 |
+| 58 |  [google_calendar_to_csv](https://github.com/yunho0130/google_calendar_to_csv) | Please use google app script on google spread sheet | yunho0130 | 2 |
+| 59 |  [gtop](https://github.com/aksakalli/gtop) | System monitoring dashboard for terminal | aksakalli | 8131 |
+| 60 |  [fuzzysort](https://github.com/farzher/fuzzysort) | Fast SublimeText-like fuzzy search for JavaScript. | farzher | 2232 |
+| 61 |  [fenix](https://github.com/coreybutler/fenix) | A simple and visual static web server with collaboration features. | coreybutler | 1462 |
+| 62 |  [slackin](https://github.com/rauchg/slackin) | Public Slack organizations made easy | rauchg | 6284 |
+| 63 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 37699 |
+| 64 |  [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards. | Kristories | 4238 |
+| 65 |  [UsedBookApp](https://github.com/lyvius2/UsedBookApp) | 중고책 구매/매각가 검색 앱 | lyvius2 | 2 |
+| 66 |  [miio](https://github.com/aholstenson/miio) | Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more | aholstenson | 1325 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Jupyter Notebook
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [aws-security-workshops](https://github.com/aws-samples/aws-security-workshops) | A collection of the latest AWS Security workshops | aws-samples | 279 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Kotlin
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [swabbie](https://github.com/spinnaker/swabbie) | Spinnaker&#39;s clean up service | spinnaker | 186 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Lua
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [robin](https://github.com/zmallen/robin) |  | zmallen | 4 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Makefile
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | A curated list for awesome kubernetes sources :ship::tada: | ramitsurana | 9800 |
+| 2 |  [dockerfiles](https://github.com/zcalusic/dockerfiles) | A collection of Docker recipes. | zcalusic | 19 |
+| 3 |  [prowler](https://github.com/unchartedsky/prowler) | Docker image for toniblyx/prowler | unchartedsky | 12 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Objective-C
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [shuttle](https://github.com/fitztrev/shuttle) | A simple shortcut menu for macOS | fitztrev | 4154 |
+| 2 |  [Elastics](https://github.com/tundrabot/Elastics) | Monitor your AWS EC2 instances from your Mac menubar. | tundrabot | 25 |
+| 3 |  [Cakebrew](https://github.com/brunophilipe/Cakebrew) | Manage your Homebrew formulas with style using Cakebrew. | brunophilipe | 3293 |
+| 4 |  [AnyBar](https://github.com/tonsky/AnyBar) | OS X menubar status indicator | tonsky | 5235 |
+| 5 |  [LuLu](https://github.com/objective-see/LuLu) | LuLu is the free macOS firewall | objective-see | 3635 |
+| 6 |  [bitbar](https://github.com/matryer/bitbar) | Put the output from any script or program in your Mac OS X Menu Bar | matryer | 12539 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Others
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) | A curated list of awesome ECS guides, development tools, and resources | nathanpeck | 2176 |
+| 2 |  [monitoring-jump-start](https://github.com/marbot-io/monitoring-jump-start) | Monitor AWS resources with ease | marbot-io | 46 |
+| 3 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 32337 |
+| 4 |  [awesome-devblog](https://github.com/sarojaba/awesome-devblog) | 어썸데브블로그. 국내 개발 블로그 모음(only 실명으로). | sarojaba | 1836 |
+| 5 |  [aws-real-time-use-cases](https://github.com/miztiik/aws-real-time-use-cases) | Repo containing quick starts for real time AWS use cases | miztiik | 13 |
+| 6 |  [aws-cloud-cost-management](https://github.com/ravsau/aws-cloud-cost-management) | A collection of ways and tips to save money in the AWS cloud. | ravsau | 2 |
+| 7 |  [presentations](https://github.com/devopswroclaw/presentations) | DevOps Wroclaw Meetup – Presentations | devopswroclaw | 11 |
+| 8 |  [security-remediation-guides](https://github.com/cloudsploit/security-remediation-guides) | Security Remediation Guides | cloudsploit | 78 |
+| 9 |  [amazon-vpc-user-guide](https://github.com/awsdocs/amazon-vpc-user-guide) | The open source version of the Amazon VPC docs. You can submit feedback and requests for changes by submitting issues in this repo or by making proposed changes and submitting a pull request. | awsdocs | 69 |
+| 10 |  [amazon-ec2-auto-scaling-user-guide](https://github.com/awsdocs/amazon-ec2-auto-scaling-user-guide) | The open source version of the Amazon EC2 Auto Scaling User Guide | awsdocs | 32 |
+| 11 |  [awesome-cloudcustodian](https://github.com/myoung34/awesome-cloudcustodian) | A curated list of things relating to CapitalOne&#39;s Cloud-custodian project | myoung34 | 69 |
+| 12 |  [cloud-custodian-demo](https://github.com/1Strategy/cloud-custodian-demo) | Cloud Custodian example policies that remediate security issues, enforce tagging, and control costs | 1Strategy | 40 |
+| 13 |  [awesome-okr](https://github.com/domenicosolazzo/awesome-okr) | A curated list about OKR (Objective - Key Results) | domenicosolazzo | 927 |
+| 14 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 14824 |
+| 15 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs | matiassingers | 6357 |
+| 16 |  [architecture-group](https://github.com/awskrug/architecture-group) | AWSKRUG architecutre small group | awskrug | 45 |
+| 17 |  [awesome-devteam](https://github.com/leehosung/awesome-devteam) | 좋은 개발팀을 만드는데 도움이 되는 자료 | leehosung | 557 |
+| 18 |  [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) | A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs. | RhinoSecurityLabs | 598 |
+| 19 |  [aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources) | :key: Collection of useful AWS IAM Resources &amp; Policies | ellerbrock | 11 |
+| 20 |  [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) | :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader: | JaeYeopHan | 4032 |
+| 21 |  [reverse-interview](https://github.com/viraptor/reverse-interview) | Questions to ask the company during your interview | viraptor | 13536 |
+| 22 |  [engineering-general](https://github.com/NYPL/engineering-general) | Standards, values, and other information relevant to the NYPL Engineering Team. | NYPL | 32 |
+| 23 |  [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) | 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. | kylelobo | 3450 |
+| 24 |  [cloud-aws](https://github.com/szczepanski/cloud-aws) |  | szczepanski | 2 |
+| 25 |  [aws-systems-manager-user-guide](https://github.com/awsdocs/aws-systems-manager-user-guide) | The open source version of the AWS Systems Manager user guide. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. | awsdocs | 54 |
+| 26 |  [aws-securitygroup-grapher](https://github.com/jeanlouisferey/aws-securitygroup-grapher) | This ansible role gets information from an AWS VPC and generate a graphical representation of security groups | jeanlouisferey | 86 |
+| 27 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 75411 |
+| 28 |  [devsecops-cloud-custodian-rules](https://github.com/GSA/devsecops-cloud-custodian-rules) | [WORK IN PROGRESS] A repo containing rule sets for cloud-custodian inside GSA AWS accounts. This repo does not contain cloud-custodian itself. | GSA | 23 |
+| 29 |  [aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) | List of changes announced for AWS that may break existing code | SummitRoute | 368 |
+| 30 |  [developers-retrospective](https://github.com/oaksong/developers-retrospective) | 개발자 회고 모음 | oaksong | 438 |
+| 31 |  [awesome-agile](https://github.com/lorabv/awesome-agile) | Awesome List of resources on Agile Software Development. | lorabv | 663 |
+| 32 |  [grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) | :cloud: 20+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ... | monitoringartist | 1009 |
+| 33 |  [tutorial-git](https://github.com/KennethanCeyer/tutorial-git) | :blue_book: 어떻게 깃을 사용하는지 빠르게 알아봅시다. (Quick learn How to use Git.) | KennethanCeyer | 160 |
+| 34 |  [c7n-docker](https://github.com/knowshan/c7n-docker) | Cloud Custodian Docker images for end-users developing on top of base c7n | knowshan | 1 |
+| 35 |  [ansible-init](https://github.com/davestern/ansible-init) | An ansible playbook for creating ansible playbooks | davestern | 59 |
+| 36 |  [awssecurity](https://github.com/stuhirst/awssecurity) | for AWS Security material | stuhirst | 215 |
+| 37 |  [awesome-sysadmin2](https://github.com/craftbyte/awesome-sysadmin2) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | craftbyte | 2 |
+| 38 |  [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) | A curated list of resources for learning about http://www.keycloak.org | thomasdarimont | 537 |
+| 39 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 19360 |
+| 40 |  [terraform-style-guide](https://github.com/jonbrouse/terraform-style-guide) | This repository gives coding conventions for Terraform&#39;s HashiCorp Configuration Language (HCL). | jonbrouse | 72 |
+| 41 |  [iam-user-guide](https://github.com/awsdocs/iam-user-guide) | Official documentation source for the AWS Identity and Access Management (IAM) User Guide | awsdocs | 196 |
+| 42 |  [learn-amazon-web-services](https://github.com/dwyl/learn-amazon-web-services) | :star: Amazing Guide to using Amazon Web Services (AWS)! :cloud: | dwyl | 61 |
+| 43 |  [aws-notes](https://github.com/avinashadev/aws-notes) | Amazon web services notes for certification exams | avinashadev | 1 |
+| 44 |  [awesome-devops](https://github.com/mikewootini/awesome-devops) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome Sysadmin and Awesome PHP. | mikewootini | 71 |
+| 45 |  [amas](https://github.com/sindresorhus/amas) | Awesome &amp; Marvelous Amas | sindresorhus | 1222 |
+| 46 |  [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. | kelseyhightower | 21237 |
+| 47 |  [amazon-ec2-user-guide](https://github.com/awsdocs/amazon-ec2-user-guide) | The open source version of the Amazon EC2 User Guide for Linux. To submit feedback or requests for changes, submit an issue or make changes and submit a pull request. | awsdocs | 293 |
+| 48 |  [transit-gateway-migrator](https://github.com/secureoptions/transit-gateway-migrator) | A tool written in python which will seamlessly migrate network traffic away from transit-vpc to AWS Transit Gateway | secureoptions | 7 |
+| 49 |  [aws-lambda-list](https://github.com/unixorn/aws-lambda-list) | A list of hopefully useful AWS lambdas and lambda-related resources. | unixorn | 123 |
+| 50 |  [aws-cost-management-user-guide](https://github.com/awsdocs/aws-cost-management-user-guide) | The open source version of the AWS Billing and Cost Management docs. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. | awsdocs | 41 |
+| 51 |  [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) | Docker Cheat Sheet | wsargent | 18287 |
+| 52 |  [amazon-efs-tutorial](https://github.com/aws-samples/amazon-efs-tutorial) | This tutorial is designed to help you better understand the performance characteristics of Amazon Elastic File System | aws-samples | 105 |
+| 53 |  [replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) | Guide on using using python for administrative scripting | ninjaaron | 781 |
+| 54 |  [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | 🖥 📊 🕹 🛠 A curated list of command line apps | agarrharr | 5954 |
+| 55 |  [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A. | trimstray | 6672 |
+| 56 |  [my-links](https://github.com/jturgasen/my-links) | Knowledge seeks no man | jturgasen | 279 |
+| 57 |  [diskover](https://github.com/shirosaidev/diskover) | File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch | shirosaidev | 817 |
+| 58 |  [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources. | n1trux | 10354 |
+| 59 |  [awesome-devenv](https://github.com/jondot/awesome-devenv) | A curated list of awesome tools, resources and workflow tips making an awesome development environment. | jondot | 1807 |
+| 60 |  [aws_manager_plugin](https://github.com/EslamElHusseiny/aws_manager_plugin) | Oh My ZSH plugin for aws_manager CLI | EslamElHusseiny | 1 |
+| 61 |  [amazon-route53-docs](https://github.com/awsdocs/amazon-route53-docs) | Documentation for Amazon Route 53. Amazon Route 53 is a web service that provides DNS service, domain name registration, and automatic endpoint naming. | awsdocs | 44 |
+| 62 |  [HomeAssistant-Presentation](https://github.com/ArnaudLoos/HomeAssistant-Presentation) | A presentation on Home Assistant, the open-source home automation hub | ArnaudLoos | 66 |
+| 63 |  [Keyboardgym](https://github.com/jaymeh13/Keyboardgym) | A collection of exercise videos and ergonomic gear for preventing and alleviating repetitive strain injuries (RSI) | jaymeh13 | 511 |
+| 64 |  [awsstudy](https://github.com/sarcio/awsstudy) | Amazon Web Services | sarcio | 3 |
+| 65 |  [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) | A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch! | dzharii | 3508 |
+| 66 |  [logstash_filter_infoblox](https://github.com/willemdh/logstash_filter_infoblox) | A Logstash filter for Infoblox named and dhcpd syslog. | willemdh | 6 |
+| 67 |  [cis-rhel-ansible](https://github.com/major/cis-rhel-ansible) | Ansible playbooks for CIS Benchmarks on RHEL/CentOS 6 | major | 318 |
+| 68 |  [ami-builder-packer](https://github.com/awslabs/ami-builder-packer) | An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible. | awslabs | 379 |
+| 69 |  [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) | Collection of helpful tips and tricks for VS Code. | microsoft | 8091 |
+| 70 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 133235 |
+| 71 |  [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | thedaviddias | 39307 |
+| 72 |  [shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) | A collection of user-submitted shortcuts for Shortcuts for iOS. | jordanmerrick | 353 |
+| 73 |  [meetup](https://github.com/eskrug/meetup) | 한국 Elasticsearch 사용자그룹 밋업 관련 자료들을 모아놓는 곳입니다. / Korea ES Usergroup Meetup resources | eskrug | 13 |
+| 74 |  [dracula-theme](https://github.com/dracula/dracula-theme) | 🧛🏻‍♂️ Dark theme for all the things! | dracula | 12409 |
+| 75 |  [chrome-extensions-for-webdeveloper](https://github.com/ellerbrock/chrome-extensions-for-webdeveloper) | :ox:  A list with useful Chrome Extensions | ellerbrock | 15 |
+| 76 |  [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) | A collection of awesome browser extensions for GitHub. | stefanbuck | 1910 |
+| 77 |  [hyperzsh](https://github.com/tylerreckart/hyperzsh) | A hyperminimal zsh prompt | tylerreckart | 443 |
+| 78 |  [awesome-ssh](https://github.com/moul/awesome-ssh) | :computer: A curated list of SSH resources. | moul | 1312 |
+| 79 |  [awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of Site Reliability and Production Engineering resources. | dastergon | 4983 |
+| 80 |  [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) | 비공식 AWS 공인 솔루션스 아키텍트 – 어소시에이트 시험 가이드 | serithemage | 387 |
+| 81 |  [awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects | veggiemonk | 17832 |
+| 82 |  [git-tips](https://github.com/mingrammer/git-tips) | :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전) | mingrammer | 772 |
+| 83 |  [idrac-configure-script](https://github.com/hurulu/idrac-configure-script) | Using racadm to configure idrac under command line | hurulu | 1 |
+| 84 |  [Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki) | A wiki of  DataScience, Statistics, Maths, R,Python, AI, Machine Learning,  Automation, Devops Tools, Bash, Linux Tutorials, Scripts and Datasets | Leo-G | 4605 |
+| 85 |  [review](https://github.com/anoakb/review) | questions from https://github.com/chassing/linux-sysadmin-interview-questions | anoakb | 2 |
+| 86 |  [linux-operations-interview-questions](https://github.com/anonymuse/linux-operations-interview-questions) | Collection of linux sysadmin/devop interview questions | anonymuse | 4 |
+| 87 |  [linux-sysadmin-interview-questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions) | A list of some of the questions which I&#39;ve had to know during linux syadmin / devops interviews. | kylejohnson | 114 |
+| 88 |  [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) | Collection of Linux Sysadmin/DevOps interview questions | chassing | 3805 |
+| 89 |  [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) | A collection of links related to Linux kernel exploitation | xairy | 2876 |
+| 90 |  [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | kahun | 19747 |
+| 91 |  [workflows](https://github.com/Shephexd/workflows) | workflows of Alfred | Shephexd | 7 |
+| 92 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2020 | kamranahmedse | 108383 |
+| 93 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 101682 |
+| 94 |  [landscape](https://github.com/cncf/landscape) | 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. | cncf | 6398 |
+
+**[⬆ Back to Index](#-contents)**
+
+## PHP
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [jetbrains-alfred-workflow](https://github.com/bchatard/jetbrains-alfred-workflow) | Open a project with one of JetBrains&#39; product. | bchatard | 315 |
+| 2 |  [style-guide](https://github.com/ridi/style-guide) | 📘 Rules of Play @ RIDI | ridi | 162 |
+| 3 |  [ssh-key-authority](https://github.com/operasoftware/ssh-key-authority) | A tool for managing SSH key access to any number of servers. | operasoftware | 324 |
+| 4 |  [Instagram-Data-Scraper](https://github.com/neerajsinghsonu/Instagram-Data-Scraper) | Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes, comments, post count, images, likes on images etc...  You can search @account information and #hash-tag simultaneously by using space separated words in search box jQuery is using to build the Awesome View, to handle each and every request separately. I hope you like this small chunk of code  All code is well commented to understand the flow and functionality, if I missed something or any improvement/suggestion you have, kindly let me know.. | neerajsinghsonu | 298 |
+| 5 |  [Alfred-Workflows](https://github.com/dingyi/Alfred-Workflows) | Alfred&#39;s Workflows, Themes, etc. | dingyi | 59 |
+| 6 |  [Nagios-Dashboard](https://github.com/poblabs/Nagios-Dashboard) | A clean and simple overview of your Nagios environment optimized for wall mounted TV displays. | poblabs | 3 |
+| 7 |  [alfred2-currencyconverter](https://github.com/bigluck/alfred2-currencyconverter) | A simple Alfred 2 Currency Converter workflow | bigluck | 156 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Perl
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [sysadmin-util](https://github.com/skx/sysadmin-util) | Tools for Linux/Unix sysadmins. | skx | 686 |
+| 2 |  [monitor-aws-status](https://github.com/hirose31/monitor-aws-status) | checks AWS service health dashboard periodically and notifies us a new problem by IRC | hirose31 | 7 |
+
+**[⬆ Back to Index](#-contents)**
+
+## PowerShell
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [arc325-multiple-accounts-workshop](https://github.com/aws-samples/arc325-multiple-accounts-workshop) | Lab materials and documentation for the workshop ARC325 Managing Multiple Accounts at Scale at re:Invent 2017 | aws-samples | 73 |
+
+**[⬆ Back to Index](#-contents)**
 
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -251,91 +708,10 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## Go
+## Roff
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-podcasts](https://github.com/pbnj/awesome-podcasts) | 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts | pbnj | 173 |
-| 2 |  [curse](https://github.com/mikesmitty/curse) | CURSE is an SSH certificate signing server, built as an alternative to Netflix&#39;s BLESS tool, but without a dependency on AWS. | mikesmitty | 180 |
-| 3 |  [ssmsh](https://github.com/bwhaley/ssmsh) | A shell for the EC2 Parameter Store | bwhaley | 208 |
-| 4 |  [awsweeper](https://github.com/cloudetc/awsweeper) | A tool for cleaning your AWS account | cloudetc | 210 |
-| 5 |  [terracognita](https://github.com/cycloidio/terracognita) | Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration | cycloidio | 279 |
-| 6 |  [aws-env](https://github.com/Droplr/aws-env) | Secure way to handle environment variables in Docker and envfile with AWS Parameter Store | Droplr | 301 |
-| 7 |  [panther](https://github.com/panther-labs/panther) | Detect threats with log data and improve cloud security posture | panther-labs | 571 |
-| 8 |  [tflint](https://github.com/terraform-linters/tflint) | TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform &amp;gt;= 0.12) | terraform-linters | 1538 |
-| 9 |  [hubble](https://github.com/cilium/hubble) | Hubble - Network, Service &amp; Security Observability for Kubernetes | cilium | 865 |
-| 10 |  [kubectl-tree](https://github.com/ahmetb/kubectl-tree) | kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (using? star the repo!) | ahmetb | 1469 |
-| 11 |  [shhgit](https://github.com/eth0izzle/shhgit) | Ah shhgit! Find GitHub secrets in real time | eth0izzle | 2250 |
-| 12 |  [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) | Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances | AutoSpotting | 1690 |
-| 13 |  [sops](https://github.com/mozilla/sops) | Simple and flexible tool for managing secrets | mozilla | 4272 |
-| 14 |  [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image | wagoodman | 20016 |
-| 15 |  [go-aws-news](https://github.com/circa10a/go-aws-news) | Fetch what&#39;s new from AWS | circa10a | 6 |
-| 16 |  [route53-cleaner](https://github.com/caarlos0-graveyard/route53-cleaner) | [WIP] Suggests records that could be deleted from your AWS Route53 hosted zones | caarlos0-graveyard | 11 |
-| 17 |  [sync-ssh-keys](https://github.com/samber/sync-ssh-keys) | 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership. | samber | 72 |
-| 18 |  [trackiam](https://github.com/glassechidna/trackiam) | A project to collate IAM actions, AWS APIs and managed policies from various public sources. | glassechidna | 58 |
-| 19 |  [scenery](https://github.com/dmlittle/scenery) | A Terraform plan output prettifier | dmlittle | 337 |
-| 20 |  [teleport](https://github.com/gravitational/teleport) | Zero Trust Access to Infrastructure and Applications | gravitational | 8080 |
-| 21 |  [kube-aws](https://github.com/kubernetes-incubator/kube-aws) | A command-line tool to declaratively manage Kubernetes clusters on AWS | kubernetes-incubator | 1124 |
-| 22 |  [finala](https://github.com/similarweb/finala) | A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses. | similarweb | 439 |
-| 23 |  [assume-role](https://github.com/remind101/assume-role) | Easily assume AWS roles in your terminal. | remind101 | 386 |
-| 24 |  [usql](https://github.com/xo/usql) | Universal command-line interface for SQL databases | xo | 5865 |
-| 25 |  [cloudtrailbeat](https://github.com/aidan-/cloudtrailbeat) | Easily export AWS CloudTrail events to ElasticSearch | aidan- | 29 |
-| 26 |  [aws-lb-readvertiser](https://github.com/gardener/aws-lb-readvertiser) | Reacts on changes of the underlying ip addresses of AWS elastic load balancers. | gardener | 4 |
-| 27 |  [gossm](https://github.com/gjbae1212/gossm) | 💻Interactive CLI tool that you can connect to ec2 using commands same as start-session, ssh in AWS SSM Session Manager | gjbae1212 | 95 |
-| 28 |  [terratest](https://github.com/gruntwork-io/terratest) | Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. | gruntwork-io | 3875 |
-| 29 |  [sloop](https://github.com/salesforce/sloop) | Kubernetes History Visualization | salesforce | 535 |
-| 30 |  [sampler](https://github.com/sqshq/sampler) | Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. | sqshq | 7977 |
-| 31 |  [terraformer](https://github.com/GoogleCloudPlatform/terraformer) | CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code | GoogleCloudPlatform | 2863 |
-| 32 |  [k9s](https://github.com/derailed/k9s) | 🐶 Kubernetes CLI To Manage Your Clusters In Style! | derailed | 6590 |
-| 33 |  [decolink](https://github.com/seapy/decolink) | Decoration link | seapy | 26 |
-| 34 |  [octant](https://github.com/vmware-tanzu/octant) | Highly extensible platform for developers to better understand the complexity of Kubernetes clusters. | vmware-tanzu | 3949 |
-| 35 |  [chaoskube](https://github.com/linki/chaoskube) | chaoskube periodically kills random pods in your Kubernetes cluster. | linki | 1154 |
-| 36 |  [kubeval](https://github.com/instrumenta/kubeval) | Validate your Kubernetes configuration files, supports multiple Kubernetes versions | instrumenta | 1794 |
-| 37 |  [ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) | An implementation of an SSH certificate authority. | cloudtools | 598 |
-| 38 |  [jira](https://github.com/go-jira/jira) | simple jira command line client in Go | go-jira | 1889 |
-| 39 |  [aws-metadata-proxy](https://github.com/Netflix-Skunkworks/aws-metadata-proxy) | AWS Metadata Proxy for protection against SSRF | Netflix-Skunkworks | 64 |
-| 40 |  [argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous deployment for Kubernetes. | argoproj | 2968 |
-| 41 |  [chamber](https://github.com/segmentio/chamber) | CLI for managing secrets | segmentio | 1587 |
-| 42 |  [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) | Terraform AWS provider | terraform-providers | 4209 |
-| 43 |  [awslambdaproxy](https://github.com/dan-v/awslambdaproxy) | An AWS Lambda powered HTTP/SOCKS web proxy | dan-v | 503 |
-| 44 |  [iamy](https://github.com/99designs/iamy) | A cli tool for importing and exporting AWS IAM configuration to YAML files | 99designs | 188 |
-| 45 |  [kubectx](https://github.com/ahmetb/kubectx) | Faster way to switch between clusters and namespaces in kubectl | ahmetb | 7323 |
-| 46 |  [bigbrother](https://github.com/DailyHotel/bigbrother) | Notify when IP addresses of AWS ELB are changed | DailyHotel | 2 |
-| 47 |  [cw](https://github.com/lucagrulla/cw) | The best way to tail AWS CloudWatch Logs from your terminal | lucagrulla | 260 |
-| 48 |  [alfred-maestro](https://github.com/iansinnott/alfred-maestro) | An Alfred workflow to execute Keyboard Maestro macros. | iansinnott | 268 |
-| 49 |  [ksniff](https://github.com/eldadru/ksniff) | Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark | eldadru | 855 |
-| 50 |  [gauth](https://github.com/pcarrier/gauth) | Google Authenticator on your laptop | pcarrier | 141 |
-| 51 |  [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP | Versent | 755 |
-| 52 |  [aws-limits-exporter](https://github.com/danielfm/aws-limits-exporter) | Expose AWS service usage and limits to Prometheus | danielfm | 26 |
-| 53 |  [aws-nuke](https://github.com/rebuy-de/aws-nuke) | Nuke a whole AWS account and delete all its resources. | rebuy-de | 1061 |
-| 54 |  [aws-keycloak](https://github.com/mulesoft-labs/aws-keycloak) | aws-vault like tool for Keycloak authentication | mulesoft-labs | 15 |
-| 55 |  [yet-another-cloudwatch-exporter](https://github.com/ivx/yet-another-cloudwatch-exporter) | AWS cloudwatch to prometheus exporter - Discovers services through AWS tags, gets cloudwatch data and provides them as prometheus metrics with AWS tags as labels. | ivx | 131 |
-| 56 |  [utern](https://github.com/knqyf263/utern) | Multi group and stream log tailing for AWS CloudWatch Logs. | knqyf263 | 211 |
-| 57 |  [gdrive](https://github.com/gdrive-org/gdrive) | Google Drive CLI Client | gdrive-org | 6557 |
-| 58 |  [aws-vault](https://github.com/99designs/aws-vault) | A vault for securely storing and accessing AWS credentials in development environments | 99designs | 3448 |
-| 59 |  [skm](https://github.com/TimothyYe/skm) | A simple and powerful SSH keys manager | TimothyYe | 617 |
-| 60 |  [ssm-sh](https://github.com/itsdalmo/ssm-sh) | Experiment to use SSM RunCommand instead of SSH | itsdalmo | 137 |
-| 61 |  [CURdashboard](https://github.com/andyfase/CURdashboard) | CURdashboard is an automated, extendable and configurable AWS customer usage report analyzer (CUR) | andyfase | 16 |
-| 62 |  [traildash](https://github.com/AppliedTrust/traildash) | AWS CloudTrail Dashboard | AppliedTrust | 358 |
-| 63 |  [atlantis](https://github.com/runatlantis/atlantis) | Terraform Pull Request Automation | runatlantis | 2702 |
-| 64 |  [terraform-inventory](https://github.com/adammck/terraform-inventory) | Terraform State → Ansible Dynamic Inventory | adammck | 1344 |
-| 65 |  [terragrunt](https://github.com/gruntwork-io/terragrunt) | Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. | gruntwork-io | 3829 |
-| 66 |  [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | jesseduffield | 16306 |
-| 67 |  [Alfred-collection](https://github.com/msoedov/Alfred-collection) | A collection of all known Alfred3 workflows | msoedov | 560 |
-| 68 |  [fzf](https://github.com/junegunn/fzf) | :cherry_blossom: A command-line fuzzy finder | junegunn | 29290 |
-| 69 |  [jiq](https://github.com/fiatjaf/jiq) | jid on jq - interactive JSON query tool using jq expressions | fiatjaf | 437 |
-| 70 |  [jid](https://github.com/simeji/jid) | json incremental digger | simeji | 5543 |
-| 71 |  [mu](https://github.com/stelligent/mu) | A full-stack DevOps on AWS framework | stelligent | 925 |
-| 72 |  [huproxy](https://github.com/google/huproxy) |  | google | 217 |
-| 73 |  [komiser](https://github.com/mlabouardy/komiser) | :cloud: Cloud Environment Inspector 👮:lock: :moneybag: | mlabouardy | 2423 |
-| 74 |  [gron](https://github.com/tomnomnom/gron) | Make JSON greppable! | tomnomnom | 6298 |
-| 75 |  [redalert](https://github.com/jonog/redalert) | :rocket: continuously test all the things - trigger alerts on failure :boom: | jonog | 84 |
-| 76 |  [zsh-history](https://github.com/b4b4r07/zsh-history) | A plugin for zsh history extended by golang, dealing it like SQL | b4b4r07 | 76 |
-| 77 |  [awless](https://github.com/wallix/awless) | A Mighty CLI for AWS | wallix | 4590 |
-| 78 |  [peco](https://github.com/peco/peco) | Simplistic interactive filtering tool | peco | 5885 |
-| 79 |  [terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) | A @HashiCorp Terraform provider for managing Google Calendar events. | sethvargo | 102 |
-| 80 |  [terraboard](https://github.com/camptocamp/terraboard) | :earth_africa: :clipboard:  A web dashboard to inspect Terraform States | camptocamp | 932 |
-| 81 |  [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) | INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations. | crazy-canux | 303 |
-| 82 |  [beats](https://github.com/elastic/beats) | :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash | elastic | 8830 |
+| 1 |  [ksar](https://github.com/vlsi/ksar) | fork of http://sourceforge.net/projects/ksar/ | vlsi | 122 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -366,102 +742,19 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## JavaScript
+## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [aws-account-controller](https://github.com/iann0036/aws-account-controller) | Self-service creation and deletion of sandbox-style accounts. | iann0036 | 220 |
-| 2 |  [learn-aws-lambda](https://github.com/dwyl/learn-aws-lambda) | :sparkles: Learn how to use AWS Lambda to easily create infinitely scalable web services | dwyl | 869 |
-| 3 |  [former2](https://github.com/iann0036/former2) | Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources. | iann0036 | 400 |
-| 4 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | 📋 Creating your own Awesome List of GitHub stars! | abhijithvijayan | 257 |
-| 5 |  [emr-slack-notify](https://github.com/rkr2017/emr-slack-notify) | AWS Lambda function to send EMR events to Slack via SNS | rkr2017 | 1 |
-| 6 |  [1on1-questions](https://github.com/VGraupera/1on1-questions) | Mega list of 1 on 1 meeting questions compiled from a variety to sources | VGraupera | 7614 |
-| 7 |  [blast-radius](https://github.com/28mm/blast-radius) | Interactive visualizations of Terraform dependency graphs using d3.js | 28mm | 985 |
-| 8 |  [auto-remediate](https://github.com/cloudconformity/auto-remediate) | Cloud Conformity Auto Remediate | cloudconformity | 90 |
-| 9 |  [aws-to-slack](https://github.com/arabold/aws-to-slack) | Forward AWS CloudWatch Alarms and other notifications from Amazon SNS to Slack. | arabold | 221 |
-| 10 |  [aws-multi-account-viewer](https://github.com/awslabs/aws-multi-account-viewer) | Serverless app designed for any customer with two or more accounts to view resources across accounts/regions in simple single pane of glass website | awslabs | 54 |
-| 11 |  [aws_console_extension](https://github.com/jncharon/aws_console_extension) | This extension changes the AWS console header color depending on the region you selected. This visual hint will help you avoid creating resources in the wrong region ! | jncharon | 2 |
-| 12 |  [kap](https://github.com/wulkano/kap) | An open-source screen recorder built with web technology | wulkano | 12240 |
-| 13 |  [Lepton](https://github.com/hackjutsu/Lepton) | 💻    Democratizing Snippet Management (macOS/Win/Linux) | hackjutsu | 7543 |
-| 14 |  [JustSupport](https://github.com/justeat/JustSupport) |  | justeat | 15 |
-| 15 |  [stretchly](https://github.com/hovancik/stretchly) | break time reminder app | hovancik | 1661 |
-| 16 |  [ramme](https://github.com/terkelg/ramme) | Unofficial Instagram Desktop App. | terkelg | 3239 |
-| 17 |  [lambda-cloudwatch-slack](https://github.com/assertible/lambda-cloudwatch-slack) | Send AWS CloudWatch notifications to a Slack channel using Lambda | assertible | 309 |
-| 18 |  [AWSConsoleRecorderGenerator](https://github.com/iann0036/AWSConsoleRecorderGenerator) | A helper extension that is used to assist in the development of the Console Recorder for AWS. | iann0036 | 69 |
-| 19 |  [aws-lambda](https://github.com/blueimp/aws-lambda) | Collection of functions for AWS Lambda | blueimp | 239 |
-| 20 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers | awesome-selfhosted | 44511 |
-| 21 |  [consigliere](https://github.com/newscorpaus/consigliere) | Multi-account AWS Trusted Advisor Dashboard | newscorpaus | 35 |
-| 22 |  [awx](https://github.com/ansible/awx) | AWX Project | ansible | 7775 |
-| 23 |  [ec2-event-slack-notifier](https://github.com/dtan4/ec2-event-slack-notifier) | AWS Lambda function / Docker image to notify EC2 Scheduled Events to Slack | dtan4 | 9 |
-| 24 |  [learnGitBranching](https://github.com/pcottle/learnGitBranching) | An interactive git visualization to challenge and educate! | pcottle | 17666 |
-| 25 |  [page-translator](https://github.com/jeremiahlee/page-translator) | One-click in-line page translation for Firefox | jeremiahlee | 112 |
-| 26 |  [scans](https://github.com/cloudsploit/scans) | Cloud security configuration checks | cloudsploit | 976 |
-| 27 |  [fusuma](https://github.com/hiroppy/fusuma) | ✍️Fusuma makes slides with Markdown easily. | hiroppy | 3671 |
-| 28 |  [aws-cloudwatch-chart-slack](https://github.com/tmtk75/aws-cloudwatch-chart-slack) | Renderer for AWS CloudWatch Chart and Uploader to Slack | tmtk75 | 30 |
-| 29 |  [vizceral](https://github.com/Netflix/vizceral) | WebGL visualization for displaying animated traffic graphs | Netflix | 3521 |
-| 30 |  [NaverCafePass](https://github.com/joyfuI/NaverCafePass) | 네이버 카페 게시글 중 검색 허용되었으나 맴버공개인 글을 카페 가입없이 바로 볼 수 있게 해주는 브라우저 확장입니다. | joyfuI | 26 |
-| 31 |  [slack-to-opsgenie-alert-creator](https://github.com/opsgenie/slack-to-opsgenie-alert-creator) | Create alerts from messages sent to a Slack channel | opsgenie | 16 |
-| 32 |  [awsp](https://github.com/johnnyopao/awsp) | Switch AWS Profiles Easily | johnnyopao | 102 |
-| 33 |  [aws-lambda-edge-workshops](https://github.com/aws-samples/aws-lambda-edge-workshops) | This repository contains instructions and blueprints for Lambda@Edge workshops | aws-samples | 86 |
-| 34 |  [aws-lambda-workshop](https://github.com/lucpod/aws-lambda-workshop) | Some incremental examples suitable to host an AWS Lambda Functions workshop | lucpod | 19 |
-| 35 |  [aws-lambda-zombie-workshop](https://github.com/aws-samples/aws-lambda-zombie-workshop) | Code and walkthrough labs to set up a serverless chat application for the Zombie Apocalypse Workshop | aws-samples | 622 |
-| 36 |  [cloudmapper](https://github.com/duo-labs/cloudmapper) | CloudMapper helps you analyze your Amazon Web Services (AWS) environments. | duo-labs | 3491 |
-| 37 |  [cabot](https://github.com/arachnys/cabot) | Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty | arachnys | 4790 |
-| 38 |  [citizen](https://github.com/outsideris/citizen) | A Private Terraform Module Registry | outsideris | 149 |
-| 39 |  [hids-cloudwatchlogs-elasticsearch-template](https://github.com/awslabs/hids-cloudwatchlogs-elasticsearch-template) | Monitor Host-Based Intrusion Detection System Alerts on Amazon EC2 Instances | awslabs | 50 |
-| 40 |  [aws-limit-monitor](https://github.com/awslabs/aws-limit-monitor) | Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API. | awslabs | 238 |
-| 41 |  [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) | A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events. | indix | 130 |
-| 42 |  [auto-tag](https://github.com/GorillaStack/auto-tag) | Automatically tag AWS resources on creation, for cost assignment | GorillaStack | 261 |
-| 43 |  [airpass](https://github.com/alvesjtiago/airpass) | Airpass - status bar Mac app to overcome time constrained WiFi networks. | alvesjtiago | 320 |
-| 44 |  [Boostnote](https://github.com/BoostIO/Boostnote) | A markdown editor for developers on Mac, Windows and Linux. | BoostIO | 16933 |
-| 45 |  [markdown-here](https://github.com/adam-p/markdown-here) | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. | adam-p | 46453 |
-| 46 |  [dockly](https://github.com/lirantal/dockly) | Immersive terminal interface for managing docker containers and services | lirantal | 2605 |
-| 47 |  [markdownlint](https://github.com/DavidAnson/markdownlint) | A Node.js style checker and lint tool for Markdown/CommonMark files. | DavidAnson | 1953 |
-| 48 |  [gotodir](https://github.com/Wowu/gotodir) | Simple command line app for fast directory switching ⚡️ | Wowu | 22 |
-| 49 |  [logtrail](https://github.com/sivasamyk/logtrail) | Kibana plugin to view, search &amp; live tail log events | sivasamyk | 1281 |
-| 50 |  [standup-slack-bot](https://github.com/18F/standup-slack-bot) | A Slack bot to streamline team standup without disturbing the overall flow of conversation | 18F | 87 |
-| 51 |  [alfred-melon-youtube](https://github.com/hyunchel/alfred-melon-youtube) | :womans_hat: Alfred Workflow that creates a Youtube playlist with Melon chart. | hyunchel | 1 |
-| 52 |  [pro-CoinAnalyzer](https://github.com/visualkhh/pro-CoinAnalyzer) | pro-CoinAnalyzer | visualkhh | 7 |
-| 53 |  [aws-dashing](https://github.com/thibaultlaurens/aws-dashing) | simple aws dashboard powered by Dashing &amp; Node.js | thibaultlaurens | 59 |
-| 54 |  [overtime-cli](https://github.com/diit/overtime-cli) | Easy time-overlap tables for remote teams. | diit | 389 |
-| 55 |  [Domain-Status-Checker](https://github.com/skamsie/Domain-Status-Checker) | Gets ip, http return code and domain name registrar of domains | skamsie | 9 |
-| 56 |  [zabirepo](https://github.com/usiusi360/zabirepo) | Dashboard using the API of Zabbix | usiusi360 | 81 |
-| 57 |  [livepython](https://github.com/agermanidis/livepython) | Visually trace Python code in real-time. | agermanidis | 2438 |
-| 58 |  [google_calendar_to_csv](https://github.com/yunho0130/google_calendar_to_csv) | Please use google app script on google spread sheet | yunho0130 | 2 |
-| 59 |  [gtop](https://github.com/aksakalli/gtop) | System monitoring dashboard for terminal | aksakalli | 8131 |
-| 60 |  [fuzzysort](https://github.com/farzher/fuzzysort) | Fast SublimeText-like fuzzy search for JavaScript. | farzher | 2232 |
-| 61 |  [fenix](https://github.com/coreybutler/fenix) | A simple and visual static web server with collaboration features. | coreybutler | 1462 |
-| 62 |  [slackin](https://github.com/rauchg/slackin) | Public Slack organizations made easy | rauchg | 6284 |
-| 63 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 37699 |
-| 64 |  [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards. | Kristories | 4238 |
-| 65 |  [UsedBookApp](https://github.com/lyvius2/UsedBookApp) | 중고책 구매/매각가 검색 앱 | lyvius2 | 2 |
-| 66 |  [miio](https://github.com/aholstenson/miio) | Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more | aholstenson | 1325 |
+| 1 |  [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern | BurntSushi | 19729 |
+| 2 |  [jwt-cli](https://github.com/mike-engel/jwt-cli) | A super fast CLI tool to decode and encode JWTs built in Rust | mike-engel | 174 |
+| 3 |  [shellharden](https://github.com/anordal/shellharden) | The corrective bash syntax highlighter | anordal | 3488 |
 
 **[⬆ Back to Index](#-contents)**
 
-## HCL
+## Scala
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) | Terraform module which creates SNS topic and Lambda function which sends notifications to Slack | terraform-aws-modules | 220 |
-| 2 |  [KubeNow](https://github.com/kubenow/KubeNow) | Deploy Kubernetes. Now! | kubenow | 276 |
-| 3 |  [intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) | Sample code for the blog post &#34;An Introduction to Terraform&#34; | gruntwork-io | 399 |
-| 4 |  [start-docker-kubernetes](https://github.com/alicek106/start-docker-kubernetes) | 시작하세요! 도커, 그리고 쿠버네티스 책에서 사용되는 예제를 정리한 저장소입니다. | alicek106 | 14 |
-| 5 |  [reference-architectures](https://github.com/cloudposse/reference-architectures) | Get up and running quickly with one of our reference architecture using our fully automated cold-start process. | cloudposse | 100 |
-| 6 |  [govuk-aws](https://github.com/alphagov/govuk-aws) | The GOV.UK repository for our Migration to AWS | alphagov | 100 |
-| 7 |  [cztack](https://github.com/chanzuckerberg/cztack) | The CZI infrastructure stack. | chanzuckerberg | 30 |
-| 8 |  [tf_ghe_server](https://github.com/mengesb/tf_ghe_server) | Terraform GitHub Enterprise plan | mengesb | 3 |
-| 9 |  [best-practices](https://github.com/hashicorp/best-practices) |  | hashicorp | 1453 |
-| 10 |  [terraform-aws-cloudtrail-cloudwatch-alarms](https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms) | Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail. | cloudposse | 140 |
-| 11 |  [terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) | Terraform module which creates IAM resources on AWS | terraform-aws-modules | 216 |
-| 12 |  [terraform-ecs-fargate](https://github.com/turnerlabs/terraform-ecs-fargate) | A Terraform template used for provisioning web application stacks on AWS ECS Fargate | turnerlabs | 198 |
-| 13 |  [terraform-aws-cis-fundamentals](https://github.com/opsgang/terraform-aws-cis-fundamentals) | This Terraform module helps to setup an AWS account with the requirements of  CIS Amazon Web Services Foundations Benchmark v1.1.0 | opsgang | 16 |
-| 14 |  [cloud-custodian-docker](https://github.com/geekmuse/cloud-custodian-docker) | Containerized Deployment for Cloud Custodian | geekmuse | 4 |
-| 15 |  [terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) | Terraform Best Practices for AWS users | ozbillwang | 683 |
-| 16 |  [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) | Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations. | nozaq | 371 |
-| 17 |  [terraform-aws-vpc-peering-multi-account](https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account) | Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers | cloudposse | 28 |
-| 18 |  [terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) | Terraform module which creates EC2-VPC security groups on AWS | terraform-aws-modules | 256 |
-| 19 |  [solarch-assoc](https://github.com/jeremy-cc/solarch-assoc) | Solutions Architech Associate | jeremy-cc | 1 |
-| 20 |  [terraform-modules](https://github.com/rampart81/terraform-modules) | Terraform Modules | rampart81 | 4 |
-| 21 |  [tack](https://github.com/kz8s/tack) | Terraform module for creating Kubernetes cluster running on Container Linux by CoreOS in an AWS VPC | kz8s | 743 |
+| 1 |  [edda](https://github.com/Netflix/edda) | AWS API Read Cache | Netflix | 511 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -540,159 +833,6 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## Others
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) | A curated list of awesome ECS guides, development tools, and resources | nathanpeck | 2176 |
-| 2 |  [monitoring-jump-start](https://github.com/marbot-io/monitoring-jump-start) | Monitor AWS resources with ease | marbot-io | 46 |
-| 3 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 32337 |
-| 4 |  [awesome-devblog](https://github.com/sarojaba/awesome-devblog) | 어썸데브블로그. 국내 개발 블로그 모음(only 실명으로). | sarojaba | 1836 |
-| 5 |  [aws-real-time-use-cases](https://github.com/miztiik/aws-real-time-use-cases) | Repo containing quick starts for real time AWS use cases | miztiik | 13 |
-| 6 |  [aws-cloud-cost-management](https://github.com/ravsau/aws-cloud-cost-management) | A collection of ways and tips to save money in the AWS cloud. | ravsau | 2 |
-| 7 |  [presentations](https://github.com/devopswroclaw/presentations) | DevOps Wroclaw Meetup – Presentations | devopswroclaw | 11 |
-| 8 |  [security-remediation-guides](https://github.com/cloudsploit/security-remediation-guides) | Security Remediation Guides | cloudsploit | 78 |
-| 9 |  [amazon-vpc-user-guide](https://github.com/awsdocs/amazon-vpc-user-guide) | The open source version of the Amazon VPC docs. You can submit feedback and requests for changes by submitting issues in this repo or by making proposed changes and submitting a pull request. | awsdocs | 69 |
-| 10 |  [amazon-ec2-auto-scaling-user-guide](https://github.com/awsdocs/amazon-ec2-auto-scaling-user-guide) | The open source version of the Amazon EC2 Auto Scaling User Guide | awsdocs | 32 |
-| 11 |  [awesome-cloudcustodian](https://github.com/myoung34/awesome-cloudcustodian) | A curated list of things relating to CapitalOne&#39;s Cloud-custodian project | myoung34 | 69 |
-| 12 |  [cloud-custodian-demo](https://github.com/1Strategy/cloud-custodian-demo) | Cloud Custodian example policies that remediate security issues, enforce tagging, and control costs | 1Strategy | 40 |
-| 13 |  [awesome-okr](https://github.com/domenicosolazzo/awesome-okr) | A curated list about OKR (Objective - Key Results) | domenicosolazzo | 927 |
-| 14 |  [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) | List of useful Quick Look plugins for developers | sindresorhus | 14824 |
-| 15 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs | matiassingers | 6357 |
-| 16 |  [architecture-group](https://github.com/awskrug/architecture-group) | AWSKRUG architecutre small group | awskrug | 45 |
-| 17 |  [awesome-devteam](https://github.com/leehosung/awesome-devteam) | 좋은 개발팀을 만드는데 도움이 되는 자료 | leehosung | 557 |
-| 18 |  [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) | A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs. | RhinoSecurityLabs | 598 |
-| 19 |  [aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources) | :key: Collection of useful AWS IAM Resources &amp; Policies | ellerbrock | 11 |
-| 20 |  [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) | :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader: | JaeYeopHan | 4032 |
-| 21 |  [reverse-interview](https://github.com/viraptor/reverse-interview) | Questions to ask the company during your interview | viraptor | 13536 |
-| 22 |  [engineering-general](https://github.com/NYPL/engineering-general) | Standards, values, and other information relevant to the NYPL Engineering Team. | NYPL | 32 |
-| 23 |  [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) | 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. | kylelobo | 3450 |
-| 24 |  [cloud-aws](https://github.com/szczepanski/cloud-aws) |  | szczepanski | 2 |
-| 25 |  [aws-systems-manager-user-guide](https://github.com/awsdocs/aws-systems-manager-user-guide) | The open source version of the AWS Systems Manager user guide. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. | awsdocs | 54 |
-| 26 |  [aws-securitygroup-grapher](https://github.com/jeanlouisferey/aws-securitygroup-grapher) | This ansible role gets information from an AWS VPC and generate a graphical representation of security groups | jeanlouisferey | 86 |
-| 27 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 75411 |
-| 28 |  [devsecops-cloud-custodian-rules](https://github.com/GSA/devsecops-cloud-custodian-rules) | [WORK IN PROGRESS] A repo containing rule sets for cloud-custodian inside GSA AWS accounts. This repo does not contain cloud-custodian itself. | GSA | 23 |
-| 29 |  [aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) | List of changes announced for AWS that may break existing code | SummitRoute | 368 |
-| 30 |  [developers-retrospective](https://github.com/oaksong/developers-retrospective) | 개발자 회고 모음 | oaksong | 438 |
-| 31 |  [awesome-agile](https://github.com/lorabv/awesome-agile) | Awesome List of resources on Agile Software Development. | lorabv | 663 |
-| 32 |  [grafana-aws-cloudwatch-dashboards](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) | :cloud: 20+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ... | monitoringartist | 1009 |
-| 33 |  [tutorial-git](https://github.com/KennethanCeyer/tutorial-git) | :blue_book: 어떻게 깃을 사용하는지 빠르게 알아봅시다. (Quick learn How to use Git.) | KennethanCeyer | 160 |
-| 34 |  [c7n-docker](https://github.com/knowshan/c7n-docker) | Cloud Custodian Docker images for end-users developing on top of base c7n | knowshan | 1 |
-| 35 |  [ansible-init](https://github.com/davestern/ansible-init) | An ansible playbook for creating ansible playbooks | davestern | 59 |
-| 36 |  [awssecurity](https://github.com/stuhirst/awssecurity) | for AWS Security material | stuhirst | 215 |
-| 37 |  [awesome-sysadmin2](https://github.com/craftbyte/awesome-sysadmin2) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | craftbyte | 2 |
-| 38 |  [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) | A curated list of resources for learning about http://www.keycloak.org | thomasdarimont | 537 |
-| 39 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 19360 |
-| 40 |  [terraform-style-guide](https://github.com/jonbrouse/terraform-style-guide) | This repository gives coding conventions for Terraform&#39;s HashiCorp Configuration Language (HCL). | jonbrouse | 72 |
-| 41 |  [iam-user-guide](https://github.com/awsdocs/iam-user-guide) | Official documentation source for the AWS Identity and Access Management (IAM) User Guide | awsdocs | 196 |
-| 42 |  [learn-amazon-web-services](https://github.com/dwyl/learn-amazon-web-services) | :star: Amazing Guide to using Amazon Web Services (AWS)! :cloud: | dwyl | 61 |
-| 43 |  [aws-notes](https://github.com/avinashadev/aws-notes) | Amazon web services notes for certification exams | avinashadev | 1 |
-| 44 |  [awesome-devops](https://github.com/mikewootini/awesome-devops) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome Sysadmin and Awesome PHP. | mikewootini | 71 |
-| 45 |  [amas](https://github.com/sindresorhus/amas) | Awesome &amp; Marvelous Amas | sindresorhus | 1222 |
-| 46 |  [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. | kelseyhightower | 21237 |
-| 47 |  [amazon-ec2-user-guide](https://github.com/awsdocs/amazon-ec2-user-guide) | The open source version of the Amazon EC2 User Guide for Linux. To submit feedback or requests for changes, submit an issue or make changes and submit a pull request. | awsdocs | 293 |
-| 48 |  [transit-gateway-migrator](https://github.com/secureoptions/transit-gateway-migrator) | A tool written in python which will seamlessly migrate network traffic away from transit-vpc to AWS Transit Gateway | secureoptions | 7 |
-| 49 |  [aws-lambda-list](https://github.com/unixorn/aws-lambda-list) | A list of hopefully useful AWS lambdas and lambda-related resources. | unixorn | 123 |
-| 50 |  [aws-cost-management-user-guide](https://github.com/awsdocs/aws-cost-management-user-guide) | The open source version of the AWS Billing and Cost Management docs. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. | awsdocs | 41 |
-| 51 |  [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) | Docker Cheat Sheet | wsargent | 18287 |
-| 52 |  [amazon-efs-tutorial](https://github.com/aws-samples/amazon-efs-tutorial) | This tutorial is designed to help you better understand the performance characteristics of Amazon Elastic File System | aws-samples | 105 |
-| 53 |  [replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) | Guide on using using python for administrative scripting | ninjaaron | 781 |
-| 54 |  [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | 🖥 📊 🕹 🛠 A curated list of command line apps | agarrharr | 5954 |
-| 55 |  [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) | A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A. | trimstray | 6672 |
-| 56 |  [my-links](https://github.com/jturgasen/my-links) | Knowledge seeks no man | jturgasen | 279 |
-| 57 |  [diskover](https://github.com/shirosaidev/diskover) | File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch | shirosaidev | 817 |
-| 58 |  [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources. | n1trux | 10354 |
-| 59 |  [awesome-devenv](https://github.com/jondot/awesome-devenv) | A curated list of awesome tools, resources and workflow tips making an awesome development environment. | jondot | 1807 |
-| 60 |  [aws_manager_plugin](https://github.com/EslamElHusseiny/aws_manager_plugin) | Oh My ZSH plugin for aws_manager CLI | EslamElHusseiny | 1 |
-| 61 |  [amazon-route53-docs](https://github.com/awsdocs/amazon-route53-docs) | Documentation for Amazon Route 53. Amazon Route 53 is a web service that provides DNS service, domain name registration, and automatic endpoint naming. | awsdocs | 44 |
-| 62 |  [HomeAssistant-Presentation](https://github.com/ArnaudLoos/HomeAssistant-Presentation) | A presentation on Home Assistant, the open-source home automation hub | ArnaudLoos | 66 |
-| 63 |  [Keyboardgym](https://github.com/jaymeh13/Keyboardgym) | A collection of exercise videos and ergonomic gear for preventing and alleviating repetitive strain injuries (RSI) | jaymeh13 | 511 |
-| 64 |  [awsstudy](https://github.com/sarcio/awsstudy) | Amazon Web Services | sarcio | 3 |
-| 65 |  [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) | A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch! | dzharii | 3508 |
-| 66 |  [logstash_filter_infoblox](https://github.com/willemdh/logstash_filter_infoblox) | A Logstash filter for Infoblox named and dhcpd syslog. | willemdh | 6 |
-| 67 |  [cis-rhel-ansible](https://github.com/major/cis-rhel-ansible) | Ansible playbooks for CIS Benchmarks on RHEL/CentOS 6 | major | 318 |
-| 68 |  [ami-builder-packer](https://github.com/awslabs/ami-builder-packer) | An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible. | awslabs | 379 |
-| 69 |  [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) | Collection of helpful tips and tricks for VS Code. | microsoft | 8091 |
-| 70 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 133235 |
-| 71 |  [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers | thedaviddias | 39307 |
-| 72 |  [shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) | A collection of user-submitted shortcuts for Shortcuts for iOS. | jordanmerrick | 353 |
-| 73 |  [meetup](https://github.com/eskrug/meetup) | 한국 Elasticsearch 사용자그룹 밋업 관련 자료들을 모아놓는 곳입니다. / Korea ES Usergroup Meetup resources | eskrug | 13 |
-| 74 |  [dracula-theme](https://github.com/dracula/dracula-theme) | 🧛🏻‍♂️ Dark theme for all the things! | dracula | 12409 |
-| 75 |  [chrome-extensions-for-webdeveloper](https://github.com/ellerbrock/chrome-extensions-for-webdeveloper) | :ox:  A list with useful Chrome Extensions | ellerbrock | 15 |
-| 76 |  [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) | A collection of awesome browser extensions for GitHub. | stefanbuck | 1910 |
-| 77 |  [hyperzsh](https://github.com/tylerreckart/hyperzsh) | A hyperminimal zsh prompt | tylerreckart | 443 |
-| 78 |  [awesome-ssh](https://github.com/moul/awesome-ssh) | :computer: A curated list of SSH resources. | moul | 1312 |
-| 79 |  [awesome-sre](https://github.com/dastergon/awesome-sre) | A curated list of Site Reliability and Production Engineering resources. | dastergon | 4983 |
-| 80 |  [AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) | 비공식 AWS 공인 솔루션스 아키텍트 – 어소시에이트 시험 가이드 | serithemage | 387 |
-| 81 |  [awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects | veggiemonk | 17832 |
-| 82 |  [git-tips](https://github.com/mingrammer/git-tips) | :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전) | mingrammer | 772 |
-| 83 |  [idrac-configure-script](https://github.com/hurulu/idrac-configure-script) | Using racadm to configure idrac under command line | hurulu | 1 |
-| 84 |  [Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki) | A wiki of  DataScience, Statistics, Maths, R,Python, AI, Machine Learning,  Automation, Devops Tools, Bash, Linux Tutorials, Scripts and Datasets | Leo-G | 4605 |
-| 85 |  [review](https://github.com/anoakb/review) | questions from https://github.com/chassing/linux-sysadmin-interview-questions | anoakb | 2 |
-| 86 |  [linux-operations-interview-questions](https://github.com/anonymuse/linux-operations-interview-questions) | Collection of linux sysadmin/devop interview questions | anonymuse | 4 |
-| 87 |  [linux-sysadmin-interview-questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions) | A list of some of the questions which I&#39;ve had to know during linux syadmin / devops interviews. | kylejohnson | 114 |
-| 88 |  [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) | Collection of Linux Sysadmin/DevOps interview questions | chassing | 3805 |
-| 89 |  [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) | A collection of links related to Linux kernel exploitation | xairy | 2876 |
-| 90 |  [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | kahun | 19747 |
-| 91 |  [workflows](https://github.com/Shephexd/workflows) | workflows of Alfred | Shephexd | 7 |
-| 92 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2020 | kamranahmedse | 108383 |
-| 93 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 101682 |
-| 94 |  [landscape](https://github.com/cncf/landscape) | 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. | cncf | 6398 |
-
-**[⬆ Back to Index](#-contents)**
-
-## HTML
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) | DevOps Guide from basic to advanced with Interview Questions and Notes 🔥 | Tikam02 | 2772 |
-| 2 |  [awsiamlogin](https://github.com/naveen-vijay/awsiamlogin) | AWS IAM Login makes it easy to navigate across multiple AWS accounts through bookmarks. | naveen-vijay | 13 |
-| 3 |  [complete-aws-iam-reference](https://github.com/widdix/complete-aws-iam-reference) | Complete AWS IAM Reference | widdix | 206 |
-| 4 |  [dev-tips](https://github.com/HomoEfficio/dev-tips) | 개발하다 마주쳤던 작은 문제들과 해결 방법 정리 | HomoEfficio | 528 |
-| 5 |  [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) | Hands on labs and code to help you learn, measure, and build using architectural best practices. | awslabs | 814 |
-| 6 |  [portainer](https://github.com/portainer/portainer) | Making Docker management easy. | portainer | 14636 |
-| 7 |  [kibana_health_metric_vis](https://github.com/clamarque/kibana_health_metric_vis) | Plugin for kibana Version 4.x, 5.x, 6.x and 7.x to change color of metric depending to the planned state of health | clamarque | 46 |
-
-**[⬆ Back to Index](#-contents)**
-
-## TypeScript
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [vpcstudio](https://github.com/houqp/vpcstudio) | VPC design made easy | houqp | 93 |
-| 2 |  [vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) | Rich PlantUML support for Visual Studio Code. | qjebbs | 578 |
-| 3 |  [just-news](https://github.com/disjukr/just-news) | a userscript project that parses korean news site and then making more readable view | disjukr | 166 |
-| 4 |  [prettyplan](https://github.com/chrislewisdev/prettyplan) | A formatting tool to help make large Terraform plans easier to review. | chrislewisdev | 68 |
-| 5 |  [cloud-reports](https://github.com/tensult/cloud-reports) | Scans your AWS cloud resources and generates reports. Check out free hosted version: | tensult | 212 |
-| 6 |  [learn-anything](https://github.com/learn-anything/learn-anything) | Organize world&#39;s knowledge, explore connections and curate learning paths | learn-anything | 12064 |
-| 7 |  [grafana](https://github.com/grafana/grafana) | The tool for beautiful monitoring and metric analytics &amp; dashboards for Graphite, InfluxDB &amp; Prometheus &amp; More | grafana | 34976 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Java
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [pipeline-aws-plugin](https://github.com/jenkinsci/pipeline-aws-plugin) | Jenkins Pipeline Step Plugin for AWS | jenkinsci | 338 |
-| 2 |  [aws-smtp-relay](https://github.com/loopingz/aws-smtp-relay) | Local SMTP server that convert SMTP message to AWS SES API Call to allow you to use role instance | loopingz | 34 |
-| 3 |  [AWSUtilities](https://github.com/cpopp/AWSUtilities) |  | cpopp | 2 |
-| 4 |  [aws-ec2-ssh](https://github.com/widdix/aws-ec2-ssh) | Manage AWS EC2 SSH access with IAM | widdix | 756 |
-| 5 |  [aphelion](https://github.com/FINRAOS/aphelion) | Aphelion is a web application that captures and visualizes your AWS services usage limits. It continuously collects data in the background and you can visualize the data in easy-to-see graphs and charts. | FINRAOS | 26 |
-| 6 |  [skywalking](https://github.com/apache/skywalking) | APM, Application Performance Monitoring System | apache | 13339 |
-| 7 |  [keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) | Adds a Metrics Endpoint to Keycloak | aerogear | 126 |
-| 8 |  [trusted-overlord](https://github.com/beeva/trusted-overlord) | Aggregate AWS Trusted Advisor alarms, AWS Health notifications and AWS Support cases from several AWS accounts | beeva | 74 |
-| 9 |  [keycloak-health-checks](https://github.com/thomasdarimont/keycloak-health-checks) | Keycloak Extension for health checks | thomasdarimont | 68 |
-| 10 |  [BashSupport](https://github.com/BashSupport/BashSupport) | Bash and shell script language support for JetBrains IDEs | BashSupport | 559 |
-| 11 |  [keycloak-monitoring-prometheus](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus) | Monitor your keycloak with prometheus | larscheid-schmitzhermes | 51 |
-| 12 |  [keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applications and Services | keycloak | 6189 |
-| 13 |  [fullstop](https://github.com/zalando-stups/fullstop) | Audit reporting: collect violations across all AWS accounts | zalando-stups | 39 |
-| 14 |  [pacbot](https://github.com/tmobile/pacbot) | PacBot (Policy as Code Bot) | tmobile | 862 |
-| 15 |  [newrelic-api](https://github.com/opsmatters/newrelic-api) | Java client library for the New Relic Monitoring and Alerting REST APIs built using Jersey and Gson. | opsmatters | 8 |
-| 16 |  [pwm](https://github.com/pwm-project/pwm) | pwm | pwm-project | 563 |
-| 17 |  [cloudwatch-logs-subscription-consumer](https://github.com/amazon-archives/cloudwatch-logs-subscription-consumer) | A specialized Amazon Kinesis stream reader (based on the Amazon Kinesis Connector Library) that can help you deliver data from Amazon CloudWatch Logs to any other system in near real-time using a CloudWatch Logs Subscription Filter. | amazon-archives | 393 |
-| 18 |  [soundwave](https://github.com/pinterest/soundwave) | A searchable EC2 Inventory store | pinterest | 96 |
-| 19 |  [ice](https://github.com/Teevity/ice) | AWS Usage Tool | Teevity | 2687 |
-| 20 |  [AWS_Tutorials](https://github.com/qyjohn/AWS_Tutorials) |  | qyjohn | 26 |
-| 21 |  [elasticsearch-http-user-auth](https://github.com/elasticfence/elasticsearch-http-user-auth) | HTTP Basic Authentication and IP ACL plugin for Elasticsearch :key: (UNMAINTAINED) | elasticfence | 142 |
-
-**[⬆ Back to Index](#-contents)**
-
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
@@ -709,148 +849,23 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## Scala
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [edda](https://github.com/Netflix/edda) | AWS API Read Cache | Netflix | 511 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Jupyter Notebook
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [aws-security-workshops](https://github.com/aws-samples/aws-security-workshops) | A collection of the latest AWS Security workshops | aws-samples | 279 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Rust
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern | BurntSushi | 19729 |
-| 2 |  [jwt-cli](https://github.com/mike-engel/jwt-cli) | A super fast CLI tool to decode and encode JWTs built in Rust | mike-engel | 174 |
-| 3 |  [shellharden](https://github.com/anordal/shellharden) | The corrective bash syntax highlighter | anordal | 3488 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Vue
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) | DynamoDb GUI Client | Arattian | 472 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Objective-C
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [shuttle](https://github.com/fitztrev/shuttle) | A simple shortcut menu for macOS | fitztrev | 4154 |
-| 2 |  [Elastics](https://github.com/tundrabot/Elastics) | Monitor your AWS EC2 instances from your Mac menubar. | tundrabot | 25 |
-| 3 |  [Cakebrew](https://github.com/brunophilipe/Cakebrew) | Manage your Homebrew formulas with style using Cakebrew. | brunophilipe | 3293 |
-| 4 |  [AnyBar](https://github.com/tonsky/AnyBar) | OS X menubar status indicator | tonsky | 5235 |
-| 5 |  [LuLu](https://github.com/objective-see/LuLu) | LuLu is the free macOS firewall | objective-see | 3635 |
-| 6 |  [bitbar](https://github.com/matryer/bitbar) | Put the output from any script or program in your Mac OS X Menu Bar | matryer | 12539 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Erlang
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [bus1](https://github.com/keewon/bus1) | 버스 운행 정보를 그래프로 표시 | keewon | 1 |
-
-**[⬆ Back to Index](#-contents)**
-
-## CSS
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [Korean-Spelling-Checker-Workflow](https://github.com/miname/Korean-Spelling-Checker-Workflow) | macOS X Automator의 workflow 형태로 작동하는 한국어 맞춤법 검사기. | miname | 9 |
-| 2 |  [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) | Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates. | iann0036 | 970 |
-| 3 |  [real-time-insights-account-activity](https://github.com/awslabs/real-time-insights-account-activity) | An application and real-time dashboard providing insights into AWS account activity. | awslabs | 27 |
-| 4 |  [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) | List of applications and tools that make my macOS experience even more amazing | nikitavoloboev | 16832 |
-| 5 |  [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) | Vim Bootstrap is generator provides a simple method of generating a .vimrc configuration for vim | editor-bootstrap | 1599 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Makefile
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | A curated list for awesome kubernetes sources :ship::tada: | ramitsurana | 9800 |
-| 2 |  [dockerfiles](https://github.com/zcalusic/dockerfiles) | A collection of Docker recipes. | zcalusic | 19 |
-| 3 |  [prowler](https://github.com/unchartedsky/prowler) | Docker image for toniblyx/prowler | unchartedsky | 12 |
-
-**[⬆ Back to Index](#-contents)**
-
-## PHP
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [jetbrains-alfred-workflow](https://github.com/bchatard/jetbrains-alfred-workflow) | Open a project with one of JetBrains&#39; product. | bchatard | 315 |
-| 2 |  [style-guide](https://github.com/ridi/style-guide) | 📘 Rules of Play @ RIDI | ridi | 162 |
-| 3 |  [ssh-key-authority](https://github.com/operasoftware/ssh-key-authority) | A tool for managing SSH key access to any number of servers. | operasoftware | 324 |
-| 4 |  [Instagram-Data-Scraper](https://github.com/neerajsinghsonu/Instagram-Data-Scraper) | Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes, comments, post count, images, likes on images etc...  You can search @account information and #hash-tag simultaneously by using space separated words in search box jQuery is using to build the Awesome View, to handle each and every request separately. I hope you like this small chunk of code  All code is well commented to understand the flow and functionality, if I missed something or any improvement/suggestion you have, kindly let me know.. | neerajsinghsonu | 298 |
-| 5 |  [Alfred-Workflows](https://github.com/dingyi/Alfred-Workflows) | Alfred&#39;s Workflows, Themes, etc. | dingyi | 59 |
-| 6 |  [Nagios-Dashboard](https://github.com/poblabs/Nagios-Dashboard) | A clean and simple overview of your Nagios environment optimized for wall mounted TV displays. | poblabs | 3 |
-| 7 |  [alfred2-currencyconverter](https://github.com/bigluck/alfred2-currencyconverter) | A simple Alfred 2 Currency Converter workflow | bigluck | 156 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Kotlin
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [swabbie](https://github.com/spinnaker/swabbie) | Spinnaker&#39;s clean up service | spinnaker | 186 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Lua
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [robin](https://github.com/zmallen/robin) |  | zmallen | 4 |
-
-**[⬆ Back to Index](#-contents)**
-
-## PowerShell
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [arc325-multiple-accounts-workshop](https://github.com/aws-samples/arc325-multiple-accounts-workshop) | Lab materials and documentation for the workshop ARC325 Managing Multiple Accounts at Scale at re:Invent 2017 | aws-samples | 73 |
-
-**[⬆ Back to Index](#-contents)**
-
-## AppleScript
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) | BetterTouchTool Touch Bar Presets | vas3k | 1776 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Dockerfile
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [docker-alpine](https://github.com/smebberson/docker-alpine) | Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers. | smebberson | 566 |
-| 2 |  [dockerfiles](https://github.com/jessfraz/dockerfiles) | Various Dockerfiles I use on the desktop and on servers. | jessfraz | 9810 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Haskell
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | Informative git prompt for zsh | olivierverdier | 1376 |
-| 2 |  [shellcheck](https://github.com/koalaman/shellcheck) | ShellCheck, a static analysis tool for shell scripts | koalaman | 19978 |
-
-**[⬆ Back to Index](#-contents)**
-
-## C
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 11242 |
-| 2 |  [fzy](https://github.com/jhawthorn/fzy) | :mag: A simple, fast fuzzy finder for the terminal | jhawthorn | 1740 |
-| 3 |  [tig](https://github.com/jonas/tig) | Text-mode interface for git | jonas | 9023 |
-| 4 |  [tmate](https://github.com/tmate-io/tmate) | Instant Terminal Sharing | tmate-io | 3561 |
-| 5 |  [tsunami-udp](https://github.com/sebsto/tsunami-udp) | Fork of Tsunami UDP File Transfer Server and Client w/fix to compile on MacOS | sebsto | 101 |
-| 6 |  [mimipenguin](https://github.com/huntergregal/mimipenguin) | A tool to dump the login password from the current linux user | huntergregal | 2695 |
-
-**[⬆ Back to Index](#-contents)**
-
 ## TSQL
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dockerfiles](https://github.com/vimagick/dockerfiles) | :whale: A collection of delicious docker recipes | vimagick | 1875 |
+
+**[⬆ Back to Index](#-contents)**
+
+## TypeScript
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [vpcstudio](https://github.com/houqp/vpcstudio) | VPC design made easy | houqp | 93 |
+| 2 |  [vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) | Rich PlantUML support for Visual Studio Code. | qjebbs | 578 |
+| 3 |  [just-news](https://github.com/disjukr/just-news) | a userscript project that parses korean news site and then making more readable view | disjukr | 166 |
+| 4 |  [prettyplan](https://github.com/chrislewisdev/prettyplan) | A formatting tool to help make large Terraform plans easier to review. | chrislewisdev | 68 |
+| 5 |  [cloud-reports](https://github.com/tensult/cloud-reports) | Scans your AWS cloud resources and generates reports. Check out free hosted version: | tensult | 212 |
+| 6 |  [learn-anything](https://github.com/learn-anything/learn-anything) | Organize world&#39;s knowledge, explore connections and curate learning paths | learn-anything | 12064 |
+| 7 |  [grafana](https://github.com/grafana/grafana) | The tool for beautiful monitoring and metric analytics &amp; dashboards for Graphite, InfluxDB &amp; Prometheus &amp; More | grafana | 34976 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -861,25 +876,10 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## Perl
+## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [sysadmin-util](https://github.com/skx/sysadmin-util) | Tools for Linux/Unix sysadmins. | skx | 686 |
-| 2 |  [monitor-aws-status](https://github.com/hirose31/monitor-aws-status) | checks AWS service health dashboard periodically and notifies us a new problem by IRC | hirose31 | 7 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Roff
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [ksar](https://github.com/vlsi/ksar) | fork of http://sourceforge.net/projects/ksar/ | vlsi | 122 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Groovy
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [rundeck](https://github.com/rundeck/rundeck) | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts | rundeck | 3751 |
+| 1 |  [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) | DynamoDb GUI Client | Arattian | 472 |
 
 **[⬆ Back to Index](#-contents)**
 
