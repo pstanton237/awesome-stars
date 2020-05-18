@@ -188,7 +188,7 @@
 | 3 |  [intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) | Sample code for the blog post &#34;An Introduction to Terraform&#34; | gruntwork-io | 399 |
 | 4 |  [start-docker-kubernetes](https://github.com/alicek106/start-docker-kubernetes) | 시작하세요! 도커, 그리고 쿠버네티스 책에서 사용되는 예제를 정리한 저장소입니다. | alicek106 | 14 |
 | 5 |  [reference-architectures](https://github.com/cloudposse/reference-architectures) | Get up and running quickly with one of our reference architecture using our fully automated cold-start process. | cloudposse | 100 |
-| 6 |  [govuk-aws](https://github.com/alphagov/govuk-aws) | The GOV.UK repository for our Migration to AWS | alphagov | 101 |
+| 6 |  [govuk-aws](https://github.com/alphagov/govuk-aws) | The GOV.UK repository for our Migration to AWS | alphagov | 100 |
 | 7 |  [cztack](https://github.com/chanzuckerberg/cztack) | The CZI infrastructure stack. | chanzuckerberg | 30 |
 | 8 |  [tf_ghe_server](https://github.com/mengesb/tf_ghe_server) | Terraform GitHub Enterprise plan | mengesb | 3 |
 | 9 |  [best-practices](https://github.com/hashicorp/best-practices) |  | hashicorp | 1453 |
@@ -391,7 +391,7 @@
 | 17 |  [awesome-devteam](https://github.com/leehosung/awesome-devteam) | 좋은 개발팀을 만드는데 도움이 되는 자료 | leehosung | 557 |
 | 18 |  [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) | A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs. | RhinoSecurityLabs | 598 |
 | 19 |  [aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources) | :key: Collection of useful AWS IAM Resources &amp; Policies | ellerbrock | 11 |
-| 20 |  [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) | :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader: | JaeYeopHan | 4029 |
+| 20 |  [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) | :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader: | JaeYeopHan | 4030 |
 | 21 |  [reverse-interview](https://github.com/viraptor/reverse-interview) | Questions to ask the company during your interview | viraptor | 13536 |
 | 22 |  [engineering-general](https://github.com/NYPL/engineering-general) | Standards, values, and other information relevant to the NYPL Engineering Team. | NYPL | 32 |
 | 23 |  [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) | 📢 Various README templates &amp; tips on writing high-quality documentation that people want to read. | kylelobo | 3450 |
@@ -463,7 +463,7 @@
 | 89 |  [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) | A collection of links related to Linux kernel exploitation | xairy | 2876 |
 | 90 |  [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | kahun | 19747 |
 | 91 |  [workflows](https://github.com/Shephexd/workflows) | workflows of Alfred | Shephexd | 7 |
-| 92 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2020 | kamranahmedse | 108364 |
+| 92 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2020 | kamranahmedse | 108366 |
 | 93 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 101677 |
 | 94 |  [landscape](https://github.com/cncf/landscape) | 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets. | cncf | 6397 |
 
@@ -531,7 +531,7 @@
 | 29 |  [aws-health-event-to-slack-message](https://github.com/ServerlessOpsIO/aws-health-event-to-slack-message) | Receive AWS health notification events and format to a Slack message and publish over SNS | ServerlessOpsIO | 5 |
 | 30 |  [misc-scripts](https://github.com/jantman/misc-scripts) | A collection of my standalone scripts to small/quick for their own repos. All kinds of useful stuff. | jantman | 101 |
 | 31 |  [AWSSupportManager](https://github.com/Appateria/AWSSupportManager) | Utilities for automating AWS support case tasks | Appateria | 1 |
-| 32 |  [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | mingrammer | 4545 |
+| 32 |  [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | mingrammer | 4546 |
 | 33 |  [aws-auto-remediate](https://github.com/servian/aws-auto-remediate) | Open source application to instantly remediate common security issues through the use of AWS Config | servian | 141 |
 | 34 |  [guardduty-multi-account-manager](https://github.com/mozilla/guardduty-multi-account-manager) | Automate the AWS GuardDuty account invitation lifecycle for all of your organizations AWS accounts in all regions as well as aggregate and normalize the GuardDuty findings | mozilla | 57 |
 | 35 |  [aws-maintenance-lambda](https://github.com/traveloka/aws-maintenance-lambda) | Lambda Function to trigger Jira Issue Creation by AWS Health Event | traveloka | 10 |
@@ -685,7 +685,7 @@
 | 183 |  [octodns](https://github.com/github/octodns) | Tools for managing DNS across multiple providers | github | 1578 |
 | 184 |  [IPpy](https://github.com/shivammathur/IPpy) | :rocket: Parallel testing of IP addresses and domains in python to find the accessible and inaccessible ones. | shivammathur | 50 |
 | 185 |  [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) | Guide to securing and improving privacy on macOS | drduh | 15818 |
-| 186 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 95516 |
+| 186 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 95517 |
 | 187 |  [ArchiveBox](https://github.com/pirate/ArchiveBox) | 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... | pirate | 6414 |
 | 188 |  [scanless](https://github.com/vesche/scanless) | online port scan scraper | vesche | 793 |
 | 189 |  [flask-common](https://github.com/schedutron/flask-common) | A Flask extension with lots of common time-savers (file-serving, favicons, etc). | schedutron | 194 |
@@ -865,7 +865,7 @@
 | 4 |  [prettyplan](https://github.com/chrislewisdev/prettyplan) | A formatting tool to help make large Terraform plans easier to review. | chrislewisdev | 68 |
 | 5 |  [cloud-reports](https://github.com/tensult/cloud-reports) | Scans your AWS cloud resources and generates reports. Check out free hosted version: | tensult | 212 |
 | 6 |  [learn-anything](https://github.com/learn-anything/learn-anything) | Organize world&#39;s knowledge, explore connections and curate learning paths | learn-anything | 12064 |
-| 7 |  [grafana](https://github.com/grafana/grafana) | The tool for beautiful monitoring and metric analytics &amp; dashboards for Graphite, InfluxDB &amp; Prometheus &amp; More | grafana | 34975 |
+| 7 |  [grafana](https://github.com/grafana/grafana) | The tool for beautiful monitoring and metric analytics &amp; dashboards for Graphite, InfluxDB &amp; Prometheus &amp; More | grafana | 34976 |
 
 **[⬆ Back to Index](#-contents)**
 
