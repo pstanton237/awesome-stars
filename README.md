@@ -528,7 +528,6 @@
 - [iann0036/AWSConsoleRecorderGenerator](https://github.com/iann0036/AWSConsoleRecorderGenerator) - A helper extension that is used to assist in the development of the Console Recorder for AWS.
 - [blueimp/aws-lambda](https://github.com/blueimp/aws-lambda) - Collection of functions for AWS Lambda
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [newscorpaus/consigliere](https://github.com/newscorpaus/consigliere) - Multi-account AWS Trusted Advisor Dashboard
 - [dtan4/ec2-event-slack-notifier](https://github.com/dtan4/ec2-event-slack-notifier) - AWS Lambda function / Docker image to notify EC2 Scheduled Events to Slack
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
@@ -715,7 +714,6 @@
 - [doublejim/tree-style-tab-compact-dark-style](https://github.com/doublejim/tree-style-tab-compact-dark-style) - A dark, compact style for Tree Style Tab by Piro (Firefox Extension).
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [Divinreddy/Interview-Questions](https://github.com/Divinreddy/Interview-Questions) - AWS-Devops Questions
-- [meshkorea/front-end-engineering](https://github.com/meshkorea/front-end-engineering) - 메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [sbusso/Bear-Power-Pack](https://github.com/sbusso/Bear-Power-Pack) - A collection of workflows enhancing Bear writer app on iOS and Mac.
@@ -1595,6 +1593,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [aws-samples/aws-fargate-fast-autoscaler](https://github.com/aws-samples/aws-fargate-fast-autoscaler) - AWS Fargate Fast Autosaler - A Serverless Implementation that Triggers your Fargate Autoscaling in Seconds
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
+- [meshkorea/front-end-engineering](https://github.com/meshkorea/front-end-engineering) - 메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [scalefactory/s3audit-ts](https://github.com/scalefactory/s3audit-ts) - CLI tool for auditing S3 buckets
 - [houqp/vpcstudio](https://github.com/houqp/vpcstudio) - VPC design made easy
