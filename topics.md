@@ -2145,7 +2145,6 @@
 - [HomoEfficio/dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
 - [seapy/decolink](https://github.com/seapy/decolink) - Decoration link
 - [aws/Trusted-Advisor-Tools](https://github.com/aws/Trusted-Advisor-Tools) - The sample functions provided help to automate AWS Trusted Advisor best practices using Amazon Cloudwatch events and AWS Lambda.
-- [newscorpaus/consigliere](https://github.com/newscorpaus/consigliere) - Multi-account AWS Trusted Advisor Dashboard
 - [keewon/bus1](https://github.com/keewon/bus1) - 버스 운행 정보를 그래프로 표시
 - [hjacobs/kubernetes-on-aws-users](https://github.com/hjacobs/kubernetes-on-aws-users) - List of companies/organizations running Kubernetes on AWS
 - [thomasdarimont/keycloak-health-checks](https://github.com/thomasdarimont/keycloak-health-checks) - Keycloak Extension for health checks
