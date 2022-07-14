@@ -1574,7 +1574,7 @@
 ## macos 
 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-- [godbout/kindaVim.theapp](https://github.com/godbout/kindaVim.theapp) - Vim Mode for macOS
+- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Vim Mode for macOS
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [pqrs-org/ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
@@ -2856,7 +2856,7 @@
 
 ## swift 
 
-- [godbout/kindaVim.theapp](https://github.com/godbout/kindaVim.theapp) - Vim Mode for macOS
+- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Vim Mode for macOS
 - [hatashiro/kawa](https://github.com/hatashiro/kawa) - A macOS input source switcher with user-defined shortcuts.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -2864,7 +2864,7 @@
 
 ## swiftui 
 
-- [godbout/kindaVim.theapp](https://github.com/godbout/kindaVim.theapp) - Vim Mode for macOS
+- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Vim Mode for macOS
 
 ## symfony 
 
@@ -3029,7 +3029,7 @@
 
 ## vim 
 
-- [godbout/kindaVim.theapp](https://github.com/godbout/kindaVim.theapp) - Vim Mode for macOS
+- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Vim Mode for macOS
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
 - [AlexPl292/IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
