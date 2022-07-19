@@ -30,6 +30,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Mako](#mako)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
 - [OCaml](#ocaml)
@@ -126,7 +127,7 @@
 - [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets.
 - [rkoval/alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
-- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to production, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See o
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [orange-cloudfoundry/statusetat](https://github.com/orange-cloudfoundry/statusetat) - status page with very HA in mind and notifier
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
 - [kubernetes-simulator/simulator](https://github.com/kubernetes-simulator/simulator) - Kubernetes Security Training Platform - Focussing on security mitigation
@@ -611,6 +612,10 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [clouddrove/toc](https://github.com/clouddrove/toc) - A Table of Contents of all CloudDrove Packages and Modules
 
+## Mako 
+
+- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
+
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1075,7 +1080,6 @@
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [pycontribs/jira](https://github.com/pycontribs/jira) - Python Jira library. Development chat available on https://matrix.to/#/#pycontribs:matrix.org
 - [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
-- [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [google/atheris](https://github.com/google/atheris) - 
 - [z0ph/MAMIP](https://github.com/z0ph/MAMIP) - [MAMIP] Monitor AWS Managed IAM Policies Changes
