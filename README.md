@@ -647,6 +647,7 @@
 
 ## Others 
 
+- [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [finopsfoundation/kpis](https://github.com/finopsfoundation/kpis) - 
 - [aws-samples/vpc-cidr-analysis](https://github.com/aws-samples/vpc-cidr-analysis) - 
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
@@ -856,6 +857,8 @@
 
 ## Python 
 
+- [rochacbruno/dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
+- [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - DO NOT FORK, CLICK "Use this template" - The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
