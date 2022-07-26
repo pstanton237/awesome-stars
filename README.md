@@ -496,7 +496,7 @@
 - [maxsivanov/influxdb-timeshift-proxy](https://github.com/maxsivanov/influxdb-timeshift-proxy) - Add timeshift feature to influxdb for grafana users with mathematics between metrics feature
 - [jnarayanan/AWS-Workspaces-Portal](https://github.com/jnarayanan/AWS-Workspaces-Portal) - AWS-Workspaces-Portal
 - [kaihendry/sam-cloudtrail-ec2](https://github.com/kaihendry/sam-cloudtrail-ec2) - Be notified of EC2 instance events 🚀 from any region 🗺️ via a Cloudtrail CloudWatch Logs subscription filter !Rules
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [anonrig/slack-manager](https://github.com/anonrig/slack-manager) - Agile Development tool for Slack. Basically, "Standup Meetings in Slack".
 - [redsift/scrumbot](https://github.com/redsift/scrumbot) - Slack bot for standup meetings
 - [davidahmed/wiper](https://github.com/davidahmed/wiper) - A browser add-on to strip search results from 'blacklisted' URLs on Google
