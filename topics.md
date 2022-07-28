@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
@@ -142,6 +143,10 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
+
+## 3d 
+
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 
 ## ai 
 
@@ -1208,6 +1213,7 @@
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [adammck/terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [jonog/redalert](https://github.com/jonog/redalert) - :rocket: continuously test all the things - trigger alerts on failure :boom:
 - [b4b4r07/zsh-history](https://github.com/b4b4r07/zsh-history) - A plugin for zsh history extended by golang, dealing it like SQL
@@ -1736,6 +1742,7 @@
 - [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [iam-mhaseeb/StandupMonkey](https://github.com/iam-mhaseeb/StandupMonkey) - A self hosted slack bot to conduct standups & generate reports.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -1874,7 +1881,7 @@
 - [akoserwal/keycloak-integrations](https://github.com/akoserwal/keycloak-integrations) - Repository will contain integration patterns with keycloak
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [prisma-cloud/IAMFinder](https://github.com/prisma-cloud/IAMFinder) - IAMFinder enumerates and finds users and IAM roles in a target AWS account.
-- [FinanceData/FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
+- [financedata-org/FinanceDataReader](https://github.com/financedata-org/FinanceDataReader) - Financial data reader
 - [fugue/regula](https://github.com/fugue/regula) - Regula checks infrastructure as code templates (Terraform, CloudFormation, k8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego
 - [aws-samples/aws-iam-permissions-guardrails](https://github.com/aws-samples/aws-iam-permissions-guardrails) - AWS IAM Permissions Guardrails https://aws-samples.github.io/aws-iam-permissions-guardrails/
 - [Netflix-Skunkworks/cloudtrail-anomaly](https://github.com/Netflix-Skunkworks/cloudtrail-anomaly) - 
@@ -2536,7 +2543,6 @@
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
 - [emtunc/SlackPirate](https://github.com/emtunc/SlackPirate) - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [edmunds/shadowreader](https://github.com/edmunds/shadowreader) - Serverless load testing for replaying website traffic. Powered by AWS Lambda.
@@ -2970,7 +2976,6 @@
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [jckuester/awsls](https://github.com/jckuester/awsls) - A list command for AWS resources
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (available in en, fr, es, id, and other languages)
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
