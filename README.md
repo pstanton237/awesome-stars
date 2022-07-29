@@ -199,7 +199,6 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory powered by SQL.
 - [mrparkers/terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider for Keycloak
-- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [ossf/scorecard](https://github.com/ossf/scorecard) - Security Scorecards - Security health metrics for Open Source
 - [loft-sh/kiosk](https://github.com/loft-sh/kiosk) - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
@@ -620,6 +619,7 @@
 
 - [spaceone-dev/spaceone](https://github.com/spaceone-dev/spaceone) - Repository tracking all SpaceONE repositories as submodules
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
+- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 
 ## OCaml 
 
@@ -642,6 +642,7 @@
 
 ## Others 
 
+- [aws-samples/aws-support-case-activity-notifier](https://github.com/aws-samples/aws-support-case-activity-notifier) - 
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [finopsfoundation/kpis](https://github.com/finopsfoundation/kpis) - 
 - [aws-samples/vpc-cidr-analysis](https://github.com/aws-samples/vpc-cidr-analysis) - 
@@ -1562,7 +1563,7 @@
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - A guide for your daily "professional" interactions (not really)
+- [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions (not really)
 - [willdady/aws-resource-based-policy-collector](https://github.com/willdady/aws-resource-based-policy-collector) - Utility for collecting resource-based policies from an AWS account
 - [cloudgraphdev/cloudgraph-policy-packs](https://github.com/cloudgraphdev/cloudgraph-policy-packs) - CloudGraph managed policy packs
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
