@@ -1305,6 +1305,7 @@
 
 ## hacktoberfest 
 
+- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - DO NOT FORK, CLICK "Use this template" - The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
@@ -1750,6 +1751,7 @@
 
 ## others 
 
+- [serenoapp/slackbot](https://github.com/serenoapp/slackbot) - Incident Management ChatOps for Slack
 - [aws-samples/aws-support-case-activity-notifier](https://github.com/aws-samples/aws-support-case-activity-notifier) - 
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [m-vdb/slack-randompicker](https://github.com/m-vdb/slack-randompicker) - Pick a random person from a group or channel in Slack
