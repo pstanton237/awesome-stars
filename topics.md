@@ -641,7 +641,7 @@
 ## bash 
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -725,7 +725,7 @@
 - [xen0l/aws-gate](https://github.com/xen0l/aws-gate) - Better  AWS SSM Session manager CLI client
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [darkbitio/aws-recon](https://github.com/darkbitio/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1227,7 +1227,7 @@
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
 - [jeffotoni/goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops) - Workshop material for 8 hours using golang
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1437,7 +1437,7 @@
 
 ## json 
 
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -3122,7 +3122,7 @@
 
 ## xml 
 
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 
 
 ## License
