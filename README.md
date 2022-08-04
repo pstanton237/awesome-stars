@@ -853,6 +853,7 @@
 
 ## Python 
 
+- [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [serenoapp/slackbot](https://github.com/serenoapp/slackbot) - Incident Management ChatOps for Slack
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
@@ -902,7 +903,7 @@
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
 - [awslabs/aws-cloudsaga](https://github.com/awslabs/aws-cloudsaga) - AWS CloudSaga - Simulate security events in AWS
 - [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - An incident management ChatOps bot for Slack.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplic
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [jtroberts83/Cloud-Custodian](https://github.com/jtroberts83/Cloud-Custodian) - Cloud Custodian Policy Files and code
 - [washingtonpost/aws-tagger](https://github.com/washingtonpost/aws-tagger) - AWS bulk tagging tool
@@ -1563,6 +1564,7 @@
 
 ## TypeScript 
 
+- [cremich/cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) - The serverless cost optimization bot
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions (not really)
