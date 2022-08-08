@@ -256,7 +256,7 @@
 - [samber/sync-ssh-keys](https://github.com/samber/sync-ssh-keys) - 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership.
 - [glassechidna/trackiam](https://github.com/glassechidna/trackiam) - A project to collate IAM actions, AWS APIs and managed policies from various public sources.
 - [dmlittle/scenery](https://github.com/dmlittle/scenery) - A Terraform plan output prettifier
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [kubernetes-retired/kube-aws](https://github.com/kubernetes-retired/kube-aws) - [EOL] A command-line tool to declaratively manage Kubernetes clusters on AWS
 - [similarweb/finala](https://github.com/similarweb/finala) - Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.
 - [remind101/assume-role](https://github.com/remind101/assume-role) - Easily assume AWS roles in your terminal.
@@ -503,7 +503,6 @@
 - [fallroot/wormhole](https://github.com/fallroot/wormhole) - Copy text from A, paste to B automatically
 - [ashiina/aws-lambda-cloudwatch-slack](https://github.com/ashiina/aws-lambda-cloudwatch-slack) - Amazon Lambda to receive data from CloudWatch and post to Slack
 - [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest Node.js v12!
-- [Bridgewater/holochrome](https://github.com/Bridgewater/holochrome) - Use your IAM role (from instance metadata) to open the AWS console
 - [faultline/faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 - [carlosesilva/reinvent-planner](https://github.com/carlosesilva/reinvent-planner) - Plan your AWS re:Invent 2019 sessions by visualizing it in a calendar.
 - [rapid7/awsaml](https://github.com/rapid7/awsaml) - Awsaml is an application for providing automatically rotated temporary AWS credentials.
@@ -648,7 +647,7 @@
 - [aws-samples/vpc-cidr-analysis](https://github.com/aws-samples/vpc-cidr-analysis) - 
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [jeffotoni/goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops) - Workshop material for 8 hours using golang
-- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Vim Mode for macOS
+- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
 - [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) - AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena analysis environment that's quick to deploy, ready to use, and e
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
