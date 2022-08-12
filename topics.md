@@ -369,6 +369,7 @@
 - [Higherings/AutoComputeOptimizer](https://github.com/Higherings/AutoComputeOptimizer) - Automation to apply AWS Compute Optimizer Recommendations to EC2 Instances
 - [aws-samples/amazon-cloudwatch-auto-alarms](https://github.com/aws-samples/amazon-cloudwatch-auto-alarms) - Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.
 - [aws-samples/aws-unit-testing](https://github.com/aws-samples/aws-unit-testing) - Unit testing AWS interactions with pytest and moto. The examples demonstrate how to structure, setup, teardown, mock, and conduct unit testing. These concepts can be applied to general code and are no
+- [aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment) - Command Line Interface tool for Cloud Intelligence Dashboards deployment
 - [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 - [goldfiglabs/rpCheckup](https://github.com/goldfiglabs/rpCheckup) - rpCheckup is an AWS resource policy security checkup tool that identifies public, external account access, intra-org     account access, and private resources.
@@ -1828,7 +1829,6 @@
 - [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - 
 - [aws-samples/iam-roles-pipeline](https://github.com/aws-samples/iam-roles-pipeline) - 
 - [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop) - AWS Workshop for Learning EKS
-- [aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment) - 
 - [aws-samples/aws-modernization-with-pulumi](https://github.com/aws-samples/aws-modernization-with-pulumi) - 
 - [aws-samples/aws-vpc-network-access-analyzer-automation](https://github.com/aws-samples/aws-vpc-network-access-analyzer-automation) - 
 - [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
