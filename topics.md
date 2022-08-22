@@ -421,7 +421,7 @@
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [corollari/aws-color-region-navbar-extension](https://github.com/corollari/aws-color-region-navbar-extension) - OSS browser extension that changes the color of AWS' navbar depending on the region
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory powered by SQL.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source data integration platform for security and infrastructure teams
 - [futurice/terraform-examples](https://github.com/futurice/terraform-examples) - Terraform samples for all the major clouds you can copy and paste. The future, co-created.
 - [zoph-io/awscon-onepager](https://github.com/zoph-io/awscon-onepager) - 📝 AWS Conferences One-Pagers
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
@@ -622,7 +622,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [riskprofiler/CloudFrontier](https://github.com/riskprofiler/CloudFrontier) - Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory powered by SQL.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source data integration platform for security and infrastructure teams
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [cloudskew/cloudskew](https://github.com/cloudskew/cloudskew) - Online Diagram, Flowchart Maker
@@ -1751,6 +1751,7 @@
 
 ## others 
 
+- [ooyala/barkeep](https://github.com/ooyala/barkeep) - The friendly code review system.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [cremich/cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) - The serverless cost optimization bot
 - [serenoapp/slackbot](https://github.com/serenoapp/slackbot) - Incident Management ChatOps for Slack
@@ -1892,7 +1893,6 @@
 - [cdemko-fsecure/prowler-multiaccount](https://github.com/cdemko-fsecure/prowler-multiaccount) - WIP for automated Prowler scanning across multiple accounts in an AWS Organization
 - [toddm92/vpc-delete](https://github.com/toddm92/vpc-delete) - Remove AWS Default VPCs
 - [jsonmaur/aws-regions](https://github.com/jsonmaur/aws-regions) - AWS Regions and Availability Zones
-- [taehoio/youtube2notion](https://github.com/taehoio/youtube2notion) - For whom prefers reading than watching
 - [aws-cloudformation/rain](https://github.com/aws-cloudformation/rain) - A development workflow tool for working with AWS CloudFormation.
 - [jonalxh/Flask-Admin-Dashboard](https://github.com/jonalxh/Flask-Admin-Dashboard) - Flask Admin customized using AdminLTE bootstrap template and flask security to offer a better Dashboard UX
 - [kanayak123/pyadselfservice](https://github.com/kanayak123/pyadselfservice) - Easy and secure web based password change portal for Active Directory user accounts.
@@ -2747,7 +2747,7 @@
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management Knowledge for Cloud Platforms
 - [z0ph/MAMIP](https://github.com/z0ph/MAMIP) - [MAMIP] Monitor AWS Managed IAM Policies Changes
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory powered by SQL.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source data integration platform for security and infrastructure teams
 - [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
 - [Skyscanner/whispers](https://github.com/Skyscanner/whispers) - Identify hardcoded secrets in static structured text
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool
@@ -2887,7 +2887,7 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [turbot/steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Steampipe.
 - [turbot/steampipe-mod-aws-thrifty](https://github.com/turbot/steampipe-mod-aws-thrifty) - Are you a Thrifty AWS dev? This Steampipe mod checks your AWS accounts for unused and under-utilized resources.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory powered by SQL.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source data integration platform for security and infrastructure teams
 - [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
