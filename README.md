@@ -197,7 +197,7 @@
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [Netflix/weep](https://github.com/Netflix/weep) - The ConsoleMe CLI utility
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source cloud asset inventory powered by SQL.
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open-source data integration platform for security and infrastructure teams
 - [mrparkers/terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider for Keycloak
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [ossf/scorecard](https://github.com/ossf/scorecard) - Security Scorecards - Security health metrics for Open Source
@@ -999,7 +999,6 @@
 - [Netflix-Skunkworks/cloudtrail-anomaly](https://github.com/Netflix-Skunkworks/cloudtrail-anomaly) - 
 - [aws-samples/aws-health-aware](https://github.com/aws-samples/aws-health-aware) - AHA is an incident management & communication framework to provide real-time alert customers when there are active AWS event(s). For customers with AWS Organizations, customers can get aggregated acti
 - [toddm92/vpc-delete](https://github.com/toddm92/vpc-delete) - Remove AWS Default VPCs
-- [taehoio/youtube2notion](https://github.com/taehoio/youtube2notion) - For whom prefers reading than watching
 - [iam-mhaseeb/StandupMonkey](https://github.com/iam-mhaseeb/StandupMonkey) - A self hosted slack bot to conduct standups & generate reports.
 - [nicklambourne/slackblocks](https://github.com/nicklambourne/slackblocks) - :game_die: Python API for Building Messages Using the Slack Block Kit API
 - [kanayak123/pyadselfservice](https://github.com/kanayak123/pyadselfservice) - Easy and secure web based password change portal for Active Directory user accounts.
@@ -1380,6 +1379,7 @@
 
 ## Ruby 
 
+- [ooyala/barkeep](https://github.com/ooyala/barkeep) - The friendly code review system.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [OpenCSPM/opencspm](https://github.com/OpenCSPM/opencspm) - Open Cloud Security Posture Management Engine
 - [darkbitio/aws-recon](https://github.com/darkbitio/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
