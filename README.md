@@ -151,7 +151,7 @@
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -350,7 +350,7 @@
 - [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) - Example usage of HashiCorp Terraform
 - [futurice/terraform-examples](https://github.com/futurice/terraform-examples) - Terraform samples for all the major clouds you can copy and paste. The future, co-created.
 - [nccgroup/sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [easttimor/aws-incident-response](https://github.com/easttimor/aws-incident-response) - 
@@ -1099,7 +1099,7 @@
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [ksmin23/aws-blog-trans-bot](https://github.com/ksmin23/aws-blog-trans-bot) - 영문 AWS 블로그 포스팅 한국어로 자동번역해서 e-mail로 발송해주는 solution
 - [ksmin23/aws-rss-feed-trans-bot](https://github.com/ksmin23/aws-rss-feed-trans-bot) - 영문 AWS 최신 소식 (What's New with AWS?)을 한국어로 자동번역해서 e-mail로 발송해주는 solution
-- [FSecureLABS/awspx](https://github.com/FSecureLABS/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [impredicative/bitlyshortener](https://github.com/impredicative/bitlyshortener) - High-volume Bitly V4 URL shortener with in-memory cache
 - [zen4ever/route53manager](https://github.com/zen4ever/route53manager) - Simple GUI for Route 53 Amazon DNS written with Flask and boto
 - [longhorn09/aws_prices](https://github.com/longhorn09/aws_prices) - Fetch AWS Savings Plan prices into Excel
