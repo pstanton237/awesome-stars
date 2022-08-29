@@ -440,7 +440,6 @@
 - [L21s/keycloak-monitoring-prometheus](https://github.com/L21s/keycloak-monitoring-prometheus) - Monitor your keycloak with prometheus
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [zalando-stups/fullstop](https://github.com/zalando-stups/fullstop) - Audit reporting: collect violations across all AWS accounts
-- [tmobile/pacbot](https://github.com/tmobile/pacbot) - PacBot (Policy as Code Bot)
 - [opsmatters/newrelic-api](https://github.com/opsmatters/newrelic-api) - Java client library for the New Relic Monitoring and Alerting REST APIs built using Jersey and Gson.
 - [pwm-project/pwm](https://github.com/pwm-project/pwm) - pwm
 - [amazon-archives/cloudwatch-logs-subscription-consumer](https://github.com/amazon-archives/cloudwatch-logs-subscription-consumer) - A specialized Amazon Kinesis stream reader (based on the Amazon Kinesis Connector Library) that can help you deliver data from Amazon CloudWatch Logs to any other system in near real-time using a Clou
