@@ -352,6 +352,7 @@
 - [pitkley/aws-search-extension](https://github.com/pitkley/aws-search-extension) - A search-extension, providing quick, fuzzy-search results for AWS developers. Includes AWS API, AWS CLI and AWS CloudFormation references. Compatible with most browsers.
 - [xen0l/aws-gate](https://github.com/xen0l/aws-gate) - Better  AWS SSM Session manager CLI client
 - [common-fate/iamzero](https://github.com/common-fate/iamzero) - Identity & Access Management simplified and secure.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [hseera/aws-python-utilities](https://github.com/hseera/aws-python-utilities) - Python utilities for AWS related tasks.
 - [awslabs/aws-perspective](https://github.com/awslabs/aws-perspective) - AWS Perspective is a solution to visualize AWS Cloud workloads. Using Perspective you can build, customize, and share detailed architecture diagrams of your workloads based on live data from AWS. Pers
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
@@ -615,6 +616,7 @@
 ## azure 
 
 - [HoussemDellai/terraform-course](https://github.com/HoussemDellai/terraform-course) - Full course for deploying Infrastructure to the Cloud using Terraform
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
 - [indeni/dragoneye](https://github.com/indeni/dragoneye) - Scan cloud infrastructure data from multi-cloud providers
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
@@ -885,10 +887,12 @@
 
 ## devops 
 
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [infracost/infracost-atlantis](https://github.com/infracost/infracost-atlantis) - Atlantis integration for Infracost. Shows cloud cost estimates for Terraform in pull requests.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is your K8s best friend for creating, validating, debugging and managing manifests! 🚀
 - [phzietsman/aws-slack-clickoops-watcher](https://github.com/phzietsman/aws-slack-clickoops-watcher) - Get alerts when people are using the AWS console to modify create or modify resources.
@@ -1159,6 +1163,7 @@
 
 ## github 
 
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [PaperMtn/github-watchman](https://github.com/PaperMtn/github-watchman) - Monitoring GitHub for sensitive data shared publicly
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
@@ -1180,6 +1185,7 @@
 
 ## go 
 
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [rkoval/alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
@@ -1233,6 +1239,7 @@
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
 - [jeffotoni/goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops) - Workshop material for 8 hours using golang
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1476,6 +1483,7 @@
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is your K8s best friend for creating, validating, debugging and managing manifests! 🚀
 - [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path
@@ -2964,6 +2972,7 @@
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [GoogleCloudPlatform/terraform-python-testing-helper](https://github.com/GoogleCloudPlatform/terraform-python-testing-helper) - Simple Python test helper for Terraform.
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [phzietsman/aws-slack-clickoops-watcher](https://github.com/phzietsman/aws-slack-clickoops-watcher) - Get alerts when people are using the AWS console to modify create or modify resources.
 - [antonbabenko/serverless.tf](https://github.com/antonbabenko/serverless.tf) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform.
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
