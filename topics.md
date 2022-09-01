@@ -1788,7 +1788,7 @@
 - [aws-samples/aws-well-architected-tool-template-automation](https://github.com/aws-samples/aws-well-architected-tool-template-automation) - 
 - [aws-samples/vpc-cidr-analysis](https://github.com/aws-samples/vpc-cidr-analysis) - 
 - [yeo/betterdev.link](https://github.com/yeo/betterdev.link) - Links to improve programing skill
-- [kubernetes-simulator/simulator](https://github.com/kubernetes-simulator/simulator) - Kubernetes Security Training Platform - Focussing on security mitigation
+- [kubernetes-simulator/simulator](https://github.com/kubernetes-simulator/simulator) - Kubernetes Security Training Platform - focusing on security mitigation
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [cds-snc/sre-bot](https://github.com/cds-snc/sre-bot) - Slack bot for site reliability engineering
