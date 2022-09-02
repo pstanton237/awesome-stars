@@ -167,7 +167,6 @@
 ## ansible 
 
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Generate Google Cloud Platform support for Terraform, Ansible, InSpec
 - [rohitkhatana/aws](https://github.com/rohitkhatana/aws) - python scripts for interacting with aws
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [1ambda/terraform-all-in-one](https://github.com/1ambda/terraform-all-in-one) - Get fine-grained Kubernetes + Infrastructure on AWS in 30 mins 🚀
@@ -1198,6 +1197,7 @@
 - [wtetsu/gaze](https://github.com/wtetsu/gaze) - 👁️Executes commands for you
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -1249,6 +1249,7 @@
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minima
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [mercari/tfnotify](https://github.com/mercari/tfnotify) - A CLI command to parse Terraform execution result and notify it to GitHub
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [lalamove/konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era
@@ -1298,7 +1299,7 @@
 ## google-cloud 
 
 - [doitintl/gtoken](https://github.com/doitintl/gtoken) - Securely access AWS services from GKE cluster
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Generate Google Cloud Platform support for Terraform, Ansible, InSpec
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [doitintl/iris3](https://github.com/doitintl/iris3) - An upgraded and improved version of the Iris automatic GCP-labeling project
 - [banzaicloud/telescopes](https://github.com/banzaicloud/telescopes) - Telescopes is a cloud instance types and full cluster layout recommender consisting of on-demand and spot/preemptible AWS EC2, Google, Azure, Oracle and Alibaba cloud instances.
@@ -1328,6 +1329,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, letting you run local code in cloud conditions.
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 - [jeff-knurek/tfarbe](https://github.com/jeff-knurek/tfarbe) - add color to Terraform 12/13 plan output, also format it for markdown diff
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
@@ -2707,7 +2709,7 @@
 
 ## ruby 
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Generate Google Cloud Platform support for Terraform, Ansible, InSpec
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
@@ -2984,7 +2986,7 @@
 - [maddevsio/aws-eks-base](https://github.com/maddevsio/aws-eks-base) - This boilerplate contains terraform configurations for the rapid deployment of a Kubernetes cluster, supporting services, and the underlying infrastructure in AWS.
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - Universal Tool for DevOps and Cloud Automation (works with terraform, helm, helmfile, etc)
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Generate Google Cloud Platform support for Terraform, Ansible, InSpec
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [Voronenko/devops-tf-eks](https://github.com/Voronenko/devops-tf-eks) - terraform baked AWS kubernetes cluster (EKS) - 1.18 compatible
 - [mercari/tfnotify](https://github.com/mercari/tfnotify) - A CLI command to parse Terraform execution result and notify it to GitHub
 - [antonbabenko/terraform-cost-estimation](https://github.com/antonbabenko/terraform-cost-estimation) - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version)
