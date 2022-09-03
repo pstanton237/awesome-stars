@@ -858,6 +858,7 @@
 
 ## Python 
 
+- [seanpar203/event-bus](https://github.com/seanpar203/event-bus) - A simple python event bus.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [serenoapp/slackbot](https://github.com/serenoapp/slackbot) - Incident Management ChatOps for Slack
