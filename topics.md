@@ -1768,6 +1768,7 @@
 
 ## others 
 
+- [seanpar203/event-bus](https://github.com/seanpar203/event-bus) - A simple python event bus.
 - [ooyala/barkeep](https://github.com/ooyala/barkeep) - The friendly code review system.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [cremich/cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) - The serverless cost optimization bot
