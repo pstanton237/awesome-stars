@@ -858,6 +858,7 @@
 
 ## Python 
 
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [seanpar203/event-bus](https://github.com/seanpar203/event-bus) - A simple python event bus.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
