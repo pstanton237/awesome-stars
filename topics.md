@@ -98,6 +98,7 @@
 - [nosql](#nosql)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
 - [perl](#perl)
@@ -1383,6 +1384,7 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
@@ -1404,6 +1406,7 @@
 
 ## http 
 
+- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 
@@ -1765,6 +1768,13 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
+## osint 
+
+- [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
+- [gnebbia/pdlist](https://github.com/gnebbia/pdlist) - A passive subdomain finder
+- [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
+
 ## others 
 
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A super simple SMS filtering application for iOS
@@ -2051,7 +2061,6 @@
 - [andreazorzetto/yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours to kubectl output
 - [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password) - Web interface to change and reset password in an LDAP directory
 - [SummitRoute/aws_exposable_resources](https://github.com/SummitRoute/aws_exposable_resources) - Resource types that can be publicly exposed on AWS
-- [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [Signiant/aws-team-cost-reporter](https://github.com/Signiant/aws-team-cost-reporter) - Reports on AWS team costs using data from CloudCheckR
 - [henrique-freitas/report-untagged-resources-AWS](https://github.com/henrique-freitas/report-untagged-resources-AWS) - Reports Untaged Resources in AWS
 - [RyuaNerin/only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow) - 웹 브라우저 광고 차단 플러그인을 활용하여 구글, 덕덕고 검색에서 stackoverflow 복사 사이트를 숨깁니다.
@@ -2098,7 +2107,6 @@
 - [fallroot/vscode-dandy](https://github.com/fallroot/vscode-dandy) - 한국어 맞춤법 검사기 for Visual Studio Code
 - [fallroot/dandy](https://github.com/fallroot/dandy) - “단디”는 부산대학교 인공지능연구실과 (주)나라인포테크가 공동으로 만들어 http://speller.cs.pusan.ac.kr 페이지에서 제공하는 “한국어 맞춤법/문법 검사기”를 맥에서 쉽게 사용할 수 있도록 해 주는 도구입니다. 맥의 오토메이터를 이용해서 맥 서비스 형태로 제작했습니다.
 - [fallroot/wormhole](https://github.com/fallroot/wormhole) - Copy text from A, paste to B automatically
-- [gnebbia/pdlist](https://github.com/gnebbia/pdlist) - A passive subdomain finder
 - [darold/sendmailanalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP env
 - [catatnight/docker-postfix](https://github.com/catatnight/docker-postfix) - run postfix with smtp authentication (sasldb) in a docker container
 - [kumina/postfix_exporter](https://github.com/kumina/postfix_exporter) - A Prometheus exporter for Postfix.
@@ -2191,7 +2199,6 @@
 - [fugue/credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
 - [nikipore/alfred-firefoxbookmarks](https://github.com/nikipore/alfred-firefoxbookmarks) - Alfred Workflow: Access to Firefox Bookmarks and User Input History
 - [alanwill/aws-tailor](https://github.com/alanwill/aws-tailor) - AWS account provisioning and management service
-- [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [chanzuckerberg/cztack](https://github.com/chanzuckerberg/cztack) - The CZI infrastructure stack.
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak
@@ -2424,7 +2431,6 @@
 - [ryanhartkopf/check_aws_status_feed](https://github.com/ryanhartkopf/check_aws_status_feed) - Checks http://status.aws.amazon.com/ RSS feeds for outage and performance information.
 - [hirose31/monitor-aws-status](https://github.com/hirose31/monitor-aws-status) - checks AWS service health dashboard periodically and notifies us a new problem by IRC
 - [Shephexd/workflows](https://github.com/Shephexd/workflows) - workflows of Alfred
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [ujenmr/ansible-logstash-callback](https://github.com/ujenmr/ansible-logstash-callback) - 
@@ -2486,6 +2492,7 @@
 
 ## python 
 
+- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
