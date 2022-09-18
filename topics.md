@@ -1374,6 +1374,7 @@
 - [circa10a/go-aws-news](https://github.com/circa10a/go-aws-news) - Go app + library to fetch what's new from AWS
 - [disjukr/just-news](https://github.com/disjukr/just-news) - a userscript project that parses korean news site and then making more readable view
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
@@ -2187,7 +2188,6 @@
 - [evilpete/aws_access_adviser](https://github.com/evilpete/aws_access_adviser) - This script generates CSV formatted reports simular to  AWS' IAM Access Adviser in AWS Console Web UI
 - [FINRAOS/aphelion](https://github.com/FINRAOS/aphelion) - Aphelion is a web application that captures and visualizes your AWS services usage limits. It continuously collects data in the background and you can visualize the data in easy-to-see graphs and char
 - [alanakirby/aktion](https://github.com/alanakirby/aktion) - AKTION sends the latest AWS Services and Actions each week to your chosen email address. Essential for AWS IAM policy management.
-- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [rewindio/aws-cloudwatch-slack-notifier](https://github.com/rewindio/aws-cloudwatch-slack-notifier) - Lambda to send notifications to Slack for Cloudwatch alarms
 - [assertible/lambda-cloudwatch-slack](https://github.com/assertible/lambda-cloudwatch-slack) - Send AWS CloudWatch notifications to a Slack channel using Lambda
@@ -2436,7 +2436,7 @@
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [ujenmr/ansible-logstash-callback](https://github.com/ujenmr/ansible-logstash-callback) - 
 - [jlafon/ansible-profile](https://github.com/jlafon/ansible-profile) - An Ansible plugin for timing tasks
-- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 
+- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [aws/aws-health-tools](https://github.com/aws/aws-health-tools) - The samples provided in AWS Health Tools can help users to build automation and customized alerting in response to AWS Health events.
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
@@ -2631,7 +2631,7 @@
 - [vstconsulting/polemarch](https://github.com/vstconsulting/polemarch) - Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-- [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
+- [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [kren1/tosheets](https://github.com/kren1/tosheets) - Send your stdin to google sheets
 - [agermanidis/livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
