@@ -1780,6 +1780,7 @@
 
 ## others 
 
+- [wolverdude/GenSON](https://github.com/wolverdude/GenSON) - GenSON is a powerful, user-friendly JSON Schema generator built in Python.
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A super simple SMS filtering application for iOS
 - [seanpar203/event-bus](https://github.com/seanpar203/event-bus) - A simple python event bus.
 - [ooyala/barkeep](https://github.com/ooyala/barkeep) - The friendly code review system.
