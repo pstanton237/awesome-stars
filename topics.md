@@ -338,6 +338,7 @@
 
 ## aws 
 
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [nplutt/pydantic-kms-secrets](https://github.com/nplutt/pydantic-kms-secrets) - Utility to decrypt and encrypt secrets using AWS KMS keys that also integrates with pydantic models which allows for encrypted values to be stored in .env files and be decrypted at runtime
 - [turbot/steampipe-mod-aws-insights](https://github.com/turbot/steampipe-mod-aws-insights) - View dashboards and reports across all of your AWS accounts using Steampipe.
 - [infracost/infracost-atlantis](https://github.com/infracost/infracost-atlantis) - Atlantis integration for Infracost. Shows cloud cost estimates for Terraform in pull requests.
@@ -407,7 +408,7 @@
 - [brennerm/aws-quota-checker](https://github.com/brennerm/aws-quota-checker) - Keep an eye on your AWS quotas before you hit their limits
 - [tilfin/aws-iam-policy-tool](https://github.com/tilfin/aws-iam-policy-tool) - AWS IAM role/policy management command line tool
 - [terraform-aws-modules/terraform-aws-pricing](https://github.com/terraform-aws-modules/terraform-aws-pricing) - Terraform module which calculates price of AWS infrastructure (from Terraform state and plan) 🇺🇦
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment
@@ -823,7 +824,7 @@
 ## csharp 
 
 - [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
 
 ## css 
@@ -1255,7 +1256,7 @@
 - [mercari/tfnotify](https://github.com/mercari/tfnotify) - A CLI command to parse Terraform execution result and notify it to GitHub
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [lalamove/konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [jckuester/awsls](https://github.com/jckuester/awsls) - A list command for AWS resources
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
@@ -1321,6 +1322,7 @@
 
 ## hacktoberfest 
 
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -1437,7 +1439,7 @@
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
 - [jpdillingham/AWSPricingExplorer](https://github.com/jpdillingham/AWSPricingExplorer) - A microservice for the AWS Pricing Api, written in JavaScript with Express, React, and blueprintjs.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -1731,7 +1733,7 @@
 ## nextjs 
 
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions (not really)
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 
 ## nodejs 
@@ -2495,6 +2497,7 @@
 
 ## python 
 
+- [madzak/python-json-logger](https://github.com/madzak/python-json-logger) - Json Formatter for the standard python logger
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -2560,7 +2563,7 @@
 - [kislyuk/watchtower](https://github.com/kislyuk/watchtower) - Python CloudWatch Logging: Log Analytics and Application Intelligence
 - [latture/json2table](https://github.com/latture/json2table) - Converts JSON to an HTML table
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [buttercrab/wtfpython-ko](https://github.com/buttercrab/wtfpython-ko) - 놀라운 예제들을 통해서 파이썬을 탐험하고 이해해보세요!
@@ -2703,7 +2706,7 @@
 ## reactjs 
 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [ansible/awx](https://github.com/ansible/awx) - AWX Project
 
@@ -2749,6 +2752,7 @@
 
 ## security 
 
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [hilt86/NAGBOT](https://github.com/hilt86/NAGBOT) - Slack bot that helps you deal with suspicious SSHD logins
@@ -2845,7 +2849,7 @@
 - [aws-samples/aws-health-aware](https://github.com/aws-samples/aws-health-aware) - AHA is an incident management & communication framework to provide real-time alert customers when there are active AWS event(s). For customers with AWS Organizations, customers can get aggregated acti
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [riskprofiler/CloudFrontier](https://github.com/riskprofiler/CloudFrontier) - Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [serverless/components](https://github.com/serverless/components) - The Serverless Framework's new infrastructure provisioning technology — Build, compose, & deploy serverless apps in seconds...
@@ -3016,7 +3020,7 @@
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [jckuester/awsls](https://github.com/jckuester/awsls) - A list command for AWS resources
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴🇹🇷
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
@@ -3089,7 +3093,7 @@
 - [cookpad/uguisu](https://github.com/cookpad/uguisu) - AWS resource monitoring tool based on CIS benchmark
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is your K8s best friend for creating, validating, debugging and managing manifests! 🚀
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 
