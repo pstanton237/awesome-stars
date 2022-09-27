@@ -1056,6 +1056,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [cevoaustralia/tag-sentinel](https://github.com/cevoaustralia/tag-sentinel) - Serverless tag policy tool
 - [cevoaustralia/gcp-sa-to-aws-iam-role](https://github.com/cevoaustralia/gcp-sa-to-aws-iam-role) - Example code for using a GCP Service Account to acquire AWS IAM Role credentials
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [johnbrandborg/aws-acm-autovalidate](https://github.com/johnbrandborg/aws-acm-autovalidate) - A Lambda Function to automate the creation of Certificates in AWS ACM with DNS Validation
 - [riskprofiler/CloudFrontier](https://github.com/riskprofiler/CloudFrontier) - Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
@@ -1238,7 +1239,7 @@
 - [janiko71/aws-inventory](https://github.com/janiko71/aws-inventory) - Python script for AWS resources inventory (cheaper than AWS Config)
 - [scopely-devops/skewer](https://github.com/scopely-devops/skewer) - The Skew Elasticsearch Repository
 - [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets
-- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything about web-application firewalls (WAF).
+- [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Web-application firewalls (WAFs) from security standpoint.
 - [gianlucaborello/aws-ssh-config](https://github.com/gianlucaborello/aws-ssh-config) - Generate SSH config files from AWS EC2 inventory
 - [openstack/bashate](https://github.com/openstack/bashate) - Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
 - [bdclark/awsenv](https://github.com/bdclark/awsenv) - Set profile-based AWS environment variables with ease.
@@ -1466,7 +1467,6 @@
 - [DenizParlak/hayat](https://github.com/DenizParlak/hayat) - Hayat is a script for report and analyze Google Cloud Platform resources.
 - [GoogleCloudPlatform/istio-samples](https://github.com/GoogleCloudPlatform/istio-samples) - Istio demos and sample applications for GCP
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
 - [RyuaNerin/only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow) - 웹 브라우저 광고 차단 플러그인을 활용하여 구글, 덕덕고 검색에서 stackoverflow 복사 사이트를 숨깁니다.
