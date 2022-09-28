@@ -1323,6 +1323,7 @@
 ## hacktoberfest 
 
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
+- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -1339,6 +1340,7 @@
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
@@ -1374,7 +1376,6 @@
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
-- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [circa10a/go-aws-news](https://github.com/circa10a/go-aws-news) - Go app + library to fetch what's new from AWS
 - [disjukr/just-news](https://github.com/disjukr/just-news) - a userscript project that parses korean news site and then making more readable view
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
@@ -1391,7 +1392,7 @@
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
@@ -1809,7 +1810,7 @@
 - [aws-samples/aws-well-architected-tool-template-automation](https://github.com/aws-samples/aws-well-architected-tool-template-automation) - 
 - [aws-samples/vpc-cidr-analysis](https://github.com/aws-samples/vpc-cidr-analysis) - 
 - [yeo/betterdev.link](https://github.com/yeo/betterdev.link) - Links to improve programing skill
-- [kubernetes-simulator/simulator](https://github.com/kubernetes-simulator/simulator) - Kubernetes Security Training Platform - focusing on security mitigation
+- [controlplaneio/simulator](https://github.com/controlplaneio/simulator) - Kubernetes Security Training Platform - focusing on security mitigation
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [cds-snc/sre-bot](https://github.com/cds-snc/sre-bot) - Slack bot for site reliability engineering
@@ -2146,6 +2147,7 @@
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [houqp/vpcstudio](https://github.com/houqp/vpcstudio) - VPC design made easy
+- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [anthcourtney/ansible-role-cis-amazon-linux](https://github.com/anthcourtney/ansible-role-cis-amazon-linux) - Ansible role to apply CIS Amazon Linux Benchmark v2.0.0
 - [alicek106/start-docker-kubernetes](https://github.com/alicek106/start-docker-kubernetes) - 시작하세요! 도커, 그리고 쿠버네티스 책에서 사용되는 예제를 정리한 저장소입니다.
@@ -2323,7 +2325,7 @@
 - [flarco/elk-tcpdump](https://github.com/flarco/elk-tcpdump) - Code to aggregate tcpdump traffic and send to ELK (Elasticsearch-Logstach-Kibana)
 - [CenturyLinkLabs/dockerfile-from-image](https://github.com/CenturyLinkLabs/dockerfile-from-image) - 
 - [awslabs/hids-cloudwatchlogs-elasticsearch-template](https://github.com/awslabs/hids-cloudwatchlogs-elasticsearch-template) - Monitor Host-Based Intrusion Detection System Alerts on Amazon EC2 Instances
-- [aws-solutions/aws-limit-monitor](https://github.com/aws-solutions/aws-limit-monitor) - Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API.
+- [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - Customizable Lambda functions to proactively notify you when you are about to hit an AWS service limit. Requires Enterprise or Business level support to access Support API.
 - [te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler) - A small lambda script that will disable access keys older than a given amount of days.
 - [awsdocs/aws-cost-management-user-guide](https://github.com/awsdocs/aws-cost-management-user-guide) - The open source version of the AWS Billing and Cost Management docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull 
 - [aws-samples/aws-cost-explorer-report](https://github.com/aws-samples/aws-cost-explorer-report) - Python SAM Lambda module for generating an Excel cost report with graphs, including month on month cost changes. Uses the AWS Cost Explorer API for data.
@@ -2803,7 +2805,6 @@
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [SecurityFTW/cs-suite](https://github.com/SecurityFTW/cs-suite) - Cloud Security Suite - One stop tool for auditing the security posture of AWS/GCP/Azure infrastructure.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [dev-sec/cis-dil-benchmark](https://github.com/dev-sec/cis-dil-benchmark) - CIS Distribution Independent Linux Benchmark - InSpec Profile
