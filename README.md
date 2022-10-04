@@ -417,7 +417,7 @@
 - [Netflix/frigga](https://github.com/Netflix/frigga) - Utilities for working with Asgard named objects
 - [daniel-frak/keycloak-user-migration](https://github.com/daniel-frak/keycloak-user-migration) - A Keycloak plugin for migrating users from legacy systems
 - [FX-HAO/keycloak-phone-authenticator](https://github.com/FX-HAO/keycloak-phone-authenticator) - Obtain token and reset password via SMS
-- [ashald/EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
+- [ashald/EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.x is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [akoserwal/keycloak-integrations](https://github.com/akoserwal/keycloak-integrations) - Repository will contain integration patterns with keycloak
 - [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 - [awslabs/route53-infima](https://github.com/awslabs/route53-infima) - Library for managing service-level fault isolation using Amazon Route 53.
