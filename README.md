@@ -936,7 +936,7 @@
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [aws-samples/aws-scheduled-event-adjuster](https://github.com/aws-samples/aws-scheduled-event-adjuster) - 
 - [aws-samples/aws-multi-region-multi-account-config-status-dashboard](https://github.com/aws-samples/aws-multi-region-multi-account-config-status-dashboard) - 
-- [remontti/downdetector_zbx_grafana](https://github.com/remontti/downdetector_zbx_grafana) - Downdetector Status Zabbix & Grafana
+- [remontti/downdetector_zbx_grafana-DESCONTINUADO-](https://github.com/remontti/downdetector_zbx_grafana-DESCONTINUADO-) - Downdetector Status Zabbix & Grafana
 - [aws-samples/scp-analyzer](https://github.com/aws-samples/scp-analyzer) - 
 - [Higherings/AutoComputeOptimizer](https://github.com/Higherings/AutoComputeOptimizer) - Automation to apply AWS Compute Optimizer Recommendations to EC2 Instances
 - [bsycorp/naclgen](https://github.com/bsycorp/naclgen) - AWS Network ACL Generator for Terraform
