@@ -878,6 +878,7 @@
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [DevopsArtFactory/goployer](https://github.com/DevopsArtFactory/goployer) - AWS Deployer with Go
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [jordanwilson230/kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).
 - [StackStorm/st2-docker](https://github.com/StackStorm/st2-docker) - StackStorm docker-compose deployment
@@ -1337,6 +1338,7 @@
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+- [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
 - [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access your cloud.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -1393,6 +1395,7 @@
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 2.7/3.X client for HashiCorp Vault
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -1549,6 +1552,7 @@
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [kontena/mortar](https://github.com/kontena/mortar) - The manifest shooter for Kubernetes
 - [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
@@ -1838,7 +1842,6 @@
 - [iann0036/iamlive-lambda-extension](https://github.com/iann0036/iamlive-lambda-extension) - Lambda Extension for iamlive
 - [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) - AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena analysis environment that's quick to deploy, ready to use, and e
 - [cloudgraphdev/cloudgraph-policy-packs](https://github.com/cloudgraphdev/cloudgraph-policy-packs) - CloudGraph managed policy packs
-- [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
 - [iann0036/aws.permissions.cloud](https://github.com/iann0036/aws.permissions.cloud) - A crowdsourced AWS IAM permissions reference.
 - [awslabs/automated-account-configuration](https://github.com/awslabs/automated-account-configuration) - The Automated Account Configuration is a sample solution to enable operational scale for AWS customers by automating repeatable steps required before AWS accounts are used for customer workloads. Step
 - [CRED-CLUB/DIAL](https://github.com/CRED-CLUB/DIAL) - DIAL(Did I Alert Lambda?) is a centralised security misconfiguration detection framework which completely runs on AWS Managed services like AWS API Gateway, AWS Event Bridge & AWS Lambda
@@ -1870,7 +1873,7 @@
 - [aws-samples/aws-scheduled-event-adjuster](https://github.com/aws-samples/aws-scheduled-event-adjuster) - 
 - [aws-samples/aws-cloud-custodian-sample-collection](https://github.com/aws-samples/aws-cloud-custodian-sample-collection) - 
 - [ministryofjustice/aws-root-account](https://github.com/ministryofjustice/aws-root-account) - Terraform for the Ministry of Justice AWS root account
-- [remontti/downdetector_zbx_grafana](https://github.com/remontti/downdetector_zbx_grafana) - Downdetector Status Zabbix & Grafana
+- [remontti/downdetector_zbx_grafana-DESCONTINUADO-](https://github.com/remontti/downdetector_zbx_grafana-DESCONTINUADO-) - Downdetector Status Zabbix & Grafana
 - [aws-samples/scp-analyzer](https://github.com/aws-samples/scp-analyzer) - 
 - [aws-samples/multi-environment-chatops-bot-for-controltower](https://github.com/aws-samples/multi-environment-chatops-bot-for-controltower) - 
 - [bsycorp/naclgen](https://github.com/bsycorp/naclgen) - AWS Network ACL Generator for Terraform
@@ -2089,7 +2092,6 @@
 - [nachomillangarcia/prometheus_aws_cost_exporter](https://github.com/nachomillangarcia/prometheus_aws_cost_exporter) - Exporter for AWS Cost Explorer daily costs
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [hsw0/vpnvm-openconnect](https://github.com/hsw0/vpnvm-openconnect) - 
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [scopely-devops/skew](https://github.com/scopely-devops/skew) - 
@@ -2532,6 +2534,7 @@
 - [hseera/cloudfront-manager](https://github.com/hseera/cloudfront-manager) - An AWS utility to Invalidate, Enable, Disable and Delete Cloudfront distribution. Also display detail of a distribution.
 - [yukiyan/minimal-python-project-boilerplate](https://github.com/yukiyan/minimal-python-project-boilerplate) - 📜 Boilerplate for minimal python project using poetry, pre-commit, black, isort, flake8, nox
 - [hseera/aws-python-utilities](https://github.com/hseera/aws-python-utilities) - Python utilities for AWS related tasks.
+- [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [zerwes/hiyapyco](https://github.com/zerwes/hiyapyco) - HiYaPyCo - A Hierarchical Yaml Python Config
