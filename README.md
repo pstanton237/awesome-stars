@@ -496,7 +496,6 @@
 - [maxsivanov/influxdb-timeshift-proxy](https://github.com/maxsivanov/influxdb-timeshift-proxy) - Add timeshift feature to influxdb for grafana users with mathematics between metrics feature
 - [jnarayanan/AWS-Workspaces-Portal](https://github.com/jnarayanan/AWS-Workspaces-Portal) - AWS-Workspaces-Portal
 - [kaihendry/sam-cloudtrail-ec2](https://github.com/kaihendry/sam-cloudtrail-ec2) - Be notified of EC2 instance events 🚀 from any region 🗺️ via a Cloudtrail CloudWatch Logs subscription filter !Rules
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [anonrig/slack-manager](https://github.com/anonrig/slack-manager) - Agile Development tool for Slack. Basically, "Standup Meetings in Slack".
 - [redsift/scrumbot](https://github.com/redsift/scrumbot) - Slack bot for standup meetings
 - [davidahmed/wiper](https://github.com/davidahmed/wiper) - A browser add-on to strip search results from 'blacklisted' URLs on Google
@@ -857,6 +856,7 @@
 
 ## Python 
 
+- [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
@@ -1625,6 +1625,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [meshkorea/front-end-engineering](https://github.com/meshkorea/front-end-engineering) - 메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [scalefactory/s3audit-ts](https://github.com/scalefactory/s3audit-ts) - CLI tool for auditing S3 buckets
 - [houqp/vpcstudio](https://github.com/houqp/vpcstudio) - VPC design made easy
 - [qjebbs/vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
