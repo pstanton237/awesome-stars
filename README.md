@@ -453,7 +453,7 @@
 - [cplankey/lambda-errors-to-slack](https://github.com/cplankey/lambda-errors-to-slack) - Subscribes to tagged Lambdas in your account and forwards their errors to a specified Slack channel
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [pitkley/aws-search-extension](https://github.com/pitkley/aws-search-extension) - A search-extension, providing quick, fuzzy-search results for AWS developers. Includes AWS API, AWS CLI and AWS CloudFormation references. Compatible with most browsers.
-- [awslabs/aws-perspective](https://github.com/awslabs/aws-perspective) - AWS Perspective is a solution to visualize AWS Cloud workloads. Using Perspective you can build, customize, and share detailed architecture diagrams of your workloads based on live data from AWS. Pers
+- [awslabs/workload-discovery-on-aws](https://github.com/awslabs/workload-discovery-on-aws) - AWS Perspective is a solution to visualize AWS Cloud workloads. Using Perspective you can build, customize, and share detailed architecture diagrams of your workloads based on live data from AWS. Pers
 - [iann0036/aws.permissions.cloud](https://github.com/iann0036/aws.permissions.cloud) - A crowdsourced AWS IAM permissions reference.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
