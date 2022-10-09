@@ -463,6 +463,7 @@
 - [aws-solutions/aws-devops-monitoring-dashboard](https://github.com/aws-solutions/aws-devops-monitoring-dashboard) - The AWS DevOps Monitoring Dashboard solution is a reference implementation that automates the process for monitoring and visualizing performance and operational metrics in continuous integration/conti
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [jonalxh/Flask-Admin-Dashboard](https://github.com/jonalxh/Flask-Admin-Dashboard) - Flask Admin customized using AdminLTE bootstrap template and flask security to offer a better Dashboard UX
@@ -969,7 +970,7 @@
 - [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [stash86/MultiMA_TSL](https://github.com/stash86/MultiMA_TSL) - 
 - [devbootstrap/freqtrade-hyperopt-running-in-cloud-example](https://github.com/devbootstrap/freqtrade-hyperopt-running-in-cloud-example) - An example of optimizing an existing strategy using Freqtrade Hyperopt Parameters
-- [awslabs/aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier
+- [awslabs/aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
 - [aminohealth/wonk](https://github.com/aminohealth/wonk) - Wonk is a tool for combining a set of AWS policy files into smaller compiled policy sets.
 - [edge-minato/pypj](https://github.com/edge-minato/pypj) - Python project kick starter
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
@@ -1599,7 +1600,6 @@
 - [Aidurber/obsidian-plugin-dynamic-toc](https://github.com/Aidurber/obsidian-plugin-dynamic-toc) - An Obsidian plugin for creating Tables of Contents that stay updated with your document
 - [lowlighter/downtime](https://github.com/lowlighter/downtime) - 💹 An uptime/response time monitor powered by GitHub Action. Generates status badges to embed everywhere, along with a static website with GitHub pages
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
-- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [hipstersmoothie/obsidian-plugin-toc](https://github.com/hipstersmoothie/obsidian-plugin-toc) - Create a tables of contents for a note.
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
