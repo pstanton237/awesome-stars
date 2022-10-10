@@ -598,7 +598,6 @@
 - [trackit/aws-cost-report](https://github.com/trackit/aws-cost-report) - Generate Sheets (Google, Excel and CSV) with useful information about your AWS spendings.
 - [cavaliercoder/vpc-free](https://github.com/cavaliercoder/vpc-free) - Find free IP address blocks in AWS EC2.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-- [jturgasen/my-links](https://github.com/jturgasen/my-links) - Knowledge seeks no man
 - [Netflix-Skunkworks/historical](https://github.com/Netflix-Skunkworks/historical) - A serverless, event-driven AWS configuration collection service with configuration versioning.
 - [pinterest/soundwave](https://github.com/pinterest/soundwave) - A searchable EC2 Inventory store
 - [terraform-aws-modules/terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Terraform module which creates EC2-VPC security groups on AWS 🇺🇦
@@ -643,7 +642,6 @@
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
-- [jturgasen/my-links](https://github.com/jturgasen/my-links) - Knowledge seeks no man
 
 ## bash 
 
@@ -844,7 +842,6 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [ellerbrock/aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources) - :key: Collection of useful AWS IAM Resources & Policies
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [jturgasen/my-links](https://github.com/jturgasen/my-links) - Knowledge seeks no man
 
 ## data-analysis 
 
@@ -963,7 +960,6 @@
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [jturgasen/my-links](https://github.com/jturgasen/my-links) - Knowledge seeks no man
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
@@ -1369,6 +1365,7 @@
 - [carlpett/terraform-provider-sops](https://github.com/carlpett/terraform-provider-sops) - A Terraform provider for reading Mozilla sops files
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [syssi/xiaomi_fan](https://github.com/syssi/xiaomi_fan) - Xiaomi Mi Smart Fan integration for Home Assistant
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
@@ -1597,7 +1594,6 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [aws-samples/aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
-- [jturgasen/my-links](https://github.com/jturgasen/my-links) - Knowledge seeks no man
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) - Simple SMTP server / postfix null relay host for your Docker and Kubernetes containers. Based on Alpine Linux.
 - [kz8s/tack](https://github.com/kz8s/tack) - Terraform module for creating Kubernetes cluster running on Container Linux by CoreOS in an AWS VPC
