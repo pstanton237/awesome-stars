@@ -788,7 +788,6 @@
 - [aws-samples/amazon-efs-tutorial](https://github.com/aws-samples/amazon-efs-tutorial) - This tutorial is designed to help you better understand the performance characteristics of Amazon Elastic File System
 - [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [jturgasen/my-links](https://github.com/jturgasen/my-links) - Knowledge seeks no man
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [EslamElHusseiny/aws_manager_plugin](https://github.com/EslamElHusseiny/aws_manager_plugin) - Oh My ZSH plugin for aws_manager CLI
