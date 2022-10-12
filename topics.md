@@ -439,6 +439,7 @@
 - [jckuester/awsls](https://github.com/jckuester/awsls) - A list command for AWS resources
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
+- [Signiant/aws-target-group-cleanup](https://github.com/Signiant/aws-target-group-cleanup) - Remove ALB target groups that are not assigned to load balancers
 - [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
 - [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 - [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
@@ -1383,6 +1384,8 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - Security Scorecards - Security health metrics for Open Source
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys.
 - [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
+- [Signiant/LOCK](https://github.com/Signiant/LOCK) - Let's Occasionally Circulate Keys
+- [Signiant/aws-target-group-cleanup](https://github.com/Signiant/aws-target-group-cleanup) - Remove ALB target groups that are not assigned to load balancers
 - [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
@@ -2061,8 +2064,6 @@
 - [impredicative/bitlyshortener](https://github.com/impredicative/bitlyshortener) - High-volume Bitly V4 URL shortener with in-memory cache
 - [zen4ever/route53manager](https://github.com/zen4ever/route53manager) - Simple GUI for Route 53 Amazon DNS written with Flask and boto
 - [longhorn09/aws_prices](https://github.com/longhorn09/aws_prices) - Fetch AWS Savings Plan prices into Excel
-- [Signiant/LOCK](https://github.com/Signiant/LOCK) - Let's Occasionally Circulate Keys
-- [Signiant/aws-target-group-cleanup](https://github.com/Signiant/aws-target-group-cleanup) - Remove ALB target groups that are not assigned to load balancers
 - [awslabs/aws-dx-monitor](https://github.com/awslabs/aws-dx-monitor) - Simple AWS Direct Connect monitoring with Amazon CloudWatch.
 - [myoung34/cloudcustodian-rules](https://github.com/myoung34/cloudcustodian-rules) - Some of my personal rules for CapitalOne's Cloud Custodian project
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
