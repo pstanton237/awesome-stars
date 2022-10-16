@@ -1395,6 +1395,7 @@
 - [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
+- [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [tedivm/nebula](https://github.com/tedivm/nebula) - EC2 Self-Management Portal
