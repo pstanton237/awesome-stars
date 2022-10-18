@@ -221,7 +221,7 @@
 - [dineshsonachalam/lucid-dynamodb](https://github.com/dineshsonachalam/lucid-dynamodb) - 🗄️ A simple Python wrapper to AWS Dynamodb.
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - Universal Tool for DevOps and Cloud Automation (works with terraform, helm, helmfile, etc)
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [miztiik/AWS-Demos](https://github.com/miztiik/AWS-Demos) - A hands on repo with multiple demonstrations on AWS 🎓
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
@@ -930,7 +930,7 @@
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [clouddrove/toc](https://github.com/clouddrove/toc) - A Table of Contents of all CloudDrove Packages and Modules
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
@@ -1012,6 +1012,7 @@
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -1212,7 +1213,7 @@
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [drgrib/alfred-bear](https://github.com/drgrib/alfred-bear) - Streamlined note searching and creation for Bear using Alfred
 - [d-kuro/kubectl-fuzzy](https://github.com/d-kuro/kubectl-fuzzy) - This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive li
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [Appliscale/cloud-security-audit](https://github.com/Appliscale/cloud-security-audit) - A command line security audit tool for Amazon Web Services
@@ -1268,7 +1269,7 @@
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [drgrib/alfred-bear](https://github.com/drgrib/alfred-bear) - Streamlined note searching and creation for Bear using Alfred
 - [d-kuro/kubectl-fuzzy](https://github.com/d-kuro/kubectl-fuzzy) - This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive li
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [jftuga/spotprice](https://github.com/jftuga/spotprice) - Quickly get AWS spot instance pricing
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer
 - [c1982/bomberman](https://github.com/c1982/bomberman) - SMTP Performance and Load Test Tool
@@ -1339,7 +1340,7 @@
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
-- [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -1523,7 +1524,7 @@
 
 ## kotlin 
 
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 
 ## kubernetes 
 
@@ -1570,7 +1571,6 @@
 - [d-kuro/kubectl-fuzzy](https://github.com/d-kuro/kubectl-fuzzy) - This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive li
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [kontena/mortar](https://github.com/kontena/mortar) - The manifest shooter for Kubernetes
@@ -1737,7 +1737,7 @@
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [grofers/legend](https://github.com/grofers/legend) - Legend builds and publishes Grafana dashboards for your services with prefilled metrics and alerts for your services.
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [vladvasiliu/aws-health-exporter-rs](https://github.com/vladvasiliu/aws-health-exporter-rs) - AWS Health exporter for Prometheus
@@ -1854,6 +1854,7 @@
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [cds-snc/sre-bot](https://github.com/cds-snc/sre-bot) - Slack bot for site reliability engineering
+- [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
 - [ebsco/cloudcomprehend](https://github.com/ebsco/cloudcomprehend) - AWS visualization tool for Virtual Private Clouds
 - [willdady/aws-resource-based-policy-collector](https://github.com/willdady/aws-resource-based-policy-collector) - Utility for collecting resource-based policies from AWS
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
@@ -2530,6 +2531,7 @@
 
 ## python 
 
+- [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
 - [madzak/python-json-logger](https://github.com/madzak/python-json-logger) - Json Formatter for the standard python logger
@@ -3157,7 +3159,7 @@
 ## vim 
 
 - [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [AlexPl292/IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
@@ -3168,7 +3170,6 @@
 
 - [freqtrade/frequi](https://github.com/freqtrade/frequi) - Freqtrade UI - Frontend for Freqtrade
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 
 ## web 
 
