@@ -1824,6 +1824,7 @@
 
 ## others 
 
+- [felipekiko/finops-c7n](https://github.com/felipekiko/finops-c7n) - Some custodian policies to use in FinOps monitoring
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
