@@ -995,6 +995,7 @@
 
 ## docker 
 
+- [radix-ai/poetry-cookiecutter](https://github.com/radix-ai/poetry-cookiecutter) - 🐍 A modern Cookiecutter template for scaffolding Python packages and apps.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [ivangfr/keycloak-clustered](https://github.com/ivangfr/keycloak-clustered) - keycloak-clustered extends Keycloak docker image. It allows to run easily a cluster of Keycloak instances
@@ -1860,7 +1861,7 @@
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
 - [ebsco/cloudcomprehend](https://github.com/ebsco/cloudcomprehend) - AWS visualization tool for Virtual Private Clouds
 - [willdady/aws-resource-based-policy-collector](https://github.com/willdady/aws-resource-based-policy-collector) - Utility for collecting resource-based policies from AWS
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+- [dagger/dagger](https://github.com/dagger/dagger) - A cross-platform CI/CD engine that is programmable and container-native
 - [awslabs/aws-devops-essential](https://github.com/awslabs/aws-devops-essential) - In few hours, quickly learn how to effectively leverage various AWS services to improve developer productivity and reduce the overall time to market for new product capabilities.
 - [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) - Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats
 - [lightspin-tech/red-detector](https://github.com/lightspin-tech/red-detector) - Scan your EC2 instance to find its vulnerabilities using Vuls (https://vuls.io/en/)
@@ -2534,6 +2535,8 @@
 
 ## python 
 
+- [pamelafox/python-project-template](https://github.com/pamelafox/python-project-template) - A Github template repository for a Python project with support for Codespaces, devcontainer, and Github Actions.
+- [radix-ai/poetry-cookiecutter](https://github.com/radix-ai/poetry-cookiecutter) - 🐍 A modern Cookiecutter template for scaffolding Python packages and apps.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
@@ -2695,6 +2698,7 @@
 
 ## python3 
 
+- [pamelafox/python-project-template](https://github.com/pamelafox/python-project-template) - A Github template repository for a Python project with support for Codespaces, devcontainer, and Github Actions.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
