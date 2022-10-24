@@ -121,6 +121,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
+- [scala](#scala)
 - [security](#security)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -995,6 +996,7 @@
 
 ## docker 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [radix-ai/poetry-cookiecutter](https://github.com/radix-ai/poetry-cookiecutter) - 🐍 A modern Cookiecutter template for scaffolding Python packages and apps.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes monitoring, troubleshooting, and automation platform
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
@@ -1245,6 +1247,7 @@
 
 ## golang 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [rkoval/alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
@@ -1330,6 +1333,7 @@
 
 ## hacktoberfest 
 
+- [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
@@ -1470,6 +1474,7 @@
 
 ## java 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
 - [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
 - [BashSupport/BashSupport](https://github.com/BashSupport/BashSupport) - Bash and shell script language support for JetBrains IDEs. Please refer to www.bashsupport.com/news/bashsupport-pro-1.3/ for the reasons.
@@ -1477,6 +1482,7 @@
 
 ## javascript 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
@@ -1825,6 +1831,8 @@
 
 ## others 
 
+- [zulhilmizainuddin/aws-lambda-error-rate](https://github.com/zulhilmizainuddin/aws-lambda-error-rate) - AWS Lambda error rate monitoring application using Node.js, TypeScript, Serverless, AWS Lambda, CloudFormation, CloudWatch, S3, SNS and PagerTree
+- [cplankey/lambda-errors-to-slack-sar](https://github.com/cplankey/lambda-errors-to-slack-sar) - Subscribes to tagged Lambdas in your account and forwards their errors to a specified Slack channel
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [felipekiko/finops-c7n](https://github.com/felipekiko/finops-c7n) - Some custodian policies to use in FinOps monitoring
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
@@ -2536,6 +2544,8 @@
 
 ## python 
 
+- [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [pamelafox/python-project-template](https://github.com/pamelafox/python-project-template) - A Github template repository for a Python project with support for Codespaces, devcontainer, and Github Actions.
 - [radix-ai/poetry-cookiecutter](https://github.com/radix-ai/poetry-cookiecutter) - 🐍 A modern Cookiecutter template for scaffolding Python packages and apps.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
@@ -2785,6 +2795,7 @@
 
 ## rust 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -2797,6 +2808,10 @@
 ## sass 
 
 - [carlosesilva/reinvent-planner](https://github.com/carlosesilva/reinvent-planner) - Plan your AWS re:Invent 2019 sessions by visualizing it in a calendar.
+
+## scala 
+
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 
 ## security 
 
@@ -2936,6 +2951,7 @@
 
 ## shell 
 
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A Collection of Awesome Tools and Scripts for Cloud Engineers
