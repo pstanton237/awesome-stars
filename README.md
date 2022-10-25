@@ -415,6 +415,7 @@
 
 ## Java 
 
+- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
 - [aws-samples/multi-environment-chatops-bot-for-controltower](https://github.com/aws-samples/multi-environment-chatops-bot-for-controltower) - 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [Netflix/frigga](https://github.com/Netflix/frigga) - Utilities for working with Asgard named objects
