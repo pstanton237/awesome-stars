@@ -253,7 +253,7 @@
 - [JetBrains/awesome-pycharm](https://github.com/JetBrains/awesome-pycharm) - A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments Knowledge for Cloud Platforms
@@ -306,7 +306,7 @@
 - [gites/awesome-vault-tools](https://github.com/gites/awesome-vault-tools) - Awesome tools around HashiCorp Vault
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments Knowledge for Cloud Platforms
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
@@ -361,7 +361,6 @@
 - [hseera/aws-python-utilities](https://github.com/hseera/aws-python-utilities) - Python utilities for AWS related tasks.
 - [awslabs/workload-discovery-on-aws](https://github.com/awslabs/workload-discovery-on-aws) - Workload Discovery on AWS is a solution to visualize AWS Cloud workloads. With it you can build, customize, and share architecture diagrams of your workloads based on live data from AWS. The solution 
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
-- [cloudquery/aws](https://github.com/cloudquery/aws) - Official AWS security & compliance CloudQuery policy pack
 - [9rnt/poro](https://github.com/9rnt/poro) - Scan publicly accessible assets on your AWS cloud environment
 - [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access your cloud.
 - [phzietsman/aws-slack-clickoops-watcher](https://github.com/phzietsman/aws-slack-clickoops-watcher) - Get alerts when people are using the AWS console to modify create or modify resources.
@@ -845,7 +844,7 @@
 - [PaperMtn/gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [riskprofiler/CloudFrontier](https://github.com/riskprofiler/CloudFrontier) - Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [ellerbrock/aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources) - :key: Collection of useful AWS IAM Resources & Policies
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
@@ -1388,7 +1387,7 @@
 - [carlpett/terraform-provider-sops](https://github.com/carlpett/terraform-provider-sops) - A Terraform provider for reading Mozilla sops files
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [syssi/xiaomi_fan](https://github.com/syssi/xiaomi_fan) - Xiaomi Mi Smart Fan integration for Home Assistant
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
@@ -1823,7 +1822,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [iam-mhaseeb/StandupMonkey](https://github.com/iam-mhaseeb/StandupMonkey) - A self hosted slack bot to conduct standups & generate reports.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -2849,7 +2848,7 @@
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [Netflix-Skunkworks/policyuniverse](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and Process AWS IAM Policies, Statements, ARNs, and wildcards.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management Knowledge for Cloud Platforms
