@@ -1621,7 +1621,7 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [tilfin/aws-iam-policy-tool](https://github.com/tilfin/aws-iam-policy-tool) - AWS IAM role/policy management command line tool
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [mpyw/aws-lambda-billing-slack-notification](https://github.com/mpyw/aws-lambda-billing-slack-notification) - Node.js 14 以降向けの AWS 当月利用料金 Slack 通知スクリプト
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
