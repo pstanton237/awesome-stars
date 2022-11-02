@@ -651,7 +651,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [miztiik/AWS-Demos](https://github.com/miztiik/AWS-Demos) - A hands on repo with multiple demonstrations on AWS 🎓
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
@@ -744,7 +744,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
@@ -1392,7 +1392,7 @@
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -1687,7 +1687,7 @@
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [pqrs-org/ShowyEdge](https://github.com/pqrs-org/ShowyEdge) - A visible indicator of the current input source for macOS.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [hatashiro/kawa](https://github.com/hatashiro/kawa) - A macOS input source switcher with user-defined shortcuts.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
@@ -2963,7 +2963,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A Collection of Awesome Tools and Scripts for Cloud Engineers
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
@@ -3044,7 +3044,7 @@
 - [jwlodek/py_cui](https://github.com/jwlodek/py_cui) - A python library for intuitively creating CUI/TUI interfaces with widgets, inspired by gocui.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
@@ -3170,7 +3170,7 @@
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is your best friend for defining, comparing, and auditing your K8s actual and desired states
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 
 ## ubuntu 
 
