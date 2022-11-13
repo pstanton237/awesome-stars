@@ -11,6 +11,7 @@
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
+- [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -202,6 +203,10 @@
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
+
+## artificial-intelligence 
+
+- [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 
 ## automation 
 
@@ -1840,6 +1845,7 @@
 
 ## others 
 
+- [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter) - macOS tool to limit maximum charging percentage
 - [jtortorelli/head-first-design-patterns-python](https://github.com/jtortorelli/head-first-design-patterns-python) - The main examples from the Head First Design Patterns book translated into Python
 - [zulhilmizainuddin/aws-lambda-error-rate](https://github.com/zulhilmizainuddin/aws-lambda-error-rate) - AWS Lambda error rate monitoring application using Node.js, TypeScript, Serverless, AWS Lambda, CloudFormation, CloudWatch, S3, SNS and PagerTree
 - [cplankey/lambda-errors-to-slack-sar](https://github.com/cplankey/lambda-errors-to-slack-sar) - Subscribes to tagged Lambdas in your account and forwards their errors to a specified Slack channel
@@ -2072,7 +2078,6 @@
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [shahrviral/Mac-Setup](https://github.com/shahrviral/Mac-Setup) - Buy me a coffee / book / beer
 - [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
-- [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
 - [plamen-paskov/serverless-framework-gui](https://github.com/plamen-paskov/serverless-framework-gui) - Integration of Serverless Framework for all JetBrains IDEs
