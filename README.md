@@ -1197,7 +1197,7 @@
 - [wagoodman/bridgy](https://github.com/wagoodman/bridgy) - cloud inventory + ssh + tmux + sshfs
 - [RiotGames/cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
 - [broamski/aws-mfa](https://github.com/broamski/aws-mfa) - Manage AWS MFA Security Credentials
-- [awslabs/aws-waf-security-automations](https://github.com/awslabs/aws-waf-security-automations) - This solution automatically deploys a single web access control list (web ACL) with a set of AWS WAF rules designed to filter common web-based attacks.
+- [aws-solutions/aws-waf-security-automations](https://github.com/aws-solutions/aws-waf-security-automations) - This solution automatically deploys a single web access control list (web ACL) with a set of AWS WAF rules designed to filter common web-based attacks.
 - [awslabs/aws-support-tools](https://github.com/awslabs/aws-support-tools) - Tools and sample code provided by AWS Premium Support.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -1244,7 +1244,7 @@
 - [aws/Trusted-Advisor-Tools](https://github.com/aws/Trusted-Advisor-Tools) - The sample functions provided help to automate AWS Trusted Advisor best practices using Amazon Cloudwatch events and AWS Lambda.
 - [hjacobs/kubernetes-on-aws-users](https://github.com/hjacobs/kubernetes-on-aws-users) - List of companies/organizations running Kubernetes on AWS
 - [rams3sh/Aaia](https://github.com/rams3sh/Aaia) - AWS Identity and Access Management Visualizer and Anomaly Finder
-- [ansible/awx](https://github.com/ansible/awx) - AWX Project
+- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
 - [powerupcloud/AWSInventoryLambda](https://github.com/powerupcloud/AWSInventoryLambda) - Save AWS inventory as CSV on S3 and trigger emails
