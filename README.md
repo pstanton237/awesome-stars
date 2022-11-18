@@ -625,6 +625,7 @@
 
 ## Mustache 
 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [spaceone-dev/spaceone](https://github.com/spaceone-dev/spaceone) - Repository tracking all SpaceONE repositories as submodules
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 
