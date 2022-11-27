@@ -1850,6 +1850,9 @@
 
 ## others 
 
+- [lyft/awspricing](https://github.com/lyft/awspricing) - Python library for AWS pricing.
+- [elbanic/alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
+- [awslabs/aws-reserved-instance-expiration-notification](https://github.com/awslabs/aws-reserved-instance-expiration-notification) - Python SAM Lambda module for sending email about AWS Reserved Instance whose contract is expiring within the specified days
 - [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter) - macOS tool to limit maximum charging percentage
 - [jtortorelli/head-first-design-patterns-python](https://github.com/jtortorelli/head-first-design-patterns-python) - The main examples from the Head First Design Patterns book translated into Python
 - [zulhilmizainuddin/aws-lambda-error-rate](https://github.com/zulhilmizainuddin/aws-lambda-error-rate) - AWS Lambda error rate monitoring application using Node.js, TypeScript, Serverless, AWS Lambda, CloudFormation, CloudWatch, S3, SNS and PagerTree
@@ -2105,7 +2108,7 @@
 - [ksmin23/aws-blog-trans-bot](https://github.com/ksmin23/aws-blog-trans-bot) - 영문 AWS 블로그 포스팅 한국어로 자동번역해서 e-mail로 발송해주는 solution
 - [ksmin23/aws-rss-feed-trans-bot](https://github.com/ksmin23/aws-rss-feed-trans-bot) - 영문 AWS 최신 소식 (What's New with AWS?)을 한국어로 자동번역해서 e-mail로 발송해주는 solution
 - [nccgroup/sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure
-- [impredicative/bitlyshortener](https://github.com/impredicative/bitlyshortener) - (discontinued)
+- [impredicative/bitlyshortener](https://github.com/impredicative/bitlyshortener) - (discontinued) Consider switching to https://github.com/impredicative/dagdshort
 - [zen4ever/route53manager](https://github.com/zen4ever/route53manager) - Simple GUI for Route 53 Amazon DNS written with Flask and boto
 - [longhorn09/aws_prices](https://github.com/longhorn09/aws_prices) - Fetch AWS Savings Plan prices into Excel
 - [awslabs/aws-dx-monitor](https://github.com/awslabs/aws-dx-monitor) - Simple AWS Direct Connect monitoring with Amazon CloudWatch.
