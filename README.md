@@ -709,7 +709,7 @@
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [aws-samples/aws-transit-gateway-attachment-automation](https://github.com/aws-samples/aws-transit-gateway-attachment-automation) - AWS CloudFormation templates and AWS Lambda Python based code for automating AWS Transit Gateway Attachment associations across an AWS Organization.
-- [zoph-io/awscon-onepager](https://github.com/zoph-io/awscon-onepager) - 📝 AWS Conferences One-Pagers
+- [zoph-io/awscon-onepager](https://github.com/zoph-io/awscon-onepager) - 📝 AWS Conferences One-Pagers [DEPRECATED]
 - [92bondstreet/awesome-onboarding](https://github.com/92bondstreet/awesome-onboarding) - 🌻 A curated list of awesome onboarding new developers resources.
 - [awsdocs/aws-personal-health-dashboard](https://github.com/awsdocs/aws-personal-health-dashboard) - The open source version of the AWS Personal Health Dashboard docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull re
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -1487,7 +1487,7 @@
 - [GoogleCloudPlatform/istio-samples](https://github.com/GoogleCloudPlatform/istio-samples) - Istio demos and sample applications for GCP
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.
+- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
 - [RyuaNerin/only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow) - 웹 브라우저 광고 차단 플러그인을 활용하여 구글, 덕덕고 검색에서 stackoverflow 복사 사이트를 숨깁니다.
 - [hsw0/vpnvm-openconnect](https://github.com/hsw0/vpnvm-openconnect) - 
 - [yousefvand/shellman-ebook](https://github.com/yousefvand/shellman-ebook) - Guide on shell scripting with Shellman vscode snippet
