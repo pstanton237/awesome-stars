@@ -651,6 +651,7 @@
 
 ## Others 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [elbanic/alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
 - [felipekiko/finops-c7n](https://github.com/felipekiko/finops-c7n) - Some custodian policies to use in FinOps monitoring
 - [aws-samples/aws-support-case-activity-notifier](https://github.com/aws-samples/aws-support-case-activity-notifier) - 
@@ -1079,7 +1080,6 @@
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [simonw/iam-to-sqlite](https://github.com/simonw/iam-to-sqlite) - Load Amazon IAM data into a SQLite database
 - [brennerm/aws-quota-checker](https://github.com/brennerm/aws-quota-checker) - Keep an eye on your AWS quotas before you hit their limits
-- [doitintl/iris](https://github.com/doitintl/iris) - Automatically tag Google Cloud resources for better manageability and billing reporting
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [jchrisfarris/aws-interesting-api-calls](https://github.com/jchrisfarris/aws-interesting-api-calls) - Inventory of AWS API Calls of Significance to Security
 - [jchrisfarris/detect-credential-compromise](https://github.com/jchrisfarris/detect-credential-compromise) - Cloudformation Template and Lambda to detect if Instance Profile credentials are being used outside your AWS Account.
