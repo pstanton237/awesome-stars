@@ -84,6 +84,7 @@
 - [jupyter-notebook](#jupyter-notebook)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [laravel](#laravel)
 - [learning](#learning)
 - [library](#library)
@@ -1637,6 +1638,10 @@
 - [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) - Simple SMTP server / postfix null relay host for your Docker and Kubernetes containers. Based on Alpine Linux.
 - [kz8s/tack](https://github.com/kz8s/tack) - Terraform module for creating Kubernetes cluster running on Container Linux by CoreOS in an AWS VPC
 
+## language 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+
 ## laravel 
 
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
@@ -2055,7 +2060,6 @@
 - [simonw/iam-to-sqlite](https://github.com/simonw/iam-to-sqlite) - Load Amazon IAM data into a SQLite database
 - [thought-machine/aws-service-quotas-exporter](https://github.com/thought-machine/aws-service-quotas-exporter) - Exports AWS service quotas as Prometheus metrics
 - [spaceone-dev/spaceone](https://github.com/spaceone-dev/spaceone) - Repository tracking all SpaceONE repositories as submodules
-- [doitintl/iris](https://github.com/doitintl/iris) - Automatically tag Google Cloud resources for better manageability and billing reporting
 - [googleinterns/terraform-cost-estimation](https://github.com/googleinterns/terraform-cost-estimation) - Cost Estimation for GCP infrastructure deployed by Terraform
 - [jetbrains-infra/terraform-examples](https://github.com/jetbrains-infra/terraform-examples) - Examples of terraform projects
 - [jchrisfarris/aws-interesting-api-calls](https://github.com/jchrisfarris/aws-interesting-api-calls) - Inventory of AWS API Calls of Significance to Security
