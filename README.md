@@ -867,6 +867,7 @@
 
 ## Python 
 
+- [pksol/pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for https://pypi.org/project/mock-generator
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [lyft/awspricing](https://github.com/lyft/awspricing) - Python library for AWS pricing.
@@ -1133,7 +1134,7 @@
 - [ksmin23/aws-blog-trans-bot](https://github.com/ksmin23/aws-blog-trans-bot) - 영문 AWS 블로그 포스팅 한국어로 자동번역해서 e-mail로 발송해주는 solution
 - [ksmin23/aws-rss-feed-trans-bot](https://github.com/ksmin23/aws-rss-feed-trans-bot) - 영문 AWS 최신 소식 (What's New with AWS?)을 한국어로 자동번역해서 e-mail로 발송해주는 solution
 - [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
-- [impredicative/bitlyshortener](https://github.com/impredicative/bitlyshortener) - (discontinued) Consider switching to https://github.com/impredicative/dagdshort
+- [impredicative/bitlyshortener](https://github.com/impredicative/bitlyshortener) - (discontinued)
 - [zen4ever/route53manager](https://github.com/zen4ever/route53manager) - Simple GUI for Route 53 Amazon DNS written with Flask and boto
 - [longhorn09/aws_prices](https://github.com/longhorn09/aws_prices) - Fetch AWS Savings Plan prices into Excel
 - [Signiant/LOCK](https://github.com/Signiant/LOCK) - Let's Occasionally Circulate Keys
@@ -1555,7 +1556,7 @@
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [acquia/aws-cli-helpers](https://github.com/acquia/aws-cli-helpers) - Bash functions that make working with the AWS CLI tool easier.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [belak/prezto-contrib](https://github.com/belak/prezto-contrib) - A set of additional plugins designed to work easily with prezto
 - [StackStorm/st2-docker](https://github.com/StackStorm/st2-docker) - StackStorm docker-compose deployment
 - [Integralist/Shell-Scripts](https://github.com/Integralist/Shell-Scripts) - Collection of custom utility shell scripts
