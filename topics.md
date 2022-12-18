@@ -240,7 +240,7 @@
 - [miztiik/AWS-Demos](https://github.com/miztiik/AWS-Demos) - A hands on repo with multiple demonstrations on AWS 🎓
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
-- [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
+- [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [jimrazmus/c7n-policies](https://github.com/jimrazmus/c7n-policies) - Cloud Custodian Policies for Automated Amazon Resource Management
 - [vstconsulting/polemarch](https://github.com/vstconsulting/polemarch) - Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
@@ -530,7 +530,7 @@
 - [marbot-io/monitoring-jump-start](https://github.com/marbot-io/monitoring-jump-start) - Monitor AWS resources with ease
 - [rkr2017/emr-slack-notify](https://github.com/rkr2017/emr-slack-notify) - AWS Lambda function to send EMR events to Slack via SNS
 - [Signiant/aws-iam-slack-notifer](https://github.com/Signiant/aws-iam-slack-notifer) - Notifies slack when an IAM policy is created, changed or assigned to a role
-- [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
+- [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [miztiik/aws-real-time-use-cases](https://github.com/miztiik/aws-real-time-use-cases) - Repo of quick starts for real time AWS use cases 🎓
 - [jenkinsci/pipeline-aws-plugin](https://github.com/jenkinsci/pipeline-aws-plugin) - Jenkins Pipeline Step Plugin for AWS
@@ -1253,7 +1253,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [mikesmitty/curse](https://github.com/mikesmitty/curse) - CURSE is an SSH certificate signing server, built as an alternative to Netflix's BLESS tool, but without a dependency on AWS.
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
-- [cloudutil/AutoSpotting](https://github.com/cloudutil/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
+- [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [circa10a/go-aws-news](https://github.com/circa10a/go-aws-news) - Go app + library to fetch what's new from AWS
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [similarweb/finala](https://github.com/similarweb/finala) - Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.
