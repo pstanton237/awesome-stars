@@ -359,6 +359,7 @@
 
 ## aws 
 
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [nplutt/pydantic-kms-secrets](https://github.com/nplutt/pydantic-kms-secrets) - Utility to decrypt and encrypt secrets using AWS KMS keys that also integrates with pydantic models which allows for encrypted values to be stored in .env files and be decrypted at runtime
 - [turbot/steampipe-mod-aws-insights](https://github.com/turbot/steampipe-mod-aws-insights) - View dashboards and reports across all of your AWS accounts using Steampipe.
@@ -2957,6 +2958,7 @@
 
 ## serverless 
 
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [michaelbrewer/aws-lambda-events](https://github.com/michaelbrewer/aws-lambda-events) - Comprehensive collection of aws lambda requests and response docs
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
