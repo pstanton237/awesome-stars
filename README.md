@@ -454,6 +454,7 @@
 
 ## JavaScript 
 
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [cplankey/lambda-errors-to-slack-sar](https://github.com/cplankey/lambda-errors-to-slack-sar) - Subscribes to tagged Lambdas in your account and forwards their errors to a specified Slack channel
 - [cplankey/lambda-errors-to-slack](https://github.com/cplankey/lambda-errors-to-slack) - Subscribes to tagged Lambdas in your account and forwards their errors to a specified Slack channel
