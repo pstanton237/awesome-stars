@@ -154,7 +154,7 @@
 
 ## 3d 
 
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
 
 ## ai 
 
@@ -462,7 +462,7 @@
 - [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
 - [Signiant/aws-target-group-cleanup](https://github.com/Signiant/aws-target-group-cleanup) - Remove ALB target groups that are not assigned to load balancers
 - [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
 - [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool
@@ -1429,7 +1429,7 @@
 - [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
 - [Signiant/LOCK](https://github.com/Signiant/LOCK) - Let's Occasionally Circulate Keys
 - [Signiant/aws-target-group-cleanup](https://github.com/Signiant/aws-target-group-cleanup) - Remove ALB target groups that are not assigned to load balancers
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
@@ -1853,7 +1853,7 @@
 - [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [iam-mhaseeb/StandupMonkey](https://github.com/iam-mhaseeb/StandupMonkey) - A self hosted slack bot to conduct standups & generate reports.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
-- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
+- [someengineering/resoto](https://github.com/someengineering/resoto) - Resoto creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -2091,7 +2091,7 @@
 - [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
 - [salesforce/policyguru](https://github.com/salesforce/policyguru) - Work on user interface and the REST API for the Policy Sentry UI
 - [gilbutITbook/080235](https://github.com/gilbutITbook/080235) - 파이썬 코딩의 기술 개정2판(Effective Python, 2nd) 소스 코드입니다
-- [mhlabs/iam-policies-cli](https://github.com/mhlabs/iam-policies-cli) - A CLI tool for building simple to complex IAM policies
+- [ljacobsson/iam-policies-cli](https://github.com/ljacobsson/iam-policies-cli) - A CLI tool for building simple to complex IAM policies
 - [mlavin/cloudping](https://github.com/mlavin/cloudping) - AWS Hosted Uptime Monitoring
 - [Tarrasch/zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
