@@ -214,7 +214,7 @@
 - [drgrib/alfred-bear](https://github.com/drgrib/alfred-bear) - Streamlined note searching and creation for Bear using Alfred
 - [d-kuro/kubectl-fuzzy](https://github.com/d-kuro/kubectl-fuzzy) - This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive li
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [trek10inc/awsets](https://github.com/trek10inc/awsets) - A utility for crawling an AWS account and exporting all its resources for further analysis.
 - [jftuga/spotprice](https://github.com/jftuga/spotprice) - Quickly get AWS spot instance pricing
 - [andreazorzetto/yh](https://github.com/andreazorzetto/yh) - YAML syntax highlighter to bring colours to kubectl output
