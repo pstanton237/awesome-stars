@@ -1670,6 +1670,7 @@
 
 ## linux 
 
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -1708,6 +1709,7 @@
 
 ## macos 
 
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
@@ -1868,6 +1870,7 @@
 
 ## others 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [pksol/pytest-mock-generator](https://github.com/pksol/pytest-mock-generator) - A pytest fixture wrapper for https://pypi.org/project/mock-generator
 - [aws-samples/aws-organizations-alternate-contacts-management-via-csv](https://github.com/aws-samples/aws-organizations-alternate-contacts-management-via-csv) - AWS Organizations Alternate Contacts management via CSV
 - [lyft/awspricing](https://github.com/lyft/awspricing) - Python library for AWS pricing.
