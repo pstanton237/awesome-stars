@@ -1234,7 +1234,7 @@
 - [ServerlessOpsIO/aws-health-event-to-slack-message](https://github.com/ServerlessOpsIO/aws-health-event-to-slack-message) - Receive AWS health notification events and format to a Slack message and publish over SNS
 - [jantman/misc-scripts](https://github.com/jantman/misc-scripts) - A collection of my standalone scripts to small/quick for their own repos. All kinds of useful stuff.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [servian/aws-auto-remediate](https://github.com/servian/aws-auto-remediate) - Open source application to instantly remediate common security issues through the use of AWS Config
+- [mlevit/aws-auto-remediate](https://github.com/mlevit/aws-auto-remediate) - Open source application to instantly remediate common security issues through the use of AWS Config
 - [mozilla/guardduty-multi-account-manager](https://github.com/mozilla/guardduty-multi-account-manager) - Automate the AWS GuardDuty account invitation lifecycle for all of your organizations AWS accounts in all regions as well as aggregate and normalize the GuardDuty findings
 - [traveloka/aws-maintenance-lambda](https://github.com/traveloka/aws-maintenance-lambda) - Lambda Function to trigger Jira Issue Creation by AWS Health Event
 - [nemo-wq/AWS-IAM-Permissions-Scanner](https://github.com/nemo-wq/AWS-IAM-Permissions-Scanner) - AWS IAM User Permissions
@@ -1276,7 +1276,7 @@
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [project-koku/koku](https://github.com/project-koku/koku) - An open source solution for cost management of cloud and hybrid cloud environments.
 - [amazon-archives/cost-optimization-monitor](https://github.com/amazon-archives/cost-optimization-monitor) - Cost Optimization Monitor solution as a reference deployment which provides dashboard and reporting capabilities giving customers a single-pane-of-glass view of their current AWS service inventory.
-- [servian/aws-auto-cleanup](https://github.com/servian/aws-auto-cleanup) - Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings
+- [mlevit/aws-auto-cleanup](https://github.com/mlevit/aws-auto-cleanup) - Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings
 - [sentialabs/coto](https://github.com/sentialabs/coto) - Undocumented AWS Management Console APIs SDK for Python
 - [hvac/hvac](https://github.com/hvac/hvac) - :lock: Python 2.7/3.X client for HashiCorp Vault
 - [glogiotatidis/neres](https://github.com/glogiotatidis/neres) - NewRelic Synthetics (unofficial) CLI
