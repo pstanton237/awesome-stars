@@ -1622,6 +1622,7 @@
 - [weaveworks/eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [1ambda/terraform-all-in-one](https://github.com/1ambda/terraform-all-in-one) - Get fine-grained Kubernetes + Infrastructure on AWS in 30 mins 🚀
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
 - [cloudskew/cloudskew](https://github.com/cloudskew/cloudskew) - Online Diagram, Flowchart Maker
