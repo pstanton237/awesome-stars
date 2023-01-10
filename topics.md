@@ -406,6 +406,7 @@
 - [garutilorenzo/k3s-aws-terraform-cluster](https://github.com/garutilorenzo/k3s-aws-terraform-cluster) - Deploy an high available K3s cluster on Amazon AWS
 - [darkbitio/aws-recon](https://github.com/darkbitio/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
 - [aws-samples/resource-auto-tagger](https://github.com/aws-samples/resource-auto-tagger) - WARNING - This package is no longer supported.  Source code & IAM policies for AWS Lambda function described in "Automatically tag new AWS resources based on identity or role" blog post.
+- [awslabs/aws-config-rdk](https://github.com/awslabs/aws-config-rdk) - The AWS Config Rules Development Kit helps developers set up, author and test custom Config rules. It contains scripts to enable AWS Config, create a Config rule and test it with sample ConfigurationI
 - [vikyol/aws-solutions-cdk](https://github.com/vikyol/aws-solutions-cdk) - The AWS solutions implemented using AWS-CDK for Python
 - [awslabs/aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
@@ -1983,7 +1984,6 @@
 - [comtravo/grafana-dashboards](https://github.com/comtravo/grafana-dashboards) - Terraform your Grafana Dashboards
 - [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
-- [awslabs/aws-config-rdk](https://github.com/awslabs/aws-config-rdk) - The AWS Config Rules Development Kit helps developers set up, author and test custom Config rules. It contains scripts to enable AWS Config, create a Config rule and test it with sample ConfigurationI
 - [aws-samples/org-billing-example](https://github.com/aws-samples/org-billing-example) - 
 - [alanwds/aws-cost-exporter](https://github.com/alanwds/aws-cost-exporter) - Prometheus exporter for cost explorer splitted data by tag
 - [stash86/MultiMA_TSL](https://github.com/stash86/MultiMA_TSL) - 
