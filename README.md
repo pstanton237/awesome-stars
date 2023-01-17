@@ -84,7 +84,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and pretty.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Quick, easy, and pretty.
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 
@@ -913,7 +913,7 @@
 - [m-vdb/slack-randompicker](https://github.com/m-vdb/slack-randompicker) - Pick a random person from a group or channel in Slack
 - [aws-samples/simple-anomaly-detection-solution](https://github.com/aws-samples/simple-anomaly-detection-solution) - 
 - [vipul-sharma20/slate](https://github.com/vipul-sharma20/slate) - Self hosted Slack app for daily standups
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes monitoring, troubleshooting, and automation platform
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
 - [Kuniz/alfnaversearch](https://github.com/Kuniz/alfnaversearch) - Naver Search Workflow for Alfred (알프레드 네이버 검색/사전/지도 자동완성 워크플로우)
 - [virtuald/pyhcl](https://github.com/virtuald/pyhcl) - HCL is a configuration language. pyhcl is a python parser for it.
 - [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice.
