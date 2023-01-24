@@ -278,6 +278,7 @@
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [matiassingers/awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
@@ -332,6 +333,7 @@
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
+- [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [matiassingers/awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
@@ -671,6 +673,7 @@
 
 ## bash 
 
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1086,6 +1089,7 @@
 
 ## documentation 
 
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -2174,7 +2178,6 @@
 - [RyuaNerin/only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow) - 웹 브라우저 광고 차단 플러그인을 활용하여 구글, 덕덕고 검색에서 stackoverflow 복사 사이트를 숨깁니다.
 - [QubitProducts/aws_audit_exporter](https://github.com/QubitProducts/aws_audit_exporter) - Prometheus exporter for aws billing information
 - [nachomillangarcia/prometheus_aws_cost_exporter](https://github.com/nachomillangarcia/prometheus_aws_cost_exporter) - Exporter for AWS Cost Explorer daily costs
-- [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [hsw0/vpnvm-openconnect](https://github.com/hsw0/vpnvm-openconnect) - 
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
