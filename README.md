@@ -568,7 +568,7 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [Wowu/gotodir](https://github.com/Wowu/gotodir) - Simple command line app for fast directory switching 🏃‍♂️
+- [Wowu/gotodir](https://github.com/Wowu/gotodir) - 🏃‍♂️ Simple command line app for fast directory switching
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
 - [18F/standup-slack-bot](https://github.com/18F/standup-slack-bot) - A Slack bot to streamline team standup without disturbing the overall flow of conversation
 - [hyunchel/alfred-melon-youtube](https://github.com/hyunchel/alfred-melon-youtube) - :womans_hat: Alfred Workflow that creates a Youtube playlist with Melon chart.
@@ -1469,6 +1469,7 @@
 
 ## Rust 
 
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
