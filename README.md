@@ -878,6 +878,7 @@
 
 ## Python 
 
+- [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
 - [getbuff/Buff](https://github.com/getbuff/Buff) - Intelligent customer support bot
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 - [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Par
