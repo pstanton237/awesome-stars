@@ -880,6 +880,7 @@
 
 ## Python 
 
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
 - [getbuff/Buff](https://github.com/getbuff/Buff) - Intelligent customer support bot
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
