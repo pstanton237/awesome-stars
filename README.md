@@ -883,6 +883,7 @@
 
 ## Python 
 
+- [Netflix/spectator-py](https://github.com/Netflix/spectator-py) - 
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
 - [getbuff/Buff](https://github.com/getbuff/Buff) - Intelligent customer support bot
