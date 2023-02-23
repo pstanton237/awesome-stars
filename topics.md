@@ -1446,7 +1446,6 @@
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [carlpett/terraform-provider-sops](https://github.com/carlpett/terraform-provider-sops) - A Terraform provider for reading Mozilla sops files
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [syssi/xiaomi_fan](https://github.com/syssi/xiaomi_fan) - Xiaomi Mi Smart Fan integration for Home Assistant
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
@@ -2091,6 +2090,7 @@
 - [steyep/alfred-jira](https://github.com/steyep/alfred-jira) - Alfred 3 (or Alfred 2) workflow for interacting with JIRA.
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [cloudposse/terraform-aws-iam-policy-document-aggregator](https://github.com/cloudposse/terraform-aws-iam-policy-document-aggregator) - Terraform module to aggregate multiple IAM policy documents into single policy document.
+- [syssi/xiaomi_fan](https://github.com/syssi/xiaomi_fan) - Xiaomi Mi Smart Fan integration for Home Assistant
 - [1activegeek/docker-airconnect](https://github.com/1activegeek/docker-airconnect) - AirConnect container for turning Chromecast into Airplay targets
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [poArlim/crypto-auto-trading](https://github.com/poArlim/crypto-auto-trading) - 가상화폐(비트코인) 자동투자 프로그램
