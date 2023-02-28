@@ -891,7 +891,6 @@
 - [Netflix/spectator-py](https://github.com/Netflix/spectator-py) - 
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
-- [getbuff/Buff](https://github.com/getbuff/Buff) - Intelligent customer support bot
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 - [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Par
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
@@ -1639,7 +1638,8 @@
 
 ## TypeScript 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [getbuff/Buff](https://github.com/getbuff/Buff) - Intelligent customer support bot
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
