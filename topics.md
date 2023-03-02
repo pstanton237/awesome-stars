@@ -1929,7 +1929,7 @@
 - [dolevf/Open-Policy-Agent-Alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - Reasonably Usable Self-hosted Version of OPA's Playground
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
-- [getbuff/Buff](https://github.com/getbuff/Buff) - Intelligent customer support bot
+- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Intelligent customer support bot
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
