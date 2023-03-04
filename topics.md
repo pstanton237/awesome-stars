@@ -150,7 +150,6 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
@@ -421,7 +420,7 @@
 - [vikyol/aws-solutions-cdk](https://github.com/vikyol/aws-solutions-cdk) - The AWS solutions implemented using AWS-CDK for Python
 - [awslabs/aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A Collection of Awesome Tools and Scripts for Cloud Engineers
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks for AWS Cloud Engineers
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [turbot/steampipe-mod-aws-thrifty](https://github.com/turbot/steampipe-mod-aws-thrifty) - Are you a Thrifty AWS dev? This Steampipe mod checks your AWS accounts for unused and under-utilized resources.
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
@@ -683,6 +682,7 @@
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks for AWS Cloud Engineers
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -972,7 +972,7 @@
 - [garutilorenzo/k3s-aws-terraform-cluster](https://github.com/garutilorenzo/k3s-aws-terraform-cluster) - Deploy an high available K3s cluster on Amazon AWS
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A Collection of Awesome Tools and Scripts for Cloud Engineers
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks for AWS Cloud Engineers
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - Workflow automation tool for DevOps. Keep configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
@@ -982,6 +982,7 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [rohitkhatana/aws](https://github.com/rohitkhatana/aws) - python scripts for interacting with aws
 - [aws-samples/aws-service-catalog-terraform-reference-architecture](https://github.com/aws-samples/aws-service-catalog-terraform-reference-architecture) - Apply Terraform configurations using CloudFormation through a proxy lambda
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [aws-samples/aws-service-catalog-reference-architectures](https://github.com/aws-samples/aws-service-catalog-reference-architectures) - Sample CloudFormation templates and architecture for AWS Service Catalog
@@ -1719,7 +1720,6 @@
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A Collection of Awesome Tools and Scripts for Cloud Engineers
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
@@ -2499,7 +2499,6 @@
 - [EslamElHusseiny/aws_manager_plugin](https://github.com/EslamElHusseiny/aws_manager_plugin) - Oh My ZSH plugin for aws_manager CLI
 - [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [awsdocs/amazon-route53-docs](https://github.com/awsdocs/amazon-route53-docs) - Documentation for Amazon Route 53. Amazon Route 53 is a web service that provides DNS service, domain name registration, and automatic endpoint naming.
-- [acquia/aws-cli-helpers](https://github.com/acquia/aws-cli-helpers) - Bash functions that make working with the AWS CLI tool easier.
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [ArnaudLoos/HomeAssistant-Presentation](https://github.com/ArnaudLoos/HomeAssistant-Presentation) - A presentation on Home Assistant, the open-source home automation hub
 - [jaymeh13/Keyboardgym](https://github.com/jaymeh13/Keyboardgym) - Prevent and alleviate repetitive strain injuries (RSIs) with this collection of exercise videos and ergonomic gear.
@@ -2712,6 +2711,7 @@
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks for AWS Cloud Engineers
 - [daneah/practices-of-the-python-pro](https://github.com/daneah/practices-of-the-python-pro) - Examples and exercises for Practices of the Python Pro from Manning Books 🐍📘
 - [slackapi/bolt-python](https://github.com/slackapi/bolt-python) - A framework to build Slack apps using Python
 - [imryche/blockkit](https://github.com/imryche/blockkit) - A fast way to build Block Kit interfaces in Python
@@ -2844,7 +2844,6 @@
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [aws-samples/aws-unit-testing](https://github.com/aws-samples/aws-unit-testing) - Unit testing AWS interactions with pytest and moto. The examples demonstrate how to structure, setup, teardown, mock, and conduct unit testing. These concepts can be applied to general code and are no
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A Collection of Awesome Tools and Scripts for Cloud Engineers
 - [escamez/slackviews](https://github.com/escamez/slackviews) - Python 3 library to build Slack views using builder pattern
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [iam-mhaseeb/StandupMonkey](https://github.com/iam-mhaseeb/StandupMonkey) - A self hosted slack bot to conduct standups & generate reports.
@@ -3093,7 +3092,6 @@
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A Collection of Awesome Tools and Scripts for Cloud Engineers
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -3342,13 +3340,6 @@
 
 - [freqtrade/frequi](https://github.com/freqtrade/frequi) - Freqtrade UI - Frontend for Freqtrade
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
-
-## vuejs 
-
-- [freqtrade/frequi](https://github.com/freqtrade/frequi) - Freqtrade UI - Frontend for Freqtrade
-- [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
-- [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
 
 ## web 
 
