@@ -93,6 +93,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -1744,6 +1745,16 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [timofurrer/colorful](https://github.com/timofurrer/colorful) - Terminal string styling done right, in Python :snake: :tada:
 
+## mac 
+
+- [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+- [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
+
 ## machine-learning 
 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
@@ -2061,7 +2072,6 @@
 - [hipstersmoothie/obsidian-plugin-toc](https://github.com/hipstersmoothie/obsidian-plugin-toc) - Create a tables of contents for a note.
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
-- [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 - [quantstart/qstrader](https://github.com/quantstart/qstrader) - QSTrader
 - [INVESTAR/StockAnalysisInPython](https://github.com/INVESTAR/StockAnalysisInPython) - 
 - [cuemacro/findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
@@ -2591,14 +2601,12 @@
 - [hirose31/monitor-aws-status](https://github.com/hirose31/monitor-aws-status) - checks AWS service health dashboard periodically and notifies us a new problem by IRC
 - [Shephexd/workflows](https://github.com/Shephexd/workflows) - workflows of Alfred
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [ujenmr/ansible-logstash-callback](https://github.com/ujenmr/ansible-logstash-callback) - 
 - [jlafon/ansible-profile](https://github.com/jlafon/ansible-profile) - An Ansible plugin for timing tasks
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [aws/aws-health-tools](https://github.com/aws/aws-health-tools) - The samples provided in AWS Health Tools can help users to build automation and customized alerting in response to AWS Health events.
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
-- [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
 - [cloudviz/agentless-system-crawler](https://github.com/cloudviz/agentless-system-crawler) - A tool to crawl systems like crawlers for the web
 - [elasticfence/elasticsearch-http-user-auth](https://github.com/elasticfence/elasticsearch-http-user-auth) - HTTP Basic Authentication and IP ACL plugin for Elasticsearch :key: (UNMAINTAINED)
 
