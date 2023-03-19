@@ -83,7 +83,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗿𝗲𝗮𝗹𝗹𝘆 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! Say adiós to ugly aliases and one-liners. 😄
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 
@@ -885,6 +885,7 @@
 
 ## Python 
 
+- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Terraform module registry
 - [jakubplichta/grafana-dashboard-builder](https://github.com/jakubplichta/grafana-dashboard-builder) - Generate Grafana dashboards with YAML
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [zarifpour/jira-dependency-graph](https://github.com/zarifpour/jira-dependency-graph) - Graph visualizer for JIRA ticket dependencies (epics, tasks, statuses, links, and more)
@@ -1475,7 +1476,7 @@
 - [arkadiyt/aws_public_ips](https://github.com/arkadiyt/aws_public_ips) - Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
 - [progit/progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
 - [CenturyLinkLabs/dockerfile-from-image](https://github.com/CenturyLinkLabs/dockerfile-from-image) - 
-- [benjaminoakes/maid](https://github.com/benjaminoakes/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
+- [maid/maid](https://github.com/maid/maid) - Be lazy.  Let Maid clean up after you, based on rules you define.  Think of it as "Hazel for hackers".
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
 - [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) - 
 - [rasshofer/alfred-password-generator-workflow](https://github.com/rasshofer/alfred-password-generator-workflow) - A simple Alfred 2 workflow to generate random passwords
