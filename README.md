@@ -895,7 +895,7 @@
 - [Netflix/spectator-py](https://github.com/Netflix/spectator-py) - 
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
-- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Developer support bot for Slack and Discord
+- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q&A bots, semantic search, and ChatGPT plugins while effortlessly manag
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 - [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Par
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
@@ -1660,7 +1660,7 @@
 - [willdady/aws-resource-based-policy-collector](https://github.com/willdady/aws-resource-based-policy-collector) - Utility for collecting resource-based policies from AWS
 - [cloudgraphdev/cloudgraph-policy-packs](https://github.com/cloudgraphdev/cloudgraph-policy-packs) - CloudGraph managed policy packs
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
-- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle streamlines the process of creating, analyzing, and deploying Kubernetes configurations by providing a unified visual tool for authoring YAML manifests, validating policies, and managing liv
+- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle lets you create, analyze, and deploy YAML manifests with a visual UI, and provides policy validation and cluster management.
 - [TastefulElk/iam-legend](https://github.com/TastefulElk/iam-legend) - IAM policy actions autocomplete, documentation & wildcard resolution for VS Code
 - [adhorn/aws-fis-templates-cdk](https://github.com/adhorn/aws-fis-templates-cdk) - Collection of AWS Fault Injection Simulator (FIS) experiment templates deploy-able via the AWS CDK
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
