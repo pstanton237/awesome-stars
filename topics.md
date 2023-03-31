@@ -751,7 +751,7 @@
 ## chatgpt 
 
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
-- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for syncing data from SaaS tools to vector stores, where they can be easily queried by GPT apps. Build Q&A bots, semantic search, and ChatGPT plugins while effortlessly manag
+- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
