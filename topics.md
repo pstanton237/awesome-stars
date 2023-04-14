@@ -1981,6 +1981,7 @@
 
 ## others 
 
+- [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
 - [jakubplichta/grafana-dashboard-builder](https://github.com/jakubplichta/grafana-dashboard-builder) - Generate Grafana dashboards with YAML
 - [ramimac/aws-customer-security-incidents](https://github.com/ramimac/aws-customer-security-incidents) - A repository of breaches of AWS customers
 - [awsdocs/aws-security-hub-user-guide](https://github.com/awsdocs/aws-security-hub-user-guide) - The open source version of the AWS Security Hub documentation. To provide feedback or request changes, you can submit a pull request that contains your proposed changes.
