@@ -877,7 +877,6 @@
 ## Perl 
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, M
 - [Tarrasch/zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
 - [mludvig/smtp-cli](https://github.com/mludvig/smtp-cli) - The ultimate command line SMTP client
 - [darold/sendmailanalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP env
@@ -1113,6 +1112,7 @@
 - [latture/json2table](https://github.com/latture/json2table) - Converts JSON to an HTML table
 - [invl/retry](https://github.com/invl/retry) - easy to use retry decorator in python
 - [Alfresco/sweeper](https://github.com/Alfresco/sweeper) - A tool to check for rogue/orphaned AWS services running that cost money
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, M
 - [z0ph/aa-policy-validator](https://github.com/z0ph/aa-policy-validator) - Validate all your Customer IAM Policies against AWS Access Analyzer - Policy Validation
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [cevoaustralia/tag-sentinel](https://github.com/cevoaustralia/tag-sentinel) - Serverless tag policy tool
@@ -1233,7 +1233,7 @@
 - [aws-samples/aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - A collection of tools to enable canary deployments of AWS Lambda functions.
 - [amazon-archives/automating-governance-sample](https://github.com/amazon-archives/automating-governance-sample) - Sample pipeline for handling of security events in AWS.
 - [theserverlessway/aws-baseline](https://github.com/theserverlessway/aws-baseline) - AWS Baseline to roll out into your Organization
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS attack surface and evaluate services for configurations that can lead to degradation of confidentiality, integrity or availability. All results can be exported to Securit
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a Cloud Security Configuration CLI for AWS, GCP, Azure, and SaaS Security Posture Management with support for 100s of services and evaluations to harden your entire cloud footprint.
 - [concurrencylabs/aws-cost-analysis](https://github.com/concurrencylabs/aws-cost-analysis) - Tools that make it easier to analyze AWS Cost and Usage reports. Initial version provides support for Athena and QuickSight.
 - [atlassian-labs/peerd](https://github.com/atlassian-labs/peerd) - peerd is an AWS VPC Peering Connection management tool. It creates full-meshes of VPCs from a yaml file, and manages the full lifecycle of creation, deletion and route table updates needed to make VPC
 - [awslabs/aws-securityhub-multiaccount-scripts](https://github.com/awslabs/aws-securityhub-multiaccount-scripts) - This script automates the process of running the Security Hub multi-account workflow across a group of accounts that are in your control
