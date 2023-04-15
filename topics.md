@@ -528,6 +528,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [rapid7/awsaml](https://github.com/rapid7/awsaml) - Awsaml is an application for providing automatically rotated temporary AWS credentials.
 - [TalEliyahu/Startup-AWS-IAM-Roles](https://github.com/TalEliyahu/Startup-AWS-IAM-Roles) - A list of typical positions in a startup and their policies for IAM AWS.
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a Cloud Security Configuration CLI for AWS, GCP, Azure, and SaaS Security Posture Management with support for 100s of services and evaluations to harden your entire cloud footprint.
 - [banzaicloud/telescopes](https://github.com/banzaicloud/telescopes) - Telescopes is a cloud instance types and full cluster layout recommender consisting of on-demand and spot/preemptible AWS EC2, Google, Azure, Oracle and Alibaba cloud instances.
 - [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
 - [bwhaley/ssmsh](https://github.com/bwhaley/ssmsh) - A shell for the EC2 Parameter Store
@@ -2339,7 +2340,6 @@
 - [amazon-archives/automating-governance-sample](https://github.com/amazon-archives/automating-governance-sample) - Sample pipeline for handling of security events in AWS.
 - [lapygithub/eb_config_examples](https://github.com/lapygithub/eb_config_examples) - Collection of AWS Elastic Beanstalk configurations
 - [theserverlessway/aws-baseline](https://github.com/theserverlessway/aws-baseline) - AWS Baseline to roll out into your Organization
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS attack surface and evaluate services for configurations that can lead to degradation of confidentiality, integrity or availability. All results can be exported to Securit
 - [concurrencylabs/aws-cost-analysis](https://github.com/concurrencylabs/aws-cost-analysis) - Tools that make it easier to analyze AWS Cost and Usage reports. Initial version provides support for Athena and QuickSight.
 - [atlassian-labs/peerd](https://github.com/atlassian-labs/peerd) - peerd is an AWS VPC Peering Connection management tool. It creates full-meshes of VPCs from a yaml file, and manages the full lifecycle of creation, deletion and route table updates needed to make VPC
 - [awslabs/aws-securityhub-multiaccount-scripts](https://github.com/awslabs/aws-securityhub-multiaccount-scripts) - This script automates the process of running the Security Hub multi-account workflow across a group of accounts that are in your control
