@@ -2233,7 +2233,7 @@
 - [shahrviral/Mac-Setup](https://github.com/shahrviral/Mac-Setup) - Buy me a coffee / book / beer
 - [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
-- [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
+- [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
 - [plamen-paskov/serverless-framework-gui](https://github.com/plamen-paskov/serverless-framework-gui) - Integration of Serverless Framework for all JetBrains IDEs
 - [adelf/idea-php-dotenv-plugin](https://github.com/adelf/idea-php-dotenv-plugin) - environment parameters completion, based on .env file keys
 - [google/atheris](https://github.com/google/atheris) - 
