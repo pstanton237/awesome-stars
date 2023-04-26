@@ -114,6 +114,7 @@
 - [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
+- [penetration-testing](#penetration-testing)
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -2663,6 +2664,11 @@
 
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+
+## penetration-testing 
+
+- [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+- [jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 
 ## perl 
 
