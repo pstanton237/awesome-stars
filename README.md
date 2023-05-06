@@ -944,7 +944,7 @@
 - [Kuniz/alfnaversearch](https://github.com/Kuniz/alfnaversearch) - Naver Search Workflow for Alfred (알프레드 네이버 검색/사전/지도 자동완성 워크플로우)
 - [virtuald/pyhcl](https://github.com/virtuald/pyhcl) - HCL is a configuration language. pyhcl is a python parser for it.
 - [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice.
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - Advanced Hot Reloading & Profiling for Python
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [GoogleCloudPlatform/terraform-python-testing-helper](https://github.com/GoogleCloudPlatform/terraform-python-testing-helper) - Simple Python test helper for Terraform.
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
@@ -962,7 +962,7 @@
 - [ebsco/cloudcomprehend](https://github.com/ebsco/cloudcomprehend) - AWS visualization tool for Virtual Private Clouds
 - [yukiyan/minimal-python-project-boilerplate](https://github.com/yukiyan/minimal-python-project-boilerplate) - 📜 Boilerplate for minimal python project using poetry, pre-commit, black, isort, flake8, nox
 - [PaperMtn/github-watchman](https://github.com/PaperMtn/github-watchman) - Monitoring GitHub for sensitive data shared publicly
-- [PaperMtn/slack-watchman](https://github.com/PaperMtn/slack-watchman) - Monitoring your Slack workspaces for sensitive information
+- [PaperMtn/slack-watchman](https://github.com/PaperMtn/slack-watchman) - Monitoring and enumerating Slack for exposed secrets
 - [PaperMtn/gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly
 - [michaelbrewer/aws-lambda-events](https://github.com/michaelbrewer/aws-lambda-events) - Comprehensive collection of aws lambda requests and response docs
 - [lightspin-tech/red-detector](https://github.com/lightspin-tech/red-detector) - Scan your EC2 instance to find its vulnerabilities using Vuls (https://vuls.io/en/)
@@ -1235,7 +1235,7 @@
 - [aws-samples/aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - A collection of tools to enable canary deployments of AWS Lambda functions.
 - [amazon-archives/automating-governance-sample](https://github.com/amazon-archives/automating-governance-sample) - Sample pipeline for handling of security events in AWS.
 - [theserverlessway/aws-baseline](https://github.com/theserverlessway/aws-baseline) - AWS Baseline to roll out into your Organization
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Cloud Asset Management (CAM), Cloud Security Posture Management (CSPM), SaaS Security Posture Management (SSPM), and External Attack Surfac
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management, and External Attack Surface Management supporting 100s of services and evaluations to harden
 - [concurrencylabs/aws-cost-analysis](https://github.com/concurrencylabs/aws-cost-analysis) - Tools that make it easier to analyze AWS Cost and Usage reports. Initial version provides support for Athena and QuickSight.
 - [atlassian-labs/peerd](https://github.com/atlassian-labs/peerd) - peerd is an AWS VPC Peering Connection management tool. It creates full-meshes of VPCs from a yaml file, and manages the full lifecycle of creation, deletion and route table updates needed to make VPC
 - [awslabs/aws-securityhub-multiaccount-scripts](https://github.com/awslabs/aws-securityhub-multiaccount-scripts) - This script automates the process of running the Security Hub multi-account workflow across a group of accounts that are in your control
@@ -1656,7 +1656,7 @@
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
-- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
