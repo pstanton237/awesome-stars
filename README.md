@@ -889,6 +889,7 @@
 
 ## Python 
 
+- [zoph-io/subnet-watcher](https://github.com/zoph-io/subnet-watcher) - AWS VPC Subnet Watcher
 - [agussman/aws-cost-explorer](https://github.com/agussman/aws-cost-explorer) - Simple script to breakdown AWS billing by "Project" tag
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
@@ -913,7 +914,7 @@
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [jtortorelli/head-first-design-patterns-python](https://github.com/jtortorelli/head-first-design-patterns-python) - The main examples from the Head First Design Patterns book translated into Python
 - [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
-- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
