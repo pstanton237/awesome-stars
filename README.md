@@ -6,6 +6,7 @@
 ## Contents
 
 - [AppleScript](#applescript)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -57,6 +58,10 @@
 
 - [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool Touch Bar Presets
 
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
 ## Batchfile 
 
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
@@ -79,7 +84,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 
@@ -1652,7 +1657,7 @@
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
-- [ai-sidekick/sidekick](https://github.com/ai-sidekick/sidekick) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+- [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -1709,7 +1714,6 @@
 - [tensult/cloud-reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports. Check out free hosted version:
 - [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - This solution leverages AWS Trusted Advisor and Service Quotas to monitor AWS resource usage and raise alerts.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
 ## Vim Script 
