@@ -758,7 +758,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
-- [psychicapi/psychic](https://github.com/psychicapi/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
+- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Unified APIs for ingesting unstructured data. Sync documents from your customers' SaaS tools to a SQL or vector database, where they can be easily queried by AI applications
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
@@ -907,7 +907,7 @@
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [PaperMtn/github-watchman](https://github.com/PaperMtn/github-watchman) - Monitoring GitHub for sensitive data shared publicly
 - [PaperMtn/slack-watchman](https://github.com/PaperMtn/slack-watchman) - Slack enumeration and exposed secrets detection tool
-- [PaperMtn/gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly
+- [PaperMtn/gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Finding exposed secrets and personal data in GitLab
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [riskprofiler/CloudFrontier](https://github.com/riskprofiler/CloudFrontier) - Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -1868,7 +1868,7 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [PaperMtn/github-watchman](https://github.com/PaperMtn/github-watchman) - Monitoring GitHub for sensitive data shared publicly
 - [PaperMtn/slack-watchman](https://github.com/PaperMtn/slack-watchman) - Slack enumeration and exposed secrets detection tool
-- [PaperMtn/gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly
+- [PaperMtn/gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Finding exposed secrets and personal data in GitLab
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
