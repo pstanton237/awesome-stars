@@ -885,6 +885,7 @@
 
 ## Python 
 
+- [aquia-inc/scpkit](https://github.com/aquia-inc/scpkit) - SCP management tool
 - [scrapinghub/slackbot](https://github.com/scrapinghub/slackbot) - A chat bot for Slack (https://slack.com).
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [emmethalm/infiniteGPT](https://github.com/emmethalm/infiniteGPT) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
