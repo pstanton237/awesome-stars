@@ -72,6 +72,7 @@
 - [golang](#golang)
 - [google](#google)
 - [google-cloud](#google-cloud)
+- [gradle](#gradle)
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -98,6 +99,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [maven](#maven)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -444,6 +446,7 @@
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
 - [kislyuk/watchtower](https://github.com/kislyuk/watchtower) - Python CloudWatch Logging: Log Analytics and Application Intelligence
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [z0ph/aa-policy-validator](https://github.com/z0ph/aa-policy-validator) - Validate all your Customer IAM Policies against AWS Access Analyzer - Policy Validation
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
@@ -695,6 +698,7 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -1097,6 +1101,7 @@
 - [slackapi/bolt-python](https://github.com/slackapi/bolt-python) - A framework to build Slack apps using Python
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -1279,6 +1284,7 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [mercari/tfnotify](https://github.com/mercari/tfnotify) - A CLI command to parse Terraform execution result and notify it to GitHub
 - [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -1367,6 +1373,7 @@
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
 - [mercari/tfnotify](https://github.com/mercari/tfnotify) - A CLI command to parse Terraform execution result and notify it to GitHub
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
@@ -1426,6 +1433,10 @@
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [jordanwilson230/kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+
+## gradle 
+
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 
 ## graphql 
 
@@ -1578,6 +1589,7 @@
 ## java 
 
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
 - [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
 - [BashSupport/BashSupport](https://github.com/BashSupport/BashSupport) - Bash and shell script language support for JetBrains IDEs. Please refer to www.bashsupport.com/news/bashsupport-pro-1.3/ for the reasons.
@@ -1850,6 +1862,10 @@
 - [alexander-lee/markdown-github-bear-toc](https://github.com/alexander-lee/markdown-github-bear-toc) - Autogenerated Table of Contents for Github Markdown or Bear Notes
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+
+## maven 
+
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 
 ## mobile 
 
@@ -2196,7 +2212,6 @@
 - [doitintl/gSlack](https://github.com/doitintl/gSlack) - Get Slack notifications from Google Cloud Platform
 - [DenizParlak/hayat](https://github.com/DenizParlak/hayat) - Hayat is a script for report and analyze Google Cloud Platform resources.
 - [GoogleCloudPlatform/istio-samples](https://github.com/GoogleCloudPlatform/istio-samples) - Istio demos and sample applications for GCP
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, M
 - [cevoaustralia/tag-sentinel](https://github.com/cevoaustralia/tag-sentinel) - Serverless tag policy tool
 - [cevoaustralia/gcp-sa-to-aws-iam-role](https://github.com/cevoaustralia/gcp-sa-to-aws-iam-role) - Example code for using a GCP Service Account to acquire AWS IAM Role credentials
 - [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred4 workflow to easily open your projects with your favorite JetBrains product.
@@ -2398,7 +2413,6 @@
 - [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [naveen-vijay/awsiamlogin](https://github.com/naveen-vijay/awsiamlogin) - AWS IAM Login makes it easy to navigate across multiple AWS accounts through bookmarks.
 - [awskrug/architecture-group](https://github.com/awskrug/architecture-group) - AWSKRUG architecutre small group
-- [traveloka/aws-maintenance-lambda](https://github.com/traveloka/aws-maintenance-lambda) - Lambda Function to trigger Jira Issue Creation by AWS Health Event
 - [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam) - 좋은 개발팀을 만드는데 도움이 되는 자료
 - [AndyDinh/aardvarkRepokidDemo](https://github.com/AndyDinh/aardvarkRepokidDemo) - 
 - [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - The GOV.UK repository for our Migration to AWS
@@ -2677,6 +2691,7 @@
 
 ## perl 
 
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 
@@ -2814,6 +2829,7 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [kislyuk/watchtower](https://github.com/kislyuk/watchtower) - Python CloudWatch Logging: Log Analytics and Application Intelligence
 - [latture/json2table](https://github.com/latture/json2table) - Converts JSON to an HTML table
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -3320,6 +3336,7 @@
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [Voronenko/devops-tf-eks](https://github.com/Voronenko/devops-tf-eks) - terraform baked AWS kubernetes cluster (EKS) - 1.18 compatible
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [mercari/tfnotify](https://github.com/mercari/tfnotify) - A CLI command to parse Terraform execution result and notify it to GitHub
 - [antonbabenko/terraform-cost-estimation](https://github.com/antonbabenko/terraform-cost-estimation) - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version)
 - [cloudposse/terraform-null-label](https://github.com/cloudposse/terraform-null-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
@@ -3428,6 +3445,7 @@
 ## vagrant 
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [hsw0/test-keycloak](https://github.com/hsw0/test-keycloak) - Keycloak 테스트
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
