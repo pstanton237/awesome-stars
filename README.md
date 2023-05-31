@@ -1115,7 +1115,7 @@
 - [latture/json2table](https://github.com/latture/json2table) - Converts JSON to an HTML table
 - [invl/retry](https://github.com/invl/retry) - easy to use retry decorator in python
 - [Alfresco/sweeper](https://github.com/Alfresco/sweeper) - A tool to check for rogue/orphaned AWS services running that cost money
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, M
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [z0ph/aa-policy-validator](https://github.com/z0ph/aa-policy-validator) - Validate all your Customer IAM Policies against AWS Access Analyzer - Policy Validation
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [cevoaustralia/tag-sentinel](https://github.com/cevoaustralia/tag-sentinel) - Serverless tag policy tool
@@ -1273,7 +1273,6 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [mlevit/aws-auto-remediate](https://github.com/mlevit/aws-auto-remediate) - Open source application to instantly remediate common security issues through the use of AWS Config
 - [mozilla/guardduty-multi-account-manager](https://github.com/mozilla/guardduty-multi-account-manager) - Automate the AWS GuardDuty account invitation lifecycle for all of your organizations AWS accounts in all regions as well as aggregate and normalize the GuardDuty findings
-- [traveloka/aws-maintenance-lambda](https://github.com/traveloka/aws-maintenance-lambda) - Lambda Function to trigger Jira Issue Creation by AWS Health Event
 - [nemo-wq/AWS-IAM-Permissions-Scanner](https://github.com/nemo-wq/AWS-IAM-Permissions-Scanner) - AWS IAM User Permissions
 - [AndyDinh/aardvarkRepokidDemo](https://github.com/AndyDinh/aardvarkRepokidDemo) - 
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
