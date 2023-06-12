@@ -713,7 +713,7 @@
 - [priyankavergadia/GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
 - [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred4 workflow to easily open your projects with your favorite JetBrains product.
 - [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [bdkjones/MuzzleApp](https://github.com/bdkjones/MuzzleApp) - The public bug tracker for Muzzle: muzzleapp.com
 - [brianlam38/AWS-Certified-Security-Specialty](https://github.com/brianlam38/AWS-Certified-Security-Specialty) - AWS Certified Security Specialty (2020) course notes
@@ -1471,7 +1471,7 @@
 - [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
 - [dev-sec/cis-dil-benchmark](https://github.com/dev-sec/cis-dil-benchmark) - CIS Distribution Independent Linux Benchmark - InSpec Profile
 - [mitre/aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark v1.1.0
-- [syncdk/homebrew-aws-session-manager-plugin](https://github.com/syncdk/homebrew-aws-session-manager-plugin) - Install the AWS session manager plugin with Homebrew
+- [Systemmanic/homebrew-aws-session-manager-plugin](https://github.com/Systemmanic/homebrew-aws-session-manager-plugin) - Install the AWS session manager plugin with Homebrew
 - [dtan4/dockerfile-terraforming](https://github.com/dtan4/dockerfile-terraforming) - Docker Image for Terraforming
 - [codenize-tools/miam](https://github.com/codenize-tools/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
@@ -1653,7 +1653,7 @@
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLms. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
