@@ -79,7 +79,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 🍹😎🏖️ Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 
@@ -1027,7 +1027,7 @@
 - [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [stash86/MultiMA_TSL](https://github.com/stash86/MultiMA_TSL) - 
 - [devbootstrap/freqtrade-hyperopt-running-in-cloud-example](https://github.com/devbootstrap/freqtrade-hyperopt-running-in-cloud-example) - An example of optimizing an existing strategy using Freqtrade Hyperopt Parameters
-- [aws-powertools/aws-lambda-powertools-python](https://github.com/aws-powertools/aws-lambda-powertools-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
+- [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [aminohealth/wonk](https://github.com/aminohealth/wonk) - Wonk is a tool for combining a set of AWS policy files into smaller compiled policy sets.
 - [edge-minato/pypj](https://github.com/edge-minato/pypj) - Python project kick starter
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
