@@ -1239,7 +1239,7 @@
 - [aws-samples/aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - A collection of tools to enable canary deployments of AWS Lambda functions.
 - [amazon-archives/automating-governance-sample](https://github.com/amazon-archives/automating-governance-sample) - Sample pipeline for handling of security events in AWS.
 - [theserverlessway/aws-baseline](https://github.com/theserverlessway/aws-baseline) - AWS Baseline to roll out into your Organization
-- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring supporting 100s of services and evaluations to harden your public
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring supporting 100s of services and evaluations to harden your CSP & 
 - [concurrencylabs/aws-cost-analysis](https://github.com/concurrencylabs/aws-cost-analysis) - Tools that make it easier to analyze AWS Cost and Usage reports. Initial version provides support for Athena and QuickSight.
 - [atlassian-labs/peerd](https://github.com/atlassian-labs/peerd) - peerd is an AWS VPC Peering Connection management tool. It creates full-meshes of VPCs from a yaml file, and manages the full lifecycle of creation, deletion and route table updates needed to make VPC
 - [awslabs/aws-securityhub-multiaccount-scripts](https://github.com/awslabs/aws-securityhub-multiaccount-scripts) - This script automates the process of running the Security Hub multi-account workflow across a group of accounts that are in your control
