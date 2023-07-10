@@ -213,6 +213,7 @@
 
 ## api 
 
+- [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -771,6 +772,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
+- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
 
 ## chatgpt-api 
 
@@ -1086,6 +1088,7 @@
 
 ## docker 
 
+- [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [Aeternalis-Ingenium/FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template) - A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
@@ -2749,6 +2752,8 @@
 
 ## python 
 
+- [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
+- [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -2934,6 +2939,7 @@
 
 ## python3 
 
+- [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
@@ -2978,6 +2984,7 @@
 
 ## react 
 
+- [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -3009,6 +3016,7 @@
 
 ## rest-api 
 
+- [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - keycloak-nodejs-admin-client repo is moved.
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
@@ -3435,6 +3443,7 @@
 
 ## typescript 
 
+- [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
 - [hmmhmmhm/friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - A.I 에게 R&R을 부여해서 프로그래밍 업무를 진행시킵니다.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
