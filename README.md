@@ -247,7 +247,7 @@
 - [Appliscale/cloud-security-audit](https://github.com/Appliscale/cloud-security-audit) - A command line security audit tool for Amazon Web Services
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
-- [weaveworks/eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
+- [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
 - [Jimdo/aws-health-exporter](https://github.com/Jimdo/aws-health-exporter) - AWS Health API Exporter for Prometheus
 - [kumina/postfix_exporter](https://github.com/kumina/postfix_exporter) - A Prometheus exporter for Postfix.
