@@ -2011,6 +2011,7 @@
 
 ## others 
 
+- [mnagel/clustergit](https://github.com/mnagel/clustergit) - run git commands on multiple git clones
 - [johngrib/fav-dir](https://github.com/johngrib/fav-dir) - Jump to your favorite directories in bash using fzf.
 - [myoung34/yawps](https://github.com/myoung34/yawps) - Yet Another Workflow Parser for SecurityHub
 - [aquia-inc/scpkit](https://github.com/aquia-inc/scpkit) - SCP management tool
