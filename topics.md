@@ -378,6 +378,7 @@
 
 ## aws 
 
+- [aws-samples/service-control-policy-examples](https://github.com/aws-samples/service-control-policy-examples) - Example AWS Service control policies to get started or mature your usage of AWS SCPs.
 - [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
 - [zoph-io/subnet-watcher](https://github.com/zoph-io/subnet-watcher) - AWS VPC Subnet Watcher
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
@@ -1994,7 +1995,7 @@
 ## open-source 
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
 - [zerwes/hiyapyco](https://github.com/zerwes/hiyapyco) - HiYaPyCo - A Hierarchical Yaml Python Config
@@ -2017,6 +2018,8 @@
 
 ## others 
 
+- [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container) - Firefox extension to open external links in a specific container
+- [ScaleSec/terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) - AWS Organizations Service Control Policies (SCPs) written in HashiCorp Terraform.
 - [mnagel/clustergit](https://github.com/mnagel/clustergit) - run git commands on multiple git clones
 - [johngrib/fav-dir](https://github.com/johngrib/fav-dir) - Jump to your favorite directories in bash using fzf.
 - [myoung34/yawps](https://github.com/myoung34/yawps) - Yet Another Workflow Parser for SecurityHub
@@ -2279,7 +2282,7 @@
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [aws-samples/aws-transit-gateway-attachment-automation](https://github.com/aws-samples/aws-transit-gateway-attachment-automation) - AWS CloudFormation templates and AWS Lambda Python based code for automating AWS Transit Gateway Attachment associations across an AWS Organization.
 - [gwallet/keycloak-sms-authenticator](https://github.com/gwallet/keycloak-sms-authenticator) - 
-- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [inovex/illuminatio](https://github.com/inovex/illuminatio) - The kubernetes network policy validator.
 - [92bondstreet/awesome-onboarding](https://github.com/92bondstreet/awesome-onboarding) - 🌻 A curated list of awesome onboarding new developers resources.
 - [awsdocs/aws-personal-health-dashboard](https://github.com/awsdocs/aws-personal-health-dashboard) - The open source version of the AWS Personal Health Dashboard docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull re
