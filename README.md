@@ -671,6 +671,7 @@
 
 ## Others 
 
+- [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
 - [aws-samples/service-control-policy-examples](https://github.com/aws-samples/service-control-policy-examples) - Example AWS Service control policies to get started or mature your usage of AWS SCPs.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [ramimac/aws-customer-security-incidents](https://github.com/ramimac/aws-customer-security-incidents) - A repository of breaches of AWS customers
