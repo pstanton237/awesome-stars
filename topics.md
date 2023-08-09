@@ -827,7 +827,7 @@
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - Workflow automation tool for DevOps. Keep configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1078,7 +1078,7 @@
 
 ## discord 
 
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
 ## django 
 
@@ -1462,7 +1462,7 @@
 
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## hacking 
 
@@ -2877,7 +2877,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [buttercrab/wtfpython-ko](https://github.com/buttercrab/wtfpython-ko) - 놀라운 예제들을 통해서 파이썬을 탐험하고 이해해보세요!
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [cole-wilson/sailboat](https://github.com/cole-wilson/sailboat) - 🐍 A quick and easy way to distribute your Python projects!
@@ -3083,6 +3083,7 @@
 - [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli) - A super fast CLI tool to decode and encode JWTs built in Rust
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## sass 
 
@@ -3332,7 +3333,7 @@
 
 ## telegram 
 
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
 ## terminal 
 
@@ -3346,7 +3347,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [jwlodek/py_cui](https://github.com/jwlodek/py_cui) - A python library for intuitively creating CUI/TUI interfaces with widgets, inspired by gocui.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
