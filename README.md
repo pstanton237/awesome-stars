@@ -1150,7 +1150,7 @@
 - [doitintl/iris3](https://github.com/doitintl/iris3) - An upgraded and improved version of the Iris automatic GCP-labeling project
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [awslabs/aws-service-catalog-puppet](https://github.com/awslabs/aws-service-catalog-puppet) - This is a framework where you list your AWS accounts with tags and your AWS Service Catalog products with tags or target accounts. The framework works through your lists, dedupes and spots collisions 
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [buttercrab/wtfpython-ko](https://github.com/buttercrab/wtfpython-ko) - 놀라운 예제들을 통해서 파이썬을 탐험하고 이해해보세요!
 - [cole-wilson/sailboat](https://github.com/cole-wilson/sailboat) - 🐍 A quick and easy way to distribute your Python projects!
 - [salesforce/policyguru](https://github.com/salesforce/policyguru) - Work on user interface and the REST API for the Policy Sentry UI
@@ -1734,7 +1734,7 @@
 - [chrislewisdev/prettyplan](https://github.com/chrislewisdev/prettyplan) - A formatting tool to help make large Terraform plans easier to review.
 - [tensult/cloud-reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports. Check out free hosted version:
 - [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - This solution leverages AWS Trusted Advisor and Service Quotas to monitor AWS resource usage and raise alerts.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
