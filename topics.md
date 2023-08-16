@@ -3369,6 +3369,7 @@
 
 ## terraform 
 
+- [reulan/clairvoyance](https://github.com/reulan/clairvoyance) - Drift detection and reporting for Terraform.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Terraform module registry
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
