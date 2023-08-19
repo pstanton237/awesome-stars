@@ -1823,6 +1823,7 @@
 
 ## mac 
 
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -1844,6 +1845,7 @@
 
 ## macos 
 
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
@@ -2036,6 +2038,7 @@
 
 ## others 
 
+- [therippa/tesla-bitbar](https://github.com/therippa/tesla-bitbar) - Get charging info and control HVAC from your menubar
 - [roeniss/dhlottery-api](https://github.com/roeniss/dhlottery-api) - 비공식 동행복권 API
 - [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot) - 매주 동행복권 자동구매 하고 당첨되면 알려드려요 💰  (Github Action)
 - [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container) - Firefox extension to open external links in a specific container
@@ -3317,6 +3320,7 @@
 
 ## swift 
 
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
@@ -3327,6 +3331,7 @@
 
 ## swiftui 
 
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
 
