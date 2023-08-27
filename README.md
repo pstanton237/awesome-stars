@@ -326,7 +326,7 @@
 - [google/huproxy](https://github.com/google/huproxy) - 
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [jonog/redalert](https://github.com/jonog/redalert) - :rocket: continuously test all the things - trigger alerts on failure :boom:
-- [b4b4r07/zsh-history](https://github.com/b4b4r07/zsh-history) - A plugin for zsh history extended by golang, dealing it like SQL
+- [babarot/zsh-history](https://github.com/babarot/zsh-history) - A plugin for zsh history extended by golang, dealing it like SQL
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [sethvargo/terraform-provider-googlecalendar](https://github.com/sethvargo/terraform-provider-googlecalendar) - A @HashiCorp Terraform provider for managing Google Calendar events.
