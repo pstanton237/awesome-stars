@@ -1367,7 +1367,7 @@
 - [scottslowe/learning-tools](https://github.com/scottslowe/learning-tools) - A collection of tools and files for learning new technologies
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [jonog/redalert](https://github.com/jonog/redalert) - :rocket: continuously test all the things - trigger alerts on failure :boom:
-- [b4b4r07/zsh-history](https://github.com/b4b4r07/zsh-history) - A plugin for zsh history extended by golang, dealing it like SQL
+- [babarot/zsh-history](https://github.com/babarot/zsh-history) - A plugin for zsh history extended by golang, dealing it like SQL
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
@@ -1434,7 +1434,7 @@
 - [itsdalmo/ssm-sh](https://github.com/itsdalmo/ssm-sh) - Experiment to use SSM RunCommand instead of SSH
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
-- [b4b4r07/zsh-history](https://github.com/b4b4r07/zsh-history) - A plugin for zsh history extended by golang, dealing it like SQL
+- [babarot/zsh-history](https://github.com/babarot/zsh-history) - A plugin for zsh history extended by golang, dealing it like SQL
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 
 ## google 
