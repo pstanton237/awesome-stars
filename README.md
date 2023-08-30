@@ -1161,7 +1161,7 @@
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Second Edition — Source Code and Errata for the Book
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
-- [onlybooks/algorithm-interview](https://github.com/onlybooks/algorithm-interview) - &lt;파이썬 알고리즘 인터뷰&gt; 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트
+- [onlybooks/python-algorithm-interview](https://github.com/onlybooks/python-algorithm-interview) - &lt;파이썬 알고리즘 인터뷰&gt; 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [jeongukjae/pytistory](https://github.com/jeongukjae/pytistory) - 📖 Tistory Blog API Client written in Python.
 - [JohannesEbke/aws_list_all](https://github.com/JohannesEbke/aws_list_all) - List all your AWS resources, all regions, all services.
@@ -1712,7 +1712,7 @@
 - [futurice/terraform-monitor-lambda](https://github.com/futurice/terraform-monitor-lambda) - Monitors a Terraform repository and reports on configuration drift: changes that are in the repo, but not in the deployed infra, or vice versa. Hooks up to dashboards and alerts via CloudWatch or Infl
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [tilfin/aws-iam-policy-tool](https://github.com/tilfin/aws-iam-policy-tool) - AWS IAM role/policy management command line tool
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [mpyw/aws-lambda-billing-slack-notification](https://github.com/mpyw/aws-lambda-billing-slack-notification) - Node.js 14 以降向けの AWS 当月利用料金 Slack 通知スクリプト
