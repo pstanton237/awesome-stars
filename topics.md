@@ -2601,7 +2601,7 @@
 - [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
 - [flarco/elk-tcpdump](https://github.com/flarco/elk-tcpdump) - Code to aggregate tcpdump traffic and send to ELK (Elasticsearch-Logstach-Kibana)
 - [CenturyLinkLabs/dockerfile-from-image](https://github.com/CenturyLinkLabs/dockerfile-from-image) - 
-- [awslabs/hids-cloudwatchlogs-elasticsearch-template](https://github.com/awslabs/hids-cloudwatchlogs-elasticsearch-template) - Monitor Host-Based Intrusion Detection System Alerts on Amazon EC2 Instances
+- [awslabs/hids-cloudwatchlogs-opensearch-template](https://github.com/awslabs/hids-cloudwatchlogs-opensearch-template) - Monitor Host-Based Intrusion Detection System Alerts on Amazon EC2 Instances
 - [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - This solution leverages AWS Trusted Advisor and Service Quotas to monitor AWS resource usage and raise alerts.
 - [te-papa/aws-key-disabler](https://github.com/te-papa/aws-key-disabler) - A small lambda script that will disable access keys older than a given amount of days.
 - [awsdocs/aws-cost-management-user-guide](https://github.com/awsdocs/aws-cost-management-user-guide) - The open source version of the AWS Billing and Cost Management docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull 
