@@ -605,7 +605,6 @@
 
 ## Jupyter Notebook 
 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [financedata-org/FinanceDataReader](https://github.com/financedata-org/FinanceDataReader) - Financial data reader
 - [sharebook-kr/book-pandas-for-finance](https://github.com/sharebook-kr/book-pandas-for-finance) - 금융 데이터 분석을 위한 파이썬 Pandas
@@ -910,6 +909,7 @@
 - [emmethalm/infiniteGPT](https://github.com/emmethalm/infiniteGPT) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
 - [zoph-io/subnet-watcher](https://github.com/zoph-io/subnet-watcher) - AWS VPC Subnets Watcher
 - [agussman/aws-cost-explorer](https://github.com/agussman/aws-cost-explorer) - Simple script to breakdown AWS billing by "Project" tag
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Terraform module registry
