@@ -470,6 +470,7 @@
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
@@ -685,6 +686,7 @@
 - [random-robbie/metadata-one-liners](https://github.com/random-robbie/metadata-one-liners) - retrive metadata endpoint data with these one liners.
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [riskprofiler/CloudFrontier](https://github.com/riskprofiler/CloudFrontier) - Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.
+- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
@@ -819,7 +821,7 @@
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1651,7 +1653,7 @@
 
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [ashald/EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.x is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
@@ -2211,7 +2213,7 @@
 - [akoserwal/keycloak-integrations](https://github.com/akoserwal/keycloak-integrations) - Repository will contain integration patterns with keycloak
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [prisma-cloud/IAMFinder](https://github.com/prisma-cloud/IAMFinder) - IAMFinder enumerates and finds users and IAM roles in a target AWS account.
-- [financedata-org/FinanceDataReader](https://github.com/financedata-org/FinanceDataReader) - Financial data reader
+- [FinanceData/FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [fugue/regula](https://github.com/fugue/regula) - Regula checks infrastructure as code templates (Terraform, CloudFormation, k8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego
 - [aws-samples/aws-iam-permissions-guardrails](https://github.com/aws-samples/aws-iam-permissions-guardrails) - AWS IAM Permissions Guardrails https://aws-samples.github.io/aws-iam-permissions-guardrails/
 - [Netflix-Skunkworks/cloudtrail-anomaly](https://github.com/Netflix-Skunkworks/cloudtrail-anomaly) - 
@@ -2277,7 +2279,6 @@
 - [awslabs/aws-service-catalog-puppet](https://github.com/awslabs/aws-service-catalog-puppet) - This is a framework where you list your AWS accounts with tags and your AWS Service Catalog products with tags or target accounts. The framework works through your lists, dedupes and spots collisions 
 - [bdkjones/MuzzleApp](https://github.com/bdkjones/MuzzleApp) - The public bug tracker for Muzzle: muzzleapp.com
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
-- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 - [brianlam38/AWS-Certified-Security-Specialty](https://github.com/brianlam38/AWS-Certified-Security-Specialty) - AWS Certified Security Specialty (2020) course notes
 - [riteshsoni10/gcp_aws_deployment](https://github.com/riteshsoni10/gcp_aws_deployment) - Automated Multi-Cloud Application Deployment using terraform.  The inter-connectivity between the public clouds is preformed using Site-To-Site VPN using terraform as code. The application is deployed
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
