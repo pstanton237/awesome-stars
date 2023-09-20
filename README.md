@@ -466,6 +466,7 @@
 
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container) - Firefox extension to open external links in a specific container
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
@@ -909,7 +910,6 @@
 - [emmethalm/infiniteGPT](https://github.com/emmethalm/infiniteGPT) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
 - [zoph-io/subnet-watcher](https://github.com/zoph-io/subnet-watcher) - AWS VPC Subnets Watcher
 - [agussman/aws-cost-explorer](https://github.com/agussman/aws-cost-explorer) - Simple script to breakdown AWS billing by "Project" tag
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Terraform module registry
