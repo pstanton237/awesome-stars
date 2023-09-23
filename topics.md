@@ -171,7 +171,7 @@
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [hmmhmmhm/friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - A.I 에게 R&R을 부여해서 프로그래밍 업무를 진행시킵니다.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
@@ -235,7 +235,7 @@
 ## artificial-intelligence 
 
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
 - [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 
@@ -2263,7 +2263,7 @@
 - [GoogleCloudPlatform/istio-samples](https://github.com/GoogleCloudPlatform/istio-samples) - Istio demos and sample applications for GCP
 - [cevoaustralia/tag-sentinel](https://github.com/cevoaustralia/tag-sentinel) - Serverless tag policy tool
 - [cevoaustralia/gcp-sa-to-aws-iam-role](https://github.com/cevoaustralia/gcp-sa-to-aws-iam-role) - Example code for using a GCP Service Account to acquire AWS IAM Role credentials
-- [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred4 workflow to easily open your projects with your favorite JetBrains product.
+- [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred5 workflow to easily open your projects with your favorite JetBrains product.
 - [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management
 - [james-ransom/auto-apply-gcp-iam-recommendations](https://github.com/james-ransom/auto-apply-gcp-iam-recommendations) - Auto apply GCP IAM permissions
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
@@ -2792,7 +2792,7 @@
 - [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
 - [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Terraform module registry
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
