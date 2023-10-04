@@ -816,7 +816,7 @@
 ## cli 
 
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
@@ -1017,6 +1017,7 @@
 - [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - The Open Source Incident Management Framework
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [aws-samples/aws-cdk-project-template-for-devops](https://github.com/aws-samples/aws-cdk-project-template-for-devops) - This repository provides best practices and template framework for developing AWS Cloud Development Kit(CDK)-based applications effectively, quickly and collaboratively.
 - [aws-samples/aws-unit-testing](https://github.com/aws-samples/aws-unit-testing) - Unit testing AWS interactions with pytest and moto. The examples demonstrate how to structure, setup, teardown, mock, and conduct unit testing. These concepts can be applied to general code and are no
 - [clouddrove/terraform-aws-vpc-peering](https://github.com/clouddrove/terraform-aws-vpc-peering) - Terraform module to connect two VPC's on AWS.
@@ -1385,7 +1386,7 @@
 ## golang 
 
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
@@ -1512,6 +1513,7 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [turbot/steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Steampipe.
+- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 - [jeff-knurek/tfarbe](https://github.com/jeff-knurek/tfarbe) - add color to Terraform 12/13 plan output, also format it for markdown diff
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -1987,7 +1989,7 @@
 ## nextjs 
 
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -2006,7 +2008,7 @@
 - [hmmhmmhm/friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - A.I 에게 R&R을 부여해서 프로그래밍 업무를 진행시킵니다.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - keycloak-nodejs-admin-client repo is moved.
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!
@@ -2028,7 +2030,7 @@
 
 ## open-source 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
@@ -3032,7 +3034,7 @@
 
 - [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
@@ -3112,7 +3114,7 @@
 
 ## security 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
@@ -3502,7 +3504,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [cookpad/uguisu](https://github.com/cookpad/uguisu) - AWS resource monitoring tool based on CIS benchmark
