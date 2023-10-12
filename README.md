@@ -605,7 +605,6 @@
 
 ## Jupyter Notebook 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [FinanceData/FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [sharebook-kr/book-pandas-for-finance](https://github.com/sharebook-kr/book-pandas-for-finance) - 금융 데이터 분석을 위한 파이썬 Pandas
 - [awslabs/ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
@@ -678,6 +677,7 @@
 - [zarifpour/alfred-you-suggest](https://github.com/zarifpour/alfred-you-suggest) - 🎩 Get in-line suggestions from You.com's search results with Alfred.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [jonzarecki/awesome-pycharm-plugins](https://github.com/jonzarecki/awesome-pycharm-plugins) - A curated list of awesome Pycharm plugins
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [elbanic/alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
 - [felipekiko/finops-c7n](https://github.com/felipekiko/finops-c7n) - Some custodian policies to use in FinOps monitoring
