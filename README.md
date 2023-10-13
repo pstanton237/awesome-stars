@@ -293,7 +293,7 @@
 - [cloudtools/ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) - An implementation of an SSH certificate authority.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [Netflix-Skunkworks/aws-metadata-proxy](https://github.com/Netflix-Skunkworks/aws-metadata-proxy) - AWS Metadata Proxy for protection against SSRF
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [segmentio/chamber](https://github.com/segmentio/chamber) - CLI for managing secrets
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) - An AWS Lambda powered HTTP/SOCKS web proxy
