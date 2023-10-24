@@ -161,7 +161,7 @@
 - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [jeff-knurek/tfarbe](https://github.com/jeff-knurek/tfarbe) - add color to Terraform 12/13 plan output, also format it for markdown diff
 - [goldfiglabs/rpCheckup](https://github.com/goldfiglabs/rpCheckup) - rpCheckup is an AWS resource policy security checkup tool that identifies public, external account access, intra-org     account access, and private resources.
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
