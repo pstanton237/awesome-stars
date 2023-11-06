@@ -1650,7 +1650,7 @@
 
 ## Swift 
 
-- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Mac OS Status Bar App that puts at eyesight your AirPods battery levels. Universal Intel / M1 Compatible
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - MacOS Status Bar App that puts at eyesight your AirPods Battery levels - Compatible MacOS Sonoma
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
