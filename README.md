@@ -28,6 +28,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mako](#mako)
 - [Markdown](#markdown)
@@ -552,7 +553,7 @@
 - [dtan4/ec2-event-slack-notifier](https://github.com/dtan4/ec2-event-slack-notifier) - AWS Lambda function / Docker image to notify EC2 Scheduled Events to Slack
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
-- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
+- [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [tmtk75/aws-cloudwatch-chart-slack](https://github.com/tmtk75/aws-cloudwatch-chart-slack) - Renderer for AWS CloudWatch Chart and Uploader to Slack
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 - [joyfuI/NaverCafePass](https://github.com/joyfuI/NaverCafePass) - 네이버 카페 게시글 중 검색 허용되었으나 맴버공개인 글을 카페 가입없이 바로 볼 수 있게 해주는 브라우저 확장입니다.
@@ -626,6 +627,10 @@
 
 - [zmallen/robin](https://github.com/zmallen/robin) - 
 
+## MDX 
+
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
 ## Makefile 
 
 - [aws-samples/visualize-iam-access-analyzer-policy-validation-findings](https://github.com/aws-samples/visualize-iam-access-analyzer-policy-validation-findings) - 
@@ -678,7 +683,6 @@
 - [zarifpour/alfred-you-suggest](https://github.com/zarifpour/alfred-you-suggest) - 🎩 Get in-line suggestions from You.com's search results with Alfred.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [jonzarecki/awesome-pycharm-plugins](https://github.com/jonzarecki/awesome-pycharm-plugins) - A curated list of awesome Pycharm plugins
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [elbanic/alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
 - [felipekiko/finops-c7n](https://github.com/felipekiko/finops-c7n) - Some custodian policies to use in FinOps monitoring
@@ -1650,7 +1654,7 @@
 
 ## Swift 
 
-- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - MacOS Status Bar App that puts at eyesight your AirPods Battery levels - Compatible MacOS Sonoma
+- [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
 - [afterxleep/Bouncer](https://github.com/afterxleep/Bouncer) - A private SMS filtering application for iOS
