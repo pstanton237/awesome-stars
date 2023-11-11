@@ -106,6 +106,7 @@
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
+- [nativescript](#nativescript)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -1994,6 +1995,10 @@
 - [adithyakhamithkar/ansible-playbooks](https://github.com/adithyakhamithkar/ansible-playbooks) - Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc..
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
+## nativescript 
+
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+
 ## neovim 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2490,7 +2495,7 @@
 - [awskrug/architecture-group](https://github.com/awskrug/architecture-group) - AWSKRUG architecutre small group
 - [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam) - 좋은 개발팀을 만드는데 도움이 되는 자료
 - [AndyDinh/aardvarkRepokidDemo](https://github.com/AndyDinh/aardvarkRepokidDemo) - 
-- [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - The GOV.UK repository for our Migration to AWS
+- [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - Legacy AWS infrastructure for GOV.UK. Gradually being updated and moved to govuk-infrastructure.
 - [justeat/JustSupport](https://github.com/justeat/JustSupport) - 
 - [gardener/aws-lb-readvertiser](https://github.com/gardener/aws-lb-readvertiser) - Reacts on changes of the underlying ip addresses of AWS elastic load balancers.
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
