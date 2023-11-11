@@ -384,7 +384,7 @@
 - [gruntwork-io/intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) - Sample code for the blog post series "A Comprehensive Guide to Terraform."
 - [alicek106/start-docker-kubernetes](https://github.com/alicek106/start-docker-kubernetes) - 시작하세요! 도커, 그리고 쿠버네티스 책에서 사용되는 예제를 정리한 저장소입니다.
 - [cloudposse/reference-architectures](https://github.com/cloudposse/reference-architectures) - [WIP] Get up and running quickly with one of our reference architecture using our fully automated cold-start process.
-- [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - The GOV.UK repository for our Migration to AWS
+- [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - Legacy AWS infrastructure for GOV.UK. Gradually being updated and moved to govuk-infrastructure.
 - [chanzuckerberg/cztack](https://github.com/chanzuckerberg/cztack) - The CZI infrastructure stack.
 - [mengesb/tf_ghe_server](https://github.com/mengesb/tf_ghe_server) - Terraform GitHub Enterprise plan
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
