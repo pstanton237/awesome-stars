@@ -119,7 +119,7 @@
 
 ## Elixir 
 
-- [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla  🚘
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
 - [yeo/betterdev.link](https://github.com/yeo/betterdev.link) - Links to improve programing skill
 
 ## Erlang 
