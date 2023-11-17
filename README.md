@@ -373,7 +373,7 @@
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [easttimor/aws-incident-response](https://github.com/easttimor/aws-incident-response) - 
 - [mitre/cis-aws-foundations-hardening](https://github.com/mitre/cis-aws-foundations-hardening) - (WIP) A terraform / kitchen-terraform hardening baseline for the cis-aws-foundations-baseline
-- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported 🇺🇦
+- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate 🇺🇦
 - [DevopsArtFactory/aws-provisioning](https://github.com/DevopsArtFactory/aws-provisioning) - To provision AWS resources
 - [bridgecrewio/terragoat](https://github.com/bridgecrewio/terragoat) - TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production
 - [trussworks/terraform-aws-config-notifications](https://github.com/trussworks/terraform-aws-config-notifications) - Config Notifications
