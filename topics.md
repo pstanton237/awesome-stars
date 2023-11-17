@@ -517,7 +517,7 @@
 - [tedivm/nebula](https://github.com/tedivm/nebula) - EC2 Self-Management Portal
 - [SundaySky/cost-anomaly-detector](https://github.com/SundaySky/cost-anomaly-detector) - 
 - [mitre/cis-aws-foundations-hardening](https://github.com/mitre/cis-aws-foundations-hardening) - (WIP) A terraform / kitchen-terraform hardening baseline for the cis-aws-foundations-baseline
-- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported 🇺🇦
+- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate 🇺🇦
 - [miztiik/AWS-Demos](https://github.com/miztiik/AWS-Demos) - A hands on repo with multiple demonstrations on AWS 🎓
 - [bradleyg/django-s3direct](https://github.com/bradleyg/django-s3direct) - Directly upload files to S3 compatible services with Django.
 - [flosell/trailscraper](https://github.com/flosell/trailscraper) - A command-line tool to get valuable information out of AWS CloudTrail
