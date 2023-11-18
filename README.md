@@ -900,6 +900,8 @@
 
 ## Python 
 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [therippa/tesla-bitbar](https://github.com/therippa/tesla-bitbar) - Get charging info and control HVAC from your menubar
 - [roeniss/dhlottery-api](https://github.com/roeniss/dhlottery-api) - 비공식 동행복권 API
 - [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot) - 매주 동행복권 자동구매 하고 당첨되면 알려드려요 💰  (Github Action)
