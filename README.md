@@ -76,6 +76,7 @@
 
 ## C# # 
 
+- [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 
 ## C++ 
@@ -1046,7 +1047,6 @@
 - [vikyol/aws-solutions-cdk](https://github.com/vikyol/aws-solutions-cdk) - The AWS solutions implemented using AWS-CDK for Python
 - [aws-samples/org-billing-example](https://github.com/aws-samples/org-billing-example) - 
 - [alanwds/aws-cost-exporter](https://github.com/alanwds/aws-cost-exporter) - Prometheus exporter for cost explorer splitted data by tag
-- [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [stash86/MultiMA_TSL](https://github.com/stash86/MultiMA_TSL) - 
 - [devbootstrap/freqtrade-hyperopt-running-in-cloud-example](https://github.com/devbootstrap/freqtrade-hyperopt-running-in-cloud-example) - An example of optimizing an existing strategy using Freqtrade Hyperopt Parameters
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
