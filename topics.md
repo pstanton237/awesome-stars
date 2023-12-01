@@ -2733,7 +2733,6 @@
 - [lyvius2/UsedBookApp](https://github.com/lyvius2/UsedBookApp) - 중고책 구매/매각가 검색 앱
 - [SublimeLinter/SublimeLinter-shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - This linter plugin for SublimeLinter provides an interface to shellcheck.
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
-- [Leo-G/Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki) - A wiki of  DataScience, Statistics, Maths, R,Python, AI, Machine Learning,  Automation, Devops Tools, Bash, Linux Tutorials, Scripts and Datasets
 - [anoakb/review](https://github.com/anoakb/review) - questions from https://github.com/chassing/linux-sysadmin-interview-questions
 - [anonymuse/linux-operations-interview-questions](https://github.com/anonymuse/linux-operations-interview-questions) - Collection of linux sysadmin/devop interview questions
 - [kylejohnson/linux-sysadmin-interview-questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions) - A list of some of the questions which I've had to know during linux syadmin / devops interviews.
@@ -2762,6 +2761,7 @@
 
 ## package-manager 
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 
