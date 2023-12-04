@@ -372,7 +372,7 @@
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [easttimor/aws-incident-response](https://github.com/easttimor/aws-incident-response) - 
 - [mitre/cis-aws-foundations-hardening](https://github.com/mitre/cis-aws-foundations-hardening) - (WIP) A terraform / kitchen-terraform hardening baseline for the cis-aws-foundations-baseline
-- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate 🇺🇦
+- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform module to deploy Atlantis on AWS Fargate 🇺🇦
 - [DevopsArtFactory/aws-provisioning](https://github.com/DevopsArtFactory/aws-provisioning) - To provision AWS resources
 - [bridgecrewio/terragoat](https://github.com/bridgecrewio/terragoat) - TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production
 - [trussworks/terraform-aws-config-notifications](https://github.com/trussworks/terraform-aws-config-notifications) - Config Notifications
@@ -388,14 +388,14 @@
 - [mengesb/tf_ghe_server](https://github.com/mengesb/tf_ghe_server) - Terraform GitHub Enterprise plan
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
 - [cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms](https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms) - Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail.
-- [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [turnerlabs/terraform-ecs-fargate](https://github.com/turnerlabs/terraform-ecs-fargate) - A Terraform template used for provisioning web application stacks on AWS ECS Fargate
 - [opsgang/terraform-aws-cis-fundamentals](https://github.com/opsgang/terraform-aws-cis-fundamentals) - This Terraform module helps to setup an AWS account with the requirements of  CIS Amazon Web Services Foundations Benchmark v1.1.0
 - [geekmuse/cloud-custodian-docker](https://github.com/geekmuse/cloud-custodian-docker) - Containerized Deployment for Cloud Custodian
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 - [nozaq/terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
 - [cloudposse/terraform-aws-vpc-peering-multi-account](https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account) - Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers
-- [terraform-aws-modules/terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Terraform module which creates EC2-VPC security groups on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Terraform module to create AWS Security Group resources 🇺🇦
 - [jeremy-cc/solarch-assoc](https://github.com/jeremy-cc/solarch-assoc) - Solutions Architech Associate
 - [rampart81/terraform-modules](https://github.com/rampart81/terraform-modules) - Terraform Modules
 - [kz8s/tack](https://github.com/kz8s/tack) - Terraform module for creating Kubernetes cluster running on Container Linux by CoreOS in an AWS VPC
@@ -1260,7 +1260,7 @@
 - [awslabs/aws-securityhub-multiaccount-scripts](https://github.com/awslabs/aws-securityhub-multiaccount-scripts) - This script automates the process of running the Security Hub multi-account workflow across a group of accounts that are in your control
 - [cosmin/route53-transfer](https://github.com/cosmin/route53-transfer) - Backup and restore Route53 zones, or transfer between AWS accounts.
 - [aws-samples/aws-iam-accessadvisor-permissionboundary](https://github.com/aws-samples/aws-iam-accessadvisor-permissionboundary) - Audit IAM roles and users using Access Advisor data using Python/boto3 SDK and automatically create IAM permissions boundaries to limit access
-- [terraform-aws-modules/terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Terraform module which creates SNS topic and Lambda function which sends notifications to Slack 🇺🇦
+- [terraform-aws-modules/terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Terraform module to create AWS resources for sending notifications to Slack 🇺🇦
 - [Jakobovski/aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot) - A simple script to automate the creation of the cheapest and most stable AWS spot instances.
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [wagoodman/bridgy](https://github.com/wagoodman/bridgy) - cloud inventory + ssh + tmux + sshfs
