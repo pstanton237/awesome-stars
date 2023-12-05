@@ -518,7 +518,7 @@
 - [tedivm/nebula](https://github.com/tedivm/nebula) - EC2 Self-Management Portal
 - [SundaySky/cost-anomaly-detector](https://github.com/SundaySky/cost-anomaly-detector) - 
 - [mitre/cis-aws-foundations-hardening](https://github.com/mitre/cis-aws-foundations-hardening) - (WIP) A terraform / kitchen-terraform hardening baseline for the cis-aws-foundations-baseline
-- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform configurations for running Atlantis on AWS Fargate 🇺🇦
+- [terraform-aws-modules/terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - Terraform module to deploy Atlantis on AWS Fargate 🇺🇦
 - [miztiik/AWS-Demos](https://github.com/miztiik/AWS-Demos) - A hands on repo with multiple demonstrations on AWS 🎓
 - [bradleyg/django-s3direct](https://github.com/bradleyg/django-s3direct) - Directly upload files to S3 compatible services with Django.
 - [flosell/trailscraper](https://github.com/flosell/trailscraper) - A command-line tool to get valuable information out of AWS CloudTrail
@@ -558,7 +558,7 @@
 - [jckuester/awsweeper](https://github.com/jckuester/awsweeper) - A tool for cleaning your AWS account
 - [gruntwork-io/infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
 - [iann0036/aws-account-controller](https://github.com/iann0036/aws-account-controller) - Self-service creation and deletion of sandbox-style accounts.
-- [terraform-aws-modules/terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Terraform module which creates SNS topic and Lambda function which sends notifications to Slack 🇺🇦
+- [terraform-aws-modules/terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Terraform module to create AWS resources for sending notifications to Slack 🇺🇦
 - [Jakobovski/aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot) - A simple script to automate the creation of the cheapest and most stable AWS spot instances.
 - [kubenow/KubeNow](https://github.com/kubenow/KubeNow) - Deploy Kubernetes. Now!
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
@@ -616,7 +616,7 @@
 - [janiko71/aws-inventory](https://github.com/janiko71/aws-inventory) - Python script for AWS resources inventory (cheaper than AWS Config)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) - An AWS Lambda powered HTTP/SOCKS web proxy
-- [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module which creates IAM resources on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [jeanlouisferey/aws-securitygroup-grapher](https://github.com/jeanlouisferey/aws-securitygroup-grapher) - This ansible role gets information from an AWS VPC and generate a graphical representation of security groups
 - [99designs/iamy](https://github.com/99designs/iamy) - A cli tool for importing and exporting AWS IAM configuration to YAML files
 - [gianlucaborello/aws-ssh-config](https://github.com/gianlucaborello/aws-ssh-config) - Generate SSH config files from AWS EC2 inventory
@@ -666,7 +666,7 @@
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [Netflix-Skunkworks/historical](https://github.com/Netflix-Skunkworks/historical) - A serverless, event-driven AWS configuration collection service with configuration versioning.
 - [pinterest/soundwave](https://github.com/pinterest/soundwave) - A searchable EC2 Inventory store
-- [terraform-aws-modules/terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Terraform module which creates EC2-VPC security groups on AWS 🇺🇦
+- [terraform-aws-modules/terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - Terraform module to create AWS Security Group resources 🇺🇦
 - [nccgroup/aws-inventory](https://github.com/nccgroup/aws-inventory) - Discover resources created in an AWS account.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [Netflix-Skunkworks/aardvark](https://github.com/Netflix-Skunkworks/aardvark) - Aardvark is a multi-account AWS IAM Access Advisor API
