@@ -355,7 +355,7 @@
 - [garutilorenzo/k3s-aws-terraform-cluster](https://github.com/garutilorenzo/k3s-aws-terraform-cluster) - Deploy an high available K3s cluster on Amazon AWS
 - [turbot/steampipe-mod-aws-thrifty](https://github.com/turbot/steampipe-mod-aws-thrifty) - Are you a Thrifty AWS dev? This Steampipe mod checks your AWS accounts for unused and under-utilized resources.
 - [maddevsio/aws-eks-base](https://github.com/maddevsio/aws-eks-base) - This boilerplate contains terraform configurations for the rapid deployment of a Kubernetes cluster, supporting services, and the underlying infrastructure in AWS.
-- [cloudposse/terraform-aws-iam-policy-document-aggregator](https://github.com/cloudposse/terraform-aws-iam-policy-document-aggregator) - Terraform module to aggregate multiple IAM policy documents into single policy document.
+- [cloudposse-archives/terraform-aws-iam-policy-document-aggregator](https://github.com/cloudposse-archives/terraform-aws-iam-policy-document-aggregator) - Terraform module to aggregate multiple IAM policy documents into single policy document.
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
 - [Voronenko/devops-tf-eks](https://github.com/Voronenko/devops-tf-eks) - terraform baked AWS kubernetes cluster (EKS) - 1.18 compatible
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
@@ -382,7 +382,7 @@
 - [kubenow/KubeNow](https://github.com/kubenow/KubeNow) - Deploy Kubernetes. Now!
 - [gruntwork-io/intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) - Sample code for the blog post series "A Comprehensive Guide to Terraform."
 - [alicek106/start-docker-kubernetes](https://github.com/alicek106/start-docker-kubernetes) - 시작하세요! 도커, 그리고 쿠버네티스 책에서 사용되는 예제를 정리한 저장소입니다.
-- [cloudposse/reference-architectures](https://github.com/cloudposse/reference-architectures) - [WIP] Get up and running quickly with one of our reference architecture using our fully automated cold-start process.
+- [cloudposse-archives/reference-architectures](https://github.com/cloudposse-archives/reference-architectures) - [WIP] Get up and running quickly with one of our reference architecture using our fully automated cold-start process.
 - [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - Legacy AWS infrastructure for GOV.UK. Gradually being updated and moved to govuk-infrastructure.
 - [chanzuckerberg/cztack](https://github.com/chanzuckerberg/cztack) - The CZI infrastructure stack.
 - [mengesb/tf_ghe_server](https://github.com/mengesb/tf_ghe_server) - Terraform GitHub Enterprise plan
