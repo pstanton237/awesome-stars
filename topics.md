@@ -2276,7 +2276,7 @@
 - [sharebook-kr/pyupbit](https://github.com/sharebook-kr/pyupbit) - python wrapper for upbit API
 - [Gatsby-Lee/DevOps](https://github.com/Gatsby-Lee/DevOps) - Dev and Ops Knowledge
 - [programgarden/book](https://github.com/programgarden/book) - 교재 : 손가락 하나 까딱하지 않는 주식 거래 시스템 구축
-- [BlueWhaleKo/kiwoom_api_handler](https://github.com/BlueWhaleKo/kiwoom_api_handler) - Kiwoom API Hanlder
+- [bluuewhale/kiwoom_api_handler](https://github.com/bluuewhale/kiwoom_api_handler) - Kiwoom API Hanlder
 - [sharebook-kr/minidart](https://github.com/sharebook-kr/minidart) - DART에서 제공하는 오픈 API 중에서 주식투자에 필요한 재무 정보를 제공합니다.
 - [sharebook-kr/lecture-class101-bitcoin](https://github.com/sharebook-kr/lecture-class101-bitcoin) - 파이썬을 이용한 비트코인 자동매매 봇 만들기 풀 패키지
 - [sharebook-kr/book-pandas-for-finance](https://github.com/sharebook-kr/book-pandas-for-finance) - 금융 데이터 분석을 위한 파이썬 Pandas
