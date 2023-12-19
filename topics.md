@@ -2308,7 +2308,7 @@
 - [jetbrains-infra/terraform-examples](https://github.com/jetbrains-infra/terraform-examples) - Examples of terraform projects
 - [jchrisfarris/aws-interesting-api-calls](https://github.com/jchrisfarris/aws-interesting-api-calls) - Inventory of AWS API Calls of Significance to Security
 - [jchrisfarris/detect-credential-compromise](https://github.com/jchrisfarris/detect-credential-compromise) - Cloudformation Template and Lambda to detect if Instance Profile credentials are being used outside your AWS Account.
-- [jchrisfarris/aws-access-alerter](https://github.com/jchrisfarris/aws-access-alerter) - Generates Email Alerts when a new Public Resource is discovered by AWS Analyzer
+- [primeharbor/aws-access-alerter](https://github.com/primeharbor/aws-access-alerter) - Generates Email Alerts when a new Public Resource is discovered by AWS Analyzer
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
 - [bcicen/slack-progress](https://github.com/bcicen/slack-progress) - A realtime progress bar for Slack
 - [awslabs/aws-service-catalog-puppet](https://github.com/awslabs/aws-service-catalog-puppet) - This is a framework where you list your AWS accounts with tags and your AWS Service Catalog products with tags or target accounts. The framework works through your lists, dedupes and spots collisions 
