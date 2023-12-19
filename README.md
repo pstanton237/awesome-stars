@@ -1146,7 +1146,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [jchrisfarris/aws-interesting-api-calls](https://github.com/jchrisfarris/aws-interesting-api-calls) - Inventory of AWS API Calls of Significance to Security
 - [jchrisfarris/detect-credential-compromise](https://github.com/jchrisfarris/detect-credential-compromise) - Cloudformation Template and Lambda to detect if Instance Profile credentials are being used outside your AWS Account.
-- [jchrisfarris/aws-access-alerter](https://github.com/jchrisfarris/aws-access-alerter) - Generates Email Alerts when a new Public Resource is discovered by AWS Analyzer
+- [primeharbor/aws-access-alerter](https://github.com/primeharbor/aws-access-alerter) - Generates Email Alerts when a new Public Resource is discovered by AWS Analyzer
 - [bcicen/slack-progress](https://github.com/bcicen/slack-progress) - A realtime progress bar for Slack
 - [doitintl/iris3](https://github.com/doitintl/iris3) - An upgraded and improved version of the Iris automatic GCP-labeling project
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
