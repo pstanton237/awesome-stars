@@ -834,7 +834,6 @@
 - [jaymeh13/Keyboardgym](https://github.com/jaymeh13/Keyboardgym) - Prevent and alleviate repetitive strain injuries (RSIs) with this collection of exercise videos and ergonomic gear.
 - [sarcio/awsstudy](https://github.com/sarcio/awsstudy) - Amazon Web Services
 - [dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
-- [willemdh/logstash_filter_infoblox](https://github.com/willemdh/logstash_filter_infoblox) - A Logstash filter for Infoblox named and dhcpd syslog.
 - [major/cis-rhel-ansible](https://github.com/major/cis-rhel-ansible) - Ansible playbooks for CIS Benchmarks on RHEL/CentOS 6
 - [awslabs/ami-builder-packer](https://github.com/awslabs/ami-builder-packer) - An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible.
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
@@ -972,7 +971,7 @@
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
 - [terrycain/aioboto3](https://github.com/terrycain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
 - [linuxdynasty/awsretry](https://github.com/linuxdynasty/awsretry) - Decorate your AWS Boto3 Calls with AWSRetry.backoff(). This will allows your calls to get around the AWS Eventual Consistency Errors.
-- [connelldave/botocove](https://github.com/connelldave/botocove) - A simple decorator for functions to run them against all AWS accounts in an organization.
+- [connelldave/botocove](https://github.com/connelldave/botocove) - A simple decorator to run Python functions across multiple AWS accounts, OUs and/or regions, with or without an AWS Organization.
 - [jtyers/aws-iam-utils](https://github.com/jtyers/aws-iam-utils) - Python library for examining, creating and optimising IAM policies
 - [Signiant/Jarvis](https://github.com/Signiant/Jarvis) - Slack bot to query AWS Elastic Beanstalk and ECS resources (Lambda/API Gateway)
 - [aws-samples/aws-well-architected-tool-template-automation](https://github.com/aws-samples/aws-well-architected-tool-template-automation) - 
