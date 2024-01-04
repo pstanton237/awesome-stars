@@ -2141,7 +2141,7 @@
 - [galovics/free-kubernetes-oracle-cloud-terraform](https://github.com/galovics/free-kubernetes-oracle-cloud-terraform) - 
 - [iandees/aws-billing-to-slack](https://github.com/iandees/aws-billing-to-slack) - Send a daily AWS cost report to a Slack channel of your choice.
 - [cplankey/lambda-errors-to-slack](https://github.com/cplankey/lambda-errors-to-slack) - Subscribes to tagged Lambdas in your account and forwards their errors to a specified Slack channel
-- [connelldave/botocove](https://github.com/connelldave/botocove) - A simple decorator for functions to run them against all AWS accounts in an organization.
+- [connelldave/botocove](https://github.com/connelldave/botocove) - A simple decorator to run Python functions across multiple AWS accounts, OUs and/or regions, with or without an AWS Organization.
 - [Signiant/Jarvis](https://github.com/Signiant/Jarvis) - Slack bot to query AWS Elastic Beanstalk and ECS resources (Lambda/API Gateway)
 - [jaroslawhartman/TimeZones-Alfred](https://github.com/jaroslawhartman/TimeZones-Alfred) - Alfred Workflow
 - [aws-samples/aws-well-architected-tool-template-automation](https://github.com/aws-samples/aws-well-architected-tool-template-automation) - 
@@ -2679,7 +2679,6 @@
 - [sarcio/awsstudy](https://github.com/sarcio/awsstudy) - Amazon Web Services
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
-- [willemdh/logstash_filter_infoblox](https://github.com/willemdh/logstash_filter_infoblox) - A Logstash filter for Infoblox named and dhcpd syslog.
 - [jgmdev/watchsys](https://github.com/jgmdev/watchsys) - Bash shell script for basic system monitoring and prevention.
 - [18F/standup-slack-bot](https://github.com/18F/standup-slack-bot) - A Slack bot to streamline team standup without disturbing the overall flow of conversation
 - [major/cis-rhel-ansible](https://github.com/major/cis-rhel-ansible) - Ansible playbooks for CIS Benchmarks on RHEL/CentOS 6
