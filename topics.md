@@ -1521,7 +1521,7 @@
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [turbot/steampipe-mod-aws-insights](https://github.com/turbot/steampipe-mod-aws-insights) - View dashboards and reports across all of your AWS accounts using Steampipe.
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
 - [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - DO NOT FORK, CLICK "Use this template" - The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
