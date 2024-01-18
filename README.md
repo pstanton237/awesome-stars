@@ -95,7 +95,6 @@
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [aws-solutions/real-time-insights-account-activity](https://github.com/aws-solutions/real-time-insights-account-activity) - An application and real-time dashboard providing insights into AWS account activity.
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 
 ## Cython 
 
@@ -725,7 +724,7 @@
 - [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred5 workflow to easily open your projects with your favorite JetBrains product.
 - [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook) - :book: Heuristics for effective management
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
-- [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
+- [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [bdkjones/MuzzleApp](https://github.com/bdkjones/MuzzleApp) - The public bug tracker for Muzzle: muzzleapp.com
 - [brianlam38/AWS-Certified-Security-Specialty](https://github.com/brianlam38/AWS-Certified-Security-Specialty) - AWS Certified Security Specialty (2020) course notes
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
@@ -858,6 +857,7 @@
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [Shephexd/workflows](https://github.com/Shephexd/workflows) - workflows of Alfred
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 
 ## PHP 
 
