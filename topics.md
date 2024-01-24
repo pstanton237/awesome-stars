@@ -2509,7 +2509,7 @@
 - [AndyDinh/aardvarkRepokidDemo](https://github.com/AndyDinh/aardvarkRepokidDemo) - 
 - [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - Legacy AWS infrastructure for GOV.UK. Gradually being updated and moved to govuk-infrastructure.
 - [justeat/JustSupport](https://github.com/justeat/JustSupport) - 
-- [gardener/aws-lb-readvertiser](https://github.com/gardener/aws-lb-readvertiser) - Reacts on changes of the underlying ip addresses of AWS elastic load balancers.
+- [gardener-attic/aws-lb-readvertiser](https://github.com/gardener-attic/aws-lb-readvertiser) - Reacts on changes of the underlying ip addresses of AWS elastic load balancers.
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
 - [RhinoSecurityLabs/AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) - A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.
 - [aws/aws-ec2-instance-connect-config](https://github.com/aws/aws-ec2-instance-connect-config) - This is the ssh daemon configuration and necessary EC2 instance scripting to enable EC2 Instance Connect. Also included is various package manager configurations for packaging for various Linux distri
