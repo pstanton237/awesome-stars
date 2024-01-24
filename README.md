@@ -279,7 +279,7 @@
 - [remind101/assume-role](https://github.com/remind101/assume-role) - Easily assume AWS roles in your terminal.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [aidan-/cloudtrailbeat](https://github.com/aidan-/cloudtrailbeat) - Easily export AWS CloudTrail events to ElasticSearch
-- [gardener/aws-lb-readvertiser](https://github.com/gardener/aws-lb-readvertiser) - Reacts on changes of the underlying ip addresses of AWS elastic load balancers.
+- [gardener-attic/aws-lb-readvertiser](https://github.com/gardener-attic/aws-lb-readvertiser) - Reacts on changes of the underlying ip addresses of AWS elastic load balancers.
 - [gjbae1212/gossm](https://github.com/gjbae1212/gossm) - 💻Interactive CLI tool that you can connect to ec2 using commands same as start-session, ssh in AWS SSM Session Manager
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [salesforce/sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization
