@@ -209,7 +209,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment
 - [princespaghetti/actionhero](https://github.com/princespaghetti/actionhero) - 
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi) - A tool to convert Terraform projects to Pulumi
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [Netflix/weep](https://github.com/Netflix/weep) - The ConsoleMe CLI utility
