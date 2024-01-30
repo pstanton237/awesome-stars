@@ -746,6 +746,7 @@
 - [zoph-io/awscon-onepager](https://github.com/zoph-io/awscon-onepager) - 📝 AWS Conferences One-Pagers [DEPRECATED]
 - [92bondstreet/awesome-onboarding](https://github.com/92bondstreet/awesome-onboarding) - 🌻 A curated list of awesome onboarding new developers resources.
 - [awsdocs/aws-personal-health-dashboard](https://github.com/awsdocs/aws-personal-health-dashboard) - The open source version of the AWS Personal Health Dashboard docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull re
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [notcuder/aws-mindmap](https://github.com/notcuder/aws-mindmap) - The mindmaps for AWS services to get AWS Certificates easier.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
@@ -1329,6 +1330,7 @@
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [jeshan/botostubs](https://github.com/jeshan/botostubs) - boto3 code assistance for any API in any IDE, always up to date
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
+- [project-koku/koku](https://github.com/project-koku/koku) - An open source solution for cost management of cloud and hybrid cloud environments.
 - [amazon-archives/cost-optimization-monitor](https://github.com/amazon-archives/cost-optimization-monitor) - Cost Optimization Monitor solution as a reference deployment which provides dashboard and reporting capabilities giving customers a single-pane-of-glass view of their current AWS service inventory.
 - [mlevit/aws-auto-cleanup](https://github.com/mlevit/aws-auto-cleanup) - Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings
 - [sentialabs/coto](https://github.com/sentialabs/coto) - Undocumented AWS Management Console APIs SDK for Python
@@ -1721,7 +1723,6 @@
 - [tilfin/aws-iam-policy-tool](https://github.com/tilfin/aws-iam-policy-tool) - AWS IAM role/policy management command line tool
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [mpyw/aws-lambda-billing-slack-notification](https://github.com/mpyw/aws-lambda-billing-slack-notification) - Node.js 14 以降向けの AWS 当月利用料金 Slack 通知スクリプト
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
