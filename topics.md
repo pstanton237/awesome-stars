@@ -2570,6 +2570,7 @@
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [oaksong/developers-retrospective](https://github.com/oaksong/developers-retrospective) - 개발자 회고 모음
 - [jeshan/botostubs](https://github.com/jeshan/botostubs) - boto3 code assistance for any API in any IDE, always up to date
+- [project-koku/koku](https://github.com/project-koku/koku) - An open source solution for cost management of cloud and hybrid cloud environments.
 - [tmtk75/aws-cloudwatch-chart-slack](https://github.com/tmtk75/aws-cloudwatch-chart-slack) - Renderer for AWS CloudWatch Chart and Uploader to Slack
 - [amazon-archives/cost-optimization-monitor](https://github.com/amazon-archives/cost-optimization-monitor) - Cost Optimization Monitor solution as a reference deployment which provides dashboard and reporting capabilities giving customers a single-pane-of-glass view of their current AWS service inventory.
 - [iansinnott/alfred-maestro](https://github.com/iansinnott/alfred-maestro) - An Alfred workflow to execute Keyboard Maestro macros.
