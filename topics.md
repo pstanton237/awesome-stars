@@ -2452,7 +2452,7 @@
 - [whyscream/postfix-grok-patterns](https://github.com/whyscream/postfix-grok-patterns) - Logstash configuration and grok patterns for parsing postfix logging
 - [ActionScripted/elastic-kibana-postfix](https://github.com/ActionScripted/elastic-kibana-postfix) - Kibana dashboards, visualizations and searches for Postfix
 - [yahoo/ariel](https://github.com/yahoo/ariel) - Ariel is an AWS Lambda designed to collect, analyze, and make recommendations about Reserved Instances for EC2.
-- [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest Node.js v12!
+- [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest AWS SDK and Node.js v20!
 - [turnerlabs/antiope](https://github.com/turnerlabs/antiope) - AWS Inventory and Compliance Framework
 - [aws-samples/aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - A collection of tools to enable canary deployments of AWS Lambda functions.
 - [aws-samples/aws-golden-ami-pipeline-sample](https://github.com/aws-samples/aws-golden-ami-pipeline-sample) - Golden AMI pipeline setup sample
