@@ -525,7 +525,7 @@
 - [fallroot/dandy](https://github.com/fallroot/dandy) - “단디”는 부산대학교 인공지능연구실과 (주)나라인포테크가 공동으로 만들어 http://speller.cs.pusan.ac.kr 페이지에서 제공하는 “한국어 맞춤법/문법 검사기”를 맥에서 쉽게 사용할 수 있도록 해 주는 도구입니다. 맥의 오토메이터를 이용해서 맥 서비스 형태로 제작했습니다.
 - [fallroot/wormhole](https://github.com/fallroot/wormhole) - Copy text from A, paste to B automatically
 - [ashiina/aws-lambda-cloudwatch-slack](https://github.com/ashiina/aws-lambda-cloudwatch-slack) - Amazon Lambda to receive data from CloudWatch and post to Slack
-- [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest Node.js v12!
+- [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest AWS SDK and Node.js v20!
 - [faultline/faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 - [carlosesilva/reinvent-planner](https://github.com/carlosesilva/reinvent-planner) - Plan your AWS re:Invent 2019 sessions by visualizing it in a calendar.
 - [rapid7/awsaml](https://github.com/rapid7/awsaml) - Awsaml is an application for providing automatically rotated temporary AWS credentials.
