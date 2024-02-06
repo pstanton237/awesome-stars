@@ -1093,7 +1093,7 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [aws-samples/aws-iam-permissions-guardrails](https://github.com/aws-samples/aws-iam-permissions-guardrails) - AWS IAM Permissions Guardrails https://aws-samples.github.io/aws-iam-permissions-guardrails/
-- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
+- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [Netflix-Skunkworks/cloudtrail-anomaly](https://github.com/Netflix-Skunkworks/cloudtrail-anomaly) - 
 - [aws-samples/aws-health-aware](https://github.com/aws-samples/aws-health-aware) - AHA is an incident management & communication framework to provide real-time alert customers when there are active AWS event(s). For customers with AWS Organizations, customers can get aggregated acti
 - [toddm92/vpc-delete](https://github.com/toddm92/vpc-delete) - Remove AWS Default VPCs
@@ -1404,7 +1404,7 @@
 - [google/docker-explorer](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [adithyakhamithkar/ansible-playbooks](https://github.com/adithyakhamithkar/ansible-playbooks) - Ansible playbook collection that have been written for Ubuntu. Some of the playbooks are Elasticsearch, Mesos, AWS, MySql, Sensu, Nginx etc..
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [mike-mosher/aws-la](https://github.com/mike-mosher/aws-la) - AWS Log Analyzer -- Send AWS logs to ELK running locally in Docker containers
 - [vstconsulting/polemarch](https://github.com/vstconsulting/polemarch) - Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
 - [jeeftor/alfredAirports](https://github.com/jeeftor/alfredAirports) - Integrates http://ourairports.com data into Alfred plugin
