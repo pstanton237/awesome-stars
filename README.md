@@ -128,7 +128,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [reulan/clairvoyance](https://github.com/reulan/clairvoyance) - Drift detection and reporting for Terraform.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
@@ -146,7 +146,6 @@
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [orange-cloudfoundry/statusetat](https://github.com/orange-cloudfoundry/statusetat) - status page with very HA in mind and notifier
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
-- [controlplaneio/simulator](https://github.com/controlplaneio/simulator) - Kubernetes Security Training Platform - focusing on security mitigation
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
 - [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [cookpad/uguisu](https://github.com/cookpad/uguisu) - AWS resource monitoring tool based on CIS benchmark
@@ -985,6 +984,7 @@
 - [aws-samples/aws-well-architected-tool-template-automation](https://github.com/aws-samples/aws-well-architected-tool-template-automation) - 
 - [aws-samples/ec2-spot-interrupter-cli](https://github.com/aws-samples/ec2-spot-interrupter-cli) - A CLI tool to simulate EC2 Spot Instances interruptions using AWS Fault Injection Simulator.
 - [hseera/cloudfront-manager](https://github.com/hseera/cloudfront-manager) - An AWS utility to Invalidate, Enable, Disable and Delete Cloudfront distribution. Also display detail of a distribution.
+- [controlplaneio/simulator](https://github.com/controlplaneio/simulator) - Kubernetes Security Training Platform - focusing on security mitigation
 - [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [hilt86/NAGBOT](https://github.com/hilt86/NAGBOT) - Slack bot that helps you deal with suspicious SSHD logins
 - [cds-snc/sre-bot](https://github.com/cds-snc/sre-bot) - Slack bot for site reliability engineering
