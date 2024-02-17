@@ -554,7 +554,6 @@
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [tmtk75/aws-cloudwatch-chart-slack](https://github.com/tmtk75/aws-cloudwatch-chart-slack) - Renderer for AWS CloudWatch Chart and Uploader to Slack
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
-- [joyfuI/NaverCafePass](https://github.com/joyfuI/NaverCafePass) - 네이버 카페 게시글 중 검색 허용되었으나 맴버공개인 글을 카페 가입없이 바로 볼 수 있게 해주는 브라우저 확장입니다.
 - [opsgenie/slack-to-opsgenie-alert-creator](https://github.com/opsgenie/slack-to-opsgenie-alert-creator) - Create alerts from messages sent to a Slack channel
 - [johnnyopao/awsp](https://github.com/johnnyopao/awsp) - Switch AWS Profiles Easily
 - [aws-samples/aws-lambda-edge-workshops](https://github.com/aws-samples/aws-lambda-edge-workshops) - This repository contains instructions and blueprints for Lambda@Edge workshops
@@ -808,6 +807,7 @@
 - [oaksong/developers-retrospective](https://github.com/oaksong/developers-retrospective) - 개발자 회고 모음
 - [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
 - [KennethanCeyer/tutorial-git](https://github.com/KennethanCeyer/tutorial-git) - :blue_book: 어떻게 깃을 사용하는지 빠르게 알아봅시다. (Quick learn How to use Git.)
+- [joyfuI/NaverCafePass](https://github.com/joyfuI/NaverCafePass) - 네이버 카페 게시글 중 검색 허용되었으나 맴버공개인 글을 카페 가입없이 바로 볼 수 있게 해주는 브라우저 확장입니다.
 - [knowshan/c7n-docker](https://github.com/knowshan/c7n-docker) - Cloud Custodian Docker images for end-users developing on top of base c7n
 - [davestern/ansible-init](https://github.com/davestern/ansible-init) - An ansible playbook for creating ansible playbooks
 - [stuhirst/awssecurity](https://github.com/stuhirst/awssecurity) - for AWS Security material
