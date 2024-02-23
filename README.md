@@ -1436,7 +1436,7 @@
 - [singleton11/SDB](https://github.com/singleton11/SDB) - Simple Django Boilerplate
 - [moul/alfred-workflow-pingport](https://github.com/moul/alfred-workflow-pingport) - :man: Ping TCP ports from Alfred
 - [mattweber/es2graphite](https://github.com/mattweber/es2graphite) - Send elasticsearch metrics to graphite
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [Tr3jer/dnsAutoRebinding](https://github.com/Tr3jer/dnsAutoRebinding) - ssrf、ssrfIntranetFuzz、dnsRebinding、recordEncode、dnsPoisoning、Support ipv4/ipv6
 - [karttoon/dnsQmon](https://github.com/karttoon/dnsQmon) - dnsQmon - Linux Python DNS Query Monitor
