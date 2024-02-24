@@ -128,8 +128,9 @@
 
 ## Go 
 
+- [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
 - [synfinatic/aws-sso-cli](https://github.com/synfinatic/aws-sso-cli) - A powerful tool for using AWS Identity Center for the CLI and web console.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [reulan/clairvoyance](https://github.com/reulan/clairvoyance) - Drift detection and reporting for Terraform.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
@@ -755,7 +756,7 @@
 - [cloudacademy/athena-sg-analyser](https://github.com/cloudacademy/athena-sg-analyser) - Athena Security Group Analyser Queries
 - [aws-samples/aws-health-organizational-view-alerts](https://github.com/aws-samples/aws-health-organizational-view-alerts) - AHOVA has been deprecated and moved to a new solution called AWS Health Aware (AHA)
 - [4ndersonLin/AWS-CIS-alert](https://github.com/4ndersonLin/AWS-CIS-alert) - 
-- [lotspaih/docTemplates](https://github.com/lotspaih/docTemplates) - Simple Project Management and Document Templates in Markdown for Compatibility and Portability
+- [lotspaih/docTemplates](https://github.com/lotspaih/docTemplates) - =&gt;Development of this code has migrated to sourcehut.&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 - [SummitRoute/aws_exposable_resources](https://github.com/SummitRoute/aws_exposable_resources) - Resource types that can be publicly exposed on AWS
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [doublejim/tree-style-tab-compact-dark-style](https://github.com/doublejim/tree-style-tab-compact-dark-style) - A dark, compact style for Tree Style Tab by Piro (Firefox Extension).
