@@ -2107,6 +2107,7 @@
 
 ## others 
 
+- [aws-samples/service-screener-v2](https://github.com/aws-samples/service-screener-v2) - A tool for customers to evaluate their AWS service configurations based on AWS and community best practices and receive recommendations on potential improvements.
 - [wanteddev/wanted_jira_bolt](https://github.com/wanteddev/wanted_jira_bolt) - 슬랙 스레드에 이모지를 달면 스레드 전체를 요약하여 Jira 티켓을 생성합니다!
 - [aws-samples/amazon-q-slack-gateway](https://github.com/aws-samples/amazon-q-slack-gateway) - 
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
@@ -2750,7 +2751,7 @@
 - [eskrug/meetup](https://github.com/eskrug/meetup) - 한국 Elasticsearch 사용자그룹 밋업 관련 자료들을 모아놓는 곳입니다. / Korea ES Usergroup Meetup resources
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [ellerbrock/chrome-extensions-for-webdeveloper](https://github.com/ellerbrock/chrome-extensions-for-webdeveloper) - :ox:  A list with useful Chrome Extensions
-- [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh) - 
+- [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh) - Git-flavored ZSH
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
 - [mattweber/es2graphite](https://github.com/mattweber/es2graphite) - Send elasticsearch metrics to graphite
 - [serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) - 비공식 AWS 공인 솔루션스 아키텍트 – 어소시에이트 시험 가이드
