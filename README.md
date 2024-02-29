@@ -756,7 +756,7 @@
 - [cloudacademy/athena-sg-analyser](https://github.com/cloudacademy/athena-sg-analyser) - Athena Security Group Analyser Queries
 - [aws-samples/aws-health-organizational-view-alerts](https://github.com/aws-samples/aws-health-organizational-view-alerts) - AHOVA has been deprecated and moved to a new solution called AWS Health Aware (AHA)
 - [4ndersonLin/AWS-CIS-alert](https://github.com/4ndersonLin/AWS-CIS-alert) - 
-- [lotspaih/docTemplates](https://github.com/lotspaih/docTemplates) - =&gt;Development of this code has migrated to sourcehut.&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
+- [lotspaih/docTemplates](https://github.com/lotspaih/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 - [SummitRoute/aws_exposable_resources](https://github.com/SummitRoute/aws_exposable_resources) - Resource types that can be publicly exposed on AWS
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [doublejim/tree-style-tab-compact-dark-style](https://github.com/doublejim/tree-style-tab-compact-dark-style) - A dark, compact style for Tree Style Tab by Piro (Firefox Extension).
@@ -1209,7 +1209,7 @@
 - [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
 - [emtunc/SlackPirate](https://github.com/emtunc/SlackPirate) - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
-- [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
+- [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory combines user, resource, and configuration data into a centralized graph-based asset inventory.
 - [jsmartin/iamsync](https://github.com/jsmartin/iamsync) - copies IAM users, groups, and policies from one AWS account to another
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [gilbutITbook/006936](https://github.com/gilbutITbook/006936) - 파이썬 코딩 도장
