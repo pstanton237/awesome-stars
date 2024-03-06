@@ -1986,7 +1986,7 @@
 - [PaperMtn/slack-watchman](https://github.com/PaperMtn/slack-watchman) - Slack enumeration and exposed secrets detection tool
 - [PaperMtn/gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Finding exposed secrets and personal data in GitLab
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [aws-samples/amazon-cloudwatch-auto-alarms](https://github.com/aws-samples/amazon-cloudwatch-auto-alarms) - Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.
 - [weaveworks/grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards
@@ -2084,7 +2084,6 @@
 ## open-source 
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
 - [zerwes/hiyapyco](https://github.com/zerwes/hiyapyco) - HiYaPyCo - A Hierarchical Yaml Python Config
@@ -2165,6 +2164,7 @@
 - [aws-samples/simple-anomaly-detection-solution](https://github.com/aws-samples/simple-anomaly-detection-solution) - 
 - [vipul-sharma20/slate](https://github.com/vipul-sharma20/slate) - Self hosted Slack app for daily standups
 - [Kuniz/alfnaversearch](https://github.com/Kuniz/alfnaversearch) - Naver Search Workflow for Alfred (알프레드 네이버 검색/사전/지도 자동완성 워크플로우)
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [orange-cloudfoundry/statusetat](https://github.com/orange-cloudfoundry/statusetat) - status page with very HA in mind and notifier
 - [finopsfoundation/kpis](https://github.com/finopsfoundation/kpis) - 
 - [galovics/free-kubernetes-oracle-cloud-terraform](https://github.com/galovics/free-kubernetes-oracle-cloud-terraform) - 
@@ -3291,7 +3291,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
