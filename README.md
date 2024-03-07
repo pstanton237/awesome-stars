@@ -345,18 +345,18 @@
 ## HCL 
 
 - [ScaleSec/terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) - AWS Organizations Service Control Policies (SCPs) written in HashiCorp Terraform.
-- [turbot/steampipe-mod-aws-insights](https://github.com/turbot/steampipe-mod-aws-insights) - View dashboards and reports across all of your AWS accounts using Steampipe.
+- [turbot/steampipe-mod-aws-insights](https://github.com/turbot/steampipe-mod-aws-insights) - View dashboards and reports across all of your AWS accounts using Powerpipe and Steampipe.
 - [HoussemDellai/terraform-course](https://github.com/HoussemDellai/terraform-course) - Full course for deploying Infrastructure to the Cloud using Terraform
 - [cloudposse/terraform-aws-cloudwatch-events](https://github.com/cloudposse/terraform-aws-cloudwatch-events) - Terraform Module for provisioning CloudWatch Events rules connected with targets.
 - [galovics/free-kubernetes-oracle-cloud-terraform](https://github.com/galovics/free-kubernetes-oracle-cloud-terraform) - 
 - [phzietsman/aws-slack-clickoops-watcher](https://github.com/phzietsman/aws-slack-clickoops-watcher) - Get alerts when people are using the AWS console to modify create or modify resources.
 - [GSA/grace-cloudcustodian](https://github.com/GSA/grace-cloudcustodian) - 
-- [turbot/steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Steampipe.
+- [turbot/steampipe-mod-aws-compliance](https://github.com/turbot/steampipe-mod-aws-compliance) - Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Powerpipe and Steampipe.
 - [ministryofjustice/aws-root-account](https://github.com/ministryofjustice/aws-root-account) - Terraform for the Ministry of Justice AWS root account
 - [clouddrove/terraform-aws-vpc-peering](https://github.com/clouddrove/terraform-aws-vpc-peering) - Terraform module to connect two VPC's on AWS.
 - [gruntwork-io/terraform-aws-utilities](https://github.com/gruntwork-io/terraform-aws-utilities) - A collection of useful Terraform utilities
 - [garutilorenzo/k3s-aws-terraform-cluster](https://github.com/garutilorenzo/k3s-aws-terraform-cluster) - Deploy an high available K3s cluster on Amazon AWS
-- [turbot/steampipe-mod-aws-thrifty](https://github.com/turbot/steampipe-mod-aws-thrifty) - Are you a Thrifty AWS dev? This Steampipe mod checks your AWS accounts for unused and under-utilized resources.
+- [turbot/steampipe-mod-aws-thrifty](https://github.com/turbot/steampipe-mod-aws-thrifty) - Are you a Thrifty AWS dev? This mod checks your AWS accounts for unused and under-utilized resources using Powerpipe and Steampipe.
 - [maddevsio/aws-eks-base](https://github.com/maddevsio/aws-eks-base) - This boilerplate contains terraform configurations for the rapid deployment of a Kubernetes cluster, supporting services, and the underlying infrastructure in AWS.
 - [cloudposse-archives/terraform-aws-iam-policy-document-aggregator](https://github.com/cloudposse-archives/terraform-aws-iam-policy-document-aggregator) - Terraform module to aggregate multiple IAM policy documents into single policy document.
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
