@@ -459,7 +459,7 @@
 - [vikyol/aws-solutions-cdk](https://github.com/vikyol/aws-solutions-cdk) - The AWS solutions implemented using AWS-CDK for Python
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud.
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [turbot/steampipe-mod-aws-thrifty](https://github.com/turbot/steampipe-mod-aws-thrifty) - Are you a Thrifty AWS dev? This mod checks your AWS accounts for unused and under-utilized resources using Powerpipe and Steampipe.
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
@@ -725,7 +725,7 @@
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 
 ## bash 
 
@@ -733,7 +733,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1053,7 +1053,7 @@
 - [garutilorenzo/k3s-aws-terraform-cluster](https://github.com/garutilorenzo/k3s-aws-terraform-cluster) - Deploy an high available K3s cluster on Amazon AWS
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud.
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
@@ -1157,7 +1157,7 @@
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [slackapi/bolt-python](https://github.com/slackapi/bolt-python) - A framework to build Slack apps using Python
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library
@@ -1314,7 +1314,7 @@
 
 ## frontend 
 
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
 ## git 
@@ -1712,7 +1712,7 @@
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [ashald/EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.x is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [latture/json2table](https://github.com/latture/json2table) - Converts JSON to an HTML table
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
@@ -2106,6 +2106,9 @@
 
 ## others 
 
+- [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts) - 
+- [welldone-cloud/aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - 
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
 - [aws-samples/service-screener-v2](https://github.com/aws-samples/service-screener-v2) - A tool for customers to evaluate their AWS service configurations based on AWS and community best practices and receive recommendations on potential improvements.
 - [wanteddev/wanted_jira_bolt](https://github.com/wanteddev/wanted_jira_bolt) - 슬랙 스레드에 이모지를 달면 스레드 전체를 요약하여 Jira 티켓을 생성합니다!
@@ -2834,7 +2837,7 @@
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [ivangfr/keycloak-clustered](https://github.com/ivangfr/keycloak-clustered) - Keycloak-Clustered extends quay.io/keycloak/keycloak official Keycloak Docker image by adding JDBC_PING discovery protocol.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 
@@ -2941,9 +2944,9 @@
 - [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud.
 - [daneah/practices-of-the-python-pro](https://github.com/daneah/practices-of-the-python-pro) - Examples and exercises for Practices of the Python Pro from Manning Books 🐍📘
 - [slackapi/bolt-python](https://github.com/slackapi/bolt-python) - A framework to build Slack apps using Python
 - [imryche/blockkit](https://github.com/imryche/blockkit) - A fast way to build Block Kit interfaces in Python
@@ -3083,7 +3086,6 @@
 - [zerwes/hiyapyco](https://github.com/zerwes/hiyapyco) - HiYaPyCo - A Hierarchical Yaml Python Config
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [aws-samples/aws-unit-testing](https://github.com/aws-samples/aws-unit-testing) - Unit testing AWS interactions with pytest and moto. The examples demonstrate how to structure, setup, teardown, mock, and conduct unit testing. These concepts can be applied to general code and are no
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [escamez/slackviews](https://github.com/escamez/slackviews) - Python 3 library to build Slack views using builder pattern
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [iam-mhaseeb/StandupMonkey](https://github.com/iam-mhaseeb/StandupMonkey) - A self hosted slack bot to conduct standups & generate reports.
@@ -3121,6 +3123,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
 - [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - The Open Source Incident Management Framework
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [jpdillingham/AWSPricingExplorer](https://github.com/jpdillingham/AWSPricingExplorer) - A microservice for the AWS Pricing Api, written in JavaScript with Express, React, and blueprintjs.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [carlosesilva/reinvent-planner](https://github.com/carlosesilva/reinvent-planner) - Plan your AWS re:Invent 2019 sessions by visualizing it in a calendar.
@@ -3606,6 +3609,7 @@
 - [cookpad/uguisu](https://github.com/cookpad/uguisu) - AWS resource monitoring tool based on CIS benchmark
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 
@@ -3640,7 +3644,6 @@
 ## vue 
 
 - [freqtrade/frequi](https://github.com/freqtrade/frequi) - Freqtrade UI - Frontend for Freqtrade
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 
 ## vuejs 
 
