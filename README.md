@@ -904,6 +904,7 @@
 
 ## Python 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [grycap/scar](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker in AWS Lambda)
 - [morozgrafix/alfred-datetime-format-converter](https://github.com/morozgrafix/alfred-datetime-format-converter) - Alfred 2 workflow for converting between timestamps and formatted datetime strings with ease.
 - [welldone-cloud/aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - 
@@ -1550,6 +1551,7 @@
 
 ## Shell 
 
+- [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) - Use cURL with cookies from Chrome
 - [johngrib/fav-dir](https://github.com/johngrib/fav-dir) - Jump to your favorite directories in bash using fzf.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [aws-samples/aws-organizations-alternate-contacts-management-via-csv](https://github.com/aws-samples/aws-organizations-alternate-contacts-management-via-csv) - AWS Organizations Alternate Contacts management via CSV
