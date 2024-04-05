@@ -128,6 +128,7 @@
 
 ## Go 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
 - [synfinatic/aws-sso-cli](https://github.com/synfinatic/aws-sso-cli) - A powerful tool for using AWS Identity Center for the CLI and web console.
@@ -1370,7 +1371,6 @@
 - [Netflix-Skunkworks/aws-credential-compromise-detection](https://github.com/Netflix-Skunkworks/aws-credential-compromise-detection) - Example detection of compromise credentials in AWS
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [xmendez/awsdigger](https://github.com/xmendez/awsdigger) - AWS IAM resources search tool
-- [clario-tech/s3-inspector](https://github.com/clario-tech/s3-inspector) - Tool to check AWS S3 bucket permissions
 - [percolate/iamer](https://github.com/percolate/iamer) - Dump and load your AWS IAM configuration into text files
 - [percolate/ec2-security-groups-dumper](https://github.com/percolate/ec2-security-groups-dumper) - Dump your EC2 Security Groups as a CSV or JSON file
 - [aws-samples/aws-cloudtrail-analyzer-workshop](https://github.com/aws-samples/aws-cloudtrail-analyzer-workshop) - Workshop exercise materials for re:Invent 2017 - SID 341: Using AWS CloudTrail Logs for Scalable, Automated Anomaly Detection
