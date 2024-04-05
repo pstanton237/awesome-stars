@@ -1531,6 +1531,7 @@
 
 ## hacktoberfest 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 - [nvuillam/npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint) - Lint, format and auto-fix your Groovy / Jenkinsfile / Gradle files using command line
 - [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
@@ -2646,7 +2647,6 @@
 - [jonbrouse/terraform-style-guide](https://github.com/jonbrouse/terraform-style-guide) - This repository gives coding conventions for Terraform's HashiCorp Configuration Language (HCL).
 - [xmendez/awsdigger](https://github.com/xmendez/awsdigger) - AWS IAM resources search tool
 - [pda/aws-keychain](https://github.com/pda/aws-keychain) - CLI manager for AWS IAM access keys in Mac OS X keychain; succeeded by https://github.com/99designs/aws-vault
-- [clario-tech/s3-inspector](https://github.com/clario-tech/s3-inspector) - Tool to check AWS S3 bucket permissions
 - [percolate/iamer](https://github.com/percolate/iamer) - Dump and load your AWS IAM configuration into text files
 - [percolate/ec2-security-groups-dumper](https://github.com/percolate/ec2-security-groups-dumper) - Dump your EC2 Security Groups as a CSV or JSON file
 - [aws-samples/aws-cloudtrail-analyzer-workshop](https://github.com/aws-samples/aws-cloudtrail-analyzer-workshop) - Workshop exercise materials for re:Invent 2017 - SID 341: Using AWS CloudTrail Logs for Scalable, Automated Anomaly Detection
@@ -3499,6 +3499,7 @@
 
 ## terraform 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
 - [reulan/clairvoyance](https://github.com/reulan/clairvoyance) - Drift detection and reporting for Terraform.
