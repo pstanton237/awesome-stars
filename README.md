@@ -828,7 +828,7 @@
 - [avinashadev/aws-notes](https://github.com/avinashadev/aws-notes) - Amazon web services notes for certification exams
 - [mikewootini/awesome-devops](https://github.com/mikewootini/awesome-devops) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome Sysadmin and Awesome PHP.
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [awsdocs/amazon-ec2-user-guide](https://github.com/awsdocs/amazon-ec2-user-guide) - The open source version of the Amazon EC2 User Guide for Linux. To submit feedback or requests for changes, submit an issue or make changes and submit a pull request.
 - [secureoptions/transit-gateway-migrator](https://github.com/secureoptions/transit-gateway-migrator) - A tool written in python which will seamlessly migrate network traffic away from transit-vpc to AWS Transit Gateway
 - [unixorn/aws-lambda-list](https://github.com/unixorn/aws-lambda-list) - A list of hopefully useful AWS lambdas and lambda-related resources.
