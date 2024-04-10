@@ -2683,7 +2683,7 @@
 - [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool Touch Bar Presets
 - [AppliedTrust/traildash](https://github.com/AppliedTrust/traildash) - AWS CloudTrail Dashboard
 - [Netflix/aminator](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs. This tool currently works for CentOS/RedHat Linux images and is intended to run on an EC2 instance.
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [awsdocs/amazon-ec2-user-guide](https://github.com/awsdocs/amazon-ec2-user-guide) - The open source version of the Amazon EC2 User Guide for Linux. To submit feedback or requests for changes, submit an issue or make changes and submit a pull request.
 - [mvanholsteijn/aws-visualizer](https://github.com/mvanholsteijn/aws-visualizer) - A visualizer of the network of security group dependencies in an AWS VPC.
 - [secureoptions/transit-gateway-migrator](https://github.com/secureoptions/transit-gateway-migrator) - A tool written in python which will seamlessly migrate network traffic away from transit-vpc to AWS Transit Gateway
