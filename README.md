@@ -209,7 +209,6 @@
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment
 - [princespaghetti/actionhero](https://github.com/princespaghetti/actionhero) - 
@@ -699,6 +698,7 @@
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [jeffotoni/goworkshopdevops](https://github.com/jeffotoni/goworkshopdevops) - Workshop material for 8 hours using golang
 - [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
+- [awslabs/aws-devops-essential](https://github.com/awslabs/aws-devops-essential) - In few hours, quickly learn how to effectively leverage various AWS services to improve developer productivity and reduce the overall time to market for new product capabilities.
 - [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) - AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena analysis environment that's quick to deploy, ready to use, and e
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
@@ -1563,7 +1563,6 @@
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [ivangfr/keycloak-clustered](https://github.com/ivangfr/keycloak-clustered) - Keycloak-Clustered extends quay.io/keycloak/keycloak official Keycloak Docker image by adding JDBC_PING discovery protocol.
 - [jaroslawhartman/TimeZones-Alfred](https://github.com/jaroslawhartman/TimeZones-Alfred) - Alfred Workflow
-- [awslabs/aws-devops-essential](https://github.com/awslabs/aws-devops-essential) - In few hours, quickly learn how to effectively leverage various AWS services to improve developer productivity and reduce the overall time to market for new product capabilities.
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - 
 - [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
