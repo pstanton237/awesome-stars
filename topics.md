@@ -2238,7 +2238,7 @@
 - [osalkk/aws_ec2_unused_resources](https://github.com/osalkk/aws_ec2_unused_resources) - Simple python script that finds unused EC2 resources and sends email via SES
 - [schams-net/amazon-ses-logging](https://github.com/schams-net/amazon-ses-logging) - Simple prototype of a Lambda function to write Amazon SES logs to a S3 bucket
 - [aws-solutions/aws-devops-monitoring-dashboard](https://github.com/aws-solutions/aws-devops-monitoring-dashboard) - The DevOps Monitoring Dashboard on AWS solution is a reference implementation that automates the process for monitoring and visualizing performance and operational metrics in continuous integration/co
-- [dexterleng/vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
+- [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [aws-samples/aws-scheduled-event-adjuster](https://github.com/aws-samples/aws-scheduled-event-adjuster) - 
 - [aws-samples/aws-cloud-custodian-sample-collection](https://github.com/aws-samples/aws-cloud-custodian-sample-collection) - 
 - [ministryofjustice/aws-root-account](https://github.com/ministryofjustice/aws-root-account) - Terraform for the Ministry of Justice AWS root account
