@@ -405,6 +405,7 @@
 ## HTML 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
@@ -484,7 +485,6 @@
 - [iann0036/aws.permissions.cloud](https://github.com/iann0036/aws.permissions.cloud) - A crowdsourced AWS IAM permissions reference.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [iann0036/iamfast](https://github.com/iann0036/iamfast) - AWS IAM policy generation from application code
 - [schams-net/amazon-ses-logging](https://github.com/schams-net/amazon-ses-logging) - Simple prototype of a Lambda function to write Amazon SES logs to a S3 bucket
 - [aws-solutions/aws-devops-monitoring-dashboard](https://github.com/aws-solutions/aws-devops-monitoring-dashboard) - The DevOps Monitoring Dashboard on AWS solution is a reference implementation that automates the process for monitoring and visualizing performance and operational metrics in continuous integration/co
