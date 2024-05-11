@@ -1718,7 +1718,7 @@
 - [willdady/aws-resource-based-policy-collector](https://github.com/willdady/aws-resource-based-policy-collector) - Utility for collecting resource-based policies from AWS
 - [cloudgraphdev/cloudgraph-policy-packs](https://github.com/cloudgraphdev/cloudgraph-policy-packs) - CloudGraph managed policy packs
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
-- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
+- [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [TastefulElk/iam-legend](https://github.com/TastefulElk/iam-legend) - IAM policy actions autocomplete, documentation & wildcard resolution for VS Code
 - [adhorn/aws-fis-templates-cdk](https://github.com/adhorn/aws-fis-templates-cdk) - Collection of AWS Fault Injection Simulator (FIS) experiment templates deploy-able via the AWS CDK
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
