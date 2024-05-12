@@ -1859,6 +1859,7 @@
 
 ## library 
 
+- [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
@@ -2128,6 +2129,7 @@
 
 ## others 
 
+- [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
 - [objective-see/OverSight](https://github.com/objective-see/OverSight) - OverSight monitors a mac's mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam.
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) - Use cURL with cookies from Chrome
 - [morozgrafix/alfred-datetime-format-converter](https://github.com/morozgrafix/alfred-datetime-format-converter) - Alfred 2 workflow for converting between timestamps and formatted datetime strings with ease.
@@ -2902,6 +2904,7 @@
 
 ## python 
 
+- [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -3094,6 +3097,7 @@
 
 ## python3 
 
+- [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
 - [ErdemOzgen/Python-developer-roadmap](https://github.com/ErdemOzgen/Python-developer-roadmap) - Roadmap for becoming Python developer.
