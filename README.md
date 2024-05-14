@@ -514,7 +514,6 @@
 - [incheon-kim/nomore-soldouts-coupang](https://github.com/incheon-kim/nomore-soldouts-coupang) - 쿠팡 상품 목록에서 품절된 항목들 가리기
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [RaoulMeyer/diagram-as-code](https://github.com/RaoulMeyer/diagram-as-code) - Create diagrams of infrastructure in code
 - [speshak/aws-saml-search](https://github.com/speshak/aws-saml-search) - Add a search box to the AWS SAML login page
 - [jkueh/aws-rolex](https://github.com/jkueh/aws-rolex) - AWS Role Extension (AWS RolEx) - A little browser extension to make the role selection page a bit more tolerable :)
@@ -1756,6 +1755,7 @@
 - [aws-samples/aws-fargate-fast-autoscaler](https://github.com/aws-samples/aws-fargate-fast-autoscaler) - AWS Fargate Fast Autosaler - A Serverless Implementation that Triggers your Fargate Autoscaling in Seconds
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [meshkorea/front-end-engineering](https://github.com/meshkorea/front-end-engineering) - 메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다.
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [scalefactory/s3audit-ts](https://github.com/scalefactory/s3audit-ts) - CLI tool for auditing S3 buckets
