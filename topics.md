@@ -479,7 +479,6 @@
 - [doitintl/gtoken](https://github.com/doitintl/gtoken) - Securely access AWS services from GKE cluster
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
 - [kislyuk/watchtower](https://github.com/kislyuk/watchtower) - Python CloudWatch Logging: Log Analytics and Application Intelligence
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [z0ph/aa-policy-validator](https://github.com/z0ph/aa-policy-validator) - Validate all your Customer IAM Policies against AWS Access Analyzer - Policy Validation
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
@@ -602,7 +601,6 @@
 - [glassechidna/trackiam](https://github.com/glassechidna/trackiam) - A project to collate IAM actions, AWS APIs and managed policies from various public sources.
 - [elpy1/ssh-over-ssm](https://github.com/elpy1/ssh-over-ssm) - SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.
 - [iann0036/auto-capacity-reservations](https://github.com/iann0036/auto-capacity-reservations) - Automatically assigns EC2 capacity reservations based on the number of instances active.
-- [aws-samples/aws-security-workshops](https://github.com/aws-samples/aws-security-workshops) - A collection of the latest AWS Security workshops
 - [kubernetes-retired/kube-aws](https://github.com/kubernetes-retired/kube-aws) - [EOL] A command-line tool to declaratively manage Kubernetes clusters on AWS
 - [Systemmanic/homebrew-aws-session-manager-plugin](https://github.com/Systemmanic/homebrew-aws-session-manager-plugin) - Install the AWS session manager plugin with Homebrew
 - [cloudconformity/auto-remediate](https://github.com/cloudconformity/auto-remediate) - Cloud Conformity Auto Remediate
@@ -703,7 +701,6 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [random-robbie/metadata-one-liners](https://github.com/random-robbie/metadata-one-liners) - retrive metadata endpoint data with these one liners.
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [riskprofiler/CloudFrontier](https://github.com/riskprofiler/CloudFrontier) - Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.
@@ -1450,7 +1447,7 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
+- [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
@@ -1777,7 +1774,7 @@
 - [doitintl/gtoken](https://github.com/doitintl/gtoken) - Securely access AWS services from GKE cluster
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
+- [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - [Voronenko/devops-tf-eks](https://github.com/Voronenko/devops-tf-eks) - terraform baked AWS kubernetes cluster (EKS) - 1.18 compatible
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -3297,7 +3294,6 @@
 - [dev-sec/cis-dil-benchmark](https://github.com/dev-sec/cis-dil-benchmark) - CIS Distribution Independent Linux Benchmark - InSpec Profile
 - [mitre/aws-foundations-cis-baseline](https://github.com/mitre/aws-foundations-cis-baseline) - InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [aws-samples/aws-security-workshops](https://github.com/aws-samples/aws-security-workshops) - A collection of the latest AWS Security workshops
 - [mlevit/aws-auto-remediate](https://github.com/mlevit/aws-auto-remediate) - Open source application to instantly remediate common security issues through the use of AWS Config
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
 - [airbnb/streamalert](https://github.com/airbnb/streamalert) - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
