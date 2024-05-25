@@ -113,7 +113,7 @@
 - [smebberson/docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
 - [zcalusic/dockerfiles](https://github.com/zcalusic/dockerfiles) - A collection of Docker recipes.
 - [unchartedsky/prowler](https://github.com/unchartedsky/prowler) - Docker image for toniblyx/prowler
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship)
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
 ## Elixir 
@@ -990,7 +990,7 @@
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [GoogleCloudPlatform/terraform-python-testing-helper](https://github.com/GoogleCloudPlatform/terraform-python-testing-helper) - Simple Python test helper for Terraform.
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
-- [terrycain/aioboto3](https://github.com/terrycain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
+- [terricain/aioboto3](https://github.com/terricain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
 - [linuxdynasty/awsretry](https://github.com/linuxdynasty/awsretry) - Decorate your AWS Boto3 Calls with AWSRetry.backoff(). This will allows your calls to get around the AWS Eventual Consistency Errors.
 - [connelldave/botocove](https://github.com/connelldave/botocove) - A simple decorator to run Python functions across multiple AWS accounts, OUs and/or regions, with or without an AWS Organization.
 - [jtyers/aws-iam-utils](https://github.com/jtyers/aws-iam-utils) - Python library for examining, creating and optimising IAM policies
