@@ -423,7 +423,7 @@
 - [cloudposse/terraform-aws-cloudwatch-events](https://github.com/cloudposse/terraform-aws-cloudwatch-events) - Terraform Module for provisioning CloudWatch Events rules connected with targets.
 - [rkoval/alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
-- [terrycain/aioboto3](https://github.com/terrycain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
+- [terricain/aioboto3](https://github.com/terricain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
 - [linuxdynasty/awsretry](https://github.com/linuxdynasty/awsretry) - Decorate your AWS Boto3 Calls with AWSRetry.backoff(). This will allows your calls to get around the AWS Eventual Consistency Errors.
 - [jtyers/aws-iam-utils](https://github.com/jtyers/aws-iam-utils) - Python library for examining, creating and optimising IAM policies
 - [aws-samples/ec2-spot-interrupter-cli](https://github.com/aws-samples/ec2-spot-interrupter-cli) - A CLI tool to simulate EC2 Spot Instances interruptions using AWS Fault Injection Simulator.
@@ -1200,7 +1200,7 @@
 - [mike-mosher/aws-la](https://github.com/mike-mosher/aws-la) - AWS Log Analyzer -- Send AWS logs to ELK running locally in Docker containers
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [StackStorm/st2-docker](https://github.com/StackStorm/st2-docker) - StackStorm docker-compose deployment
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship)
 - [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) - Simple SMTP server / postfix null relay host for your Docker and Kubernetes containers. Based on Alpine Linux.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -2949,7 +2949,7 @@
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [GoogleCloudPlatform/terraform-python-testing-helper](https://github.com/GoogleCloudPlatform/terraform-python-testing-helper) - Simple Python test helper for Terraform.
-- [terrycain/aioboto3](https://github.com/terrycain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
+- [terricain/aioboto3](https://github.com/terricain/aioboto3) - Wrapper to use boto3 resources with the aiobotocore async backend
 - [linuxdynasty/awsretry](https://github.com/linuxdynasty/awsretry) - Decorate your AWS Boto3 Calls with AWSRetry.backoff(). This will allows your calls to get around the AWS Eventual Consistency Errors.
 - [jtyers/aws-iam-utils](https://github.com/jtyers/aws-iam-utils) - Python library for examining, creating and optimising IAM policies
 - [hseera/cloudfront-manager](https://github.com/hseera/cloudfront-manager) - An AWS utility to Invalidate, Enable, Disable and Delete Cloudfront distribution. Also display detail of a distribution.
@@ -3143,6 +3143,7 @@
 - [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 
 ## raspberry-pi 
 
