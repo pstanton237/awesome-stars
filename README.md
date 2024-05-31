@@ -1050,7 +1050,6 @@
 - [aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment) - Command Line Interface tool for Cloud Intelligence Dashboards deployment
 - [aws-samples/aws-vpc-network-access-analyzer-automation](https://github.com/aws-samples/aws-vpc-network-access-analyzer-automation) - 
 - [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
-- [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [jasonreisman/Timeline](https://github.com/jasonreisman/Timeline) - A tool for creating SVG timelines from simple JSON input.
 - [jmespath/jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
 - [aws-samples/aws-iamctl](https://github.com/aws-samples/aws-iamctl) - 
@@ -1565,6 +1564,7 @@
 - [jaroslawhartman/TimeZones-Alfred](https://github.com/jaroslawhartman/TimeZones-Alfred) - Alfred Workflow
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - 
+- [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [mbelloiseau/website-monitoring](https://github.com/mbelloiseau/website-monitoring) - Monitore your websites availability, http status code (current and history), certificate, redirects and more with Grafana and Prometheus blackbox exporter.
