@@ -2616,7 +2616,7 @@
 - [openstack/bashate](https://github.com/openstack/bashate) - Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
 - [bdclark/awsenv](https://github.com/bdclark/awsenv) - Set profile-based AWS environment variables with ease.
 - [charithd/aws_ec2-cpu_analyzer](https://github.com/charithd/aws_ec2-cpu_analyzer) - Python (Boto3) tool to identify underutilized AWS instances
-- [codenize-tools/miam](https://github.com/codenize-tools/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
+- [cookpad/miam](https://github.com/cookpad/miam) - Miam is a tool to manage IAM. It defines the state of IAM using DSL, and updates IAM according to DSL.
 - [GSA/devsecops-cloud-custodian-rules](https://github.com/GSA/devsecops-cloud-custodian-rules) - [WORK IN PROGRESS] A repo containing rule sets for cloud-custodian inside GSA AWS accounts. This repo does not contain cloud-custodian itself.
 - [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code
 - [opsgang/terraform-aws-cis-fundamentals](https://github.com/opsgang/terraform-aws-cis-fundamentals) - This Terraform module helps to setup an AWS account with the requirements of  CIS Amazon Web Services Foundations Benchmark v1.1.0
