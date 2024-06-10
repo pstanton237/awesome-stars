@@ -860,6 +860,7 @@
 - [anonymuse/linux-operations-interview-questions](https://github.com/anonymuse/linux-operations-interview-questions) - Collection of linux sysadmin/devop interview questions
 - [kylejohnson/linux-sysadmin-interview-questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions) - A list of some of the questions which I've had to know during linux syadmin / devops interviews.
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) - A collection of links related to Linux kernel security and exploitation
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [Shephexd/workflows](https://github.com/Shephexd/workflows) - workflows of Alfred
@@ -1457,7 +1458,6 @@
 - [SublimeLinter/SublimeLinter-shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - This linter plugin for SublimeLinter provides an interface to shellcheck.
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [shivammathur/IPpy](https://github.com/shivammathur/IPpy) - :rocket: Ping IP addresses and domains in parallel to find the accessible and inaccessible ones.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper
@@ -1699,7 +1699,7 @@
 - [aws-samples/amazon-q-slack-gateway](https://github.com/aws-samples/amazon-q-slack-gateway) - 
 - [chralp/heyburrito](https://github.com/chralp/heyburrito) - Slack application HeyBurrito! :burrito:
 - [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
-- [hmmhmmhm/friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - A.I 에게 R&R을 부여해서 프로그래밍 업무를 진행시킵니다.
+- [paitoss/friday-gpt](https://github.com/paitoss/friday-gpt) - Assign R&R to AI to proceed with programming tasks
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
