@@ -839,7 +839,7 @@
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
 - [synfinatic/aws-sso-cli](https://github.com/synfinatic/aws-sso-cli) - A powerful tool for using AWS Identity Center for the CLI and web console.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
@@ -1225,7 +1225,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [buttercrab/wtfpython-ko](https://github.com/buttercrab/wtfpython-ko) - 놀라운 예제들을 통해서 파이썬을 탐험하고 이해해보세요!
-- [lotspaih/docTemplates](https://github.com/lotspaih/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
+- [ml0t/docTemplates](https://github.com/ml0t/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 - [appsecco/attacking-cloudgoat2](https://github.com/appsecco/attacking-cloudgoat2) - A step-by-step walkthrough of CloudGoat 2.0 scenarios.
 - [dteoh/devdocs-macos](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API Documentation viewer for macOS.
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
@@ -1387,7 +1387,7 @@
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [rkoval/alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -1441,7 +1441,7 @@
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [rkoval/alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
@@ -1976,7 +1976,7 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [monkeyapple/TOC-Generator-for-Bear-Note](https://github.com/monkeyapple/TOC-Generator-for-Bear-Note) - Generating TOC(Table-of-contents) for Bear Notes users.
-- [lotspaih/docTemplates](https://github.com/lotspaih/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
+- [ml0t/docTemplates](https://github.com/ml0t/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 - [alexander-lee/markdown-github-bear-toc](https://github.com/alexander-lee/markdown-github-bear-toc) - Autogenerated Table of Contents for Github Markdown or Bear Notes
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
@@ -2070,7 +2070,7 @@
 ## nextjs 
 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
@@ -2092,7 +2092,7 @@
 - [paitoss/friday-gpt](https://github.com/paitoss/friday-gpt) - Assign R&R to AI to proceed with programming tasks
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [keycloak/keycloak-nodejs-admin-client](https://github.com/keycloak/keycloak-nodejs-admin-client) - keycloak-nodejs-admin-client repo is moved.
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
@@ -2113,7 +2113,7 @@
 
 ## open-source 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [zerwes/hiyapyco](https://github.com/zerwes/hiyapyco) - HiYaPyCo - A Hierarchical Yaml Python Config
@@ -2904,7 +2904,7 @@
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
-- [lotspaih/docTemplates](https://github.com/lotspaih/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
+- [ml0t/docTemplates](https://github.com/ml0t/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 
 ## pwa 
 
@@ -3162,7 +3162,7 @@
 
 - [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -3245,7 +3245,7 @@
 ## security 
 
 - [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
@@ -3654,7 +3654,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [cookpad/uguisu](https://github.com/cookpad/uguisu) - AWS resource monitoring tool based on CIS benchmark
