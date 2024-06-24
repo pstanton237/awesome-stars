@@ -2435,7 +2435,7 @@
 - [longhorn09/aws_prices](https://github.com/longhorn09/aws_prices) - Fetch AWS Savings Plan prices into Excel
 - [awslabs/aws-dx-monitor](https://github.com/awslabs/aws-dx-monitor) - Simple AWS Direct Connect monitoring with Amazon CloudWatch.
 - [myoung34/cloudcustodian-rules](https://github.com/myoung34/cloudcustodian-rules) - Some of my personal rules for CapitalOne's Cloud Custodian project
-- [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [jsmartin/iamsync](https://github.com/jsmartin/iamsync) - copies IAM users, groups, and policies from one AWS account to another
 - [johntdyer/aws-events](https://github.com/johntdyer/aws-events) - Tool to open jira tickets when instance maintenance has been scheduled
 - [gilbutITbook/006936](https://github.com/gilbutITbook/006936) - 파이썬 코딩 도장
