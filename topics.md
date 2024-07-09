@@ -41,6 +41,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -985,6 +986,10 @@
 - [ellerbrock/aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources) - :key: Collection of useful AWS IAM Resources & Policies
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
+## dart 
+
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
+
 ## data 
 
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
@@ -1796,7 +1801,7 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
+- [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
@@ -3542,6 +3547,7 @@
 
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
 - [reulan/clairvoyance](https://github.com/reulan/clairvoyance) - Drift detection and reporting for Terraform.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
