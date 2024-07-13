@@ -644,6 +644,7 @@
 
 ## Markdown 
 
+- [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 
@@ -697,7 +698,6 @@
 - [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
 - [awslabs/aws-devops-essential](https://github.com/awslabs/aws-devops-essential) - In few hours, quickly learn how to effectively leverage various AWS services to improve developer productivity and reduce the overall time to market for new product capabilities.
 - [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) - AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena analysis environment that's quick to deploy, ready to use, and e
-- [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
@@ -903,6 +903,7 @@
 
 ## Python 
 
+- [aws-samples/aws-health-events-insight](https://github.com/aws-samples/aws-health-events-insight) - centralized approach to store and analyze AWS Health events(PHD,SHD)
 - [fzyzcjy/grafana_dashboard_python](https://github.com/fzyzcjy/grafana_dashboard_python) - Write Grafana dashboards in Python, without losing thousands of dashboards in the zoo
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
