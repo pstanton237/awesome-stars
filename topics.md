@@ -420,6 +420,7 @@
 
 ## aws 
 
+- [aws-samples/aws-health-events-insight](https://github.com/aws-samples/aws-health-events-insight) - centralized approach to store and analyze AWS Health events(PHD,SHD)
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
