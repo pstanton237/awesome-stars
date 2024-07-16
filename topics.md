@@ -798,6 +798,7 @@
 
 ## bot 
 
+- [sebseager/slack-exporter](https://github.com/sebseager/slack-exporter) - A Slack bot for exporting content from public and private channels.
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -827,6 +828,7 @@
 
 ## chatgpt 
 
+- [masuidrive/slack-summarizer](https://github.com/masuidrive/slack-summarizer) - OpenAI's ChatGPT API to create and post a summary of a Slack public channel.
 - [adamlui/chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
@@ -2168,6 +2170,7 @@
 
 ## others 
 
+- [normandmickey/MrsStax](https://github.com/normandmickey/MrsStax) - 
 - [aws-samples/automated-meeting-scribe-and-summarizer](https://github.com/aws-samples/automated-meeting-scribe-and-summarizer) - 
 - [aws-samples/fault-tolerance-analyser](https://github.com/aws-samples/fault-tolerance-analyser) - 
 - [fzyzcjy/grafana_dashboard_python](https://github.com/fzyzcjy/grafana_dashboard_python) - Write Grafana dashboards in Python, without losing thousands of dashboards in the zoo
