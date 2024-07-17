@@ -127,6 +127,7 @@
 
 ## Go 
 
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
 - [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -207,7 +208,7 @@
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment
 - [princespaghetti/actionhero](https://github.com/princespaghetti/actionhero) - 
@@ -903,6 +904,10 @@
 
 ## Python 
 
+- [Vokturz/LLM-slackbot-channels](https://github.com/Vokturz/LLM-slackbot-channels) - A user-customized bot for your slack channels using LLMs, Tools and Documents
+- [ibizabroker/slack-hr-gpt](https://github.com/ibizabroker/slack-hr-gpt) - A generative AI HR slack bot.
+- [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps developers build and prototype web apps faster with AI. Dropbase is local-first and self hosted.
+- [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [sebseager/slack-exporter](https://github.com/sebseager/slack-exporter) - A Slack bot for exporting content from public and private channels.
 - [masuidrive/slack-summarizer](https://github.com/masuidrive/slack-summarizer) - OpenAI's ChatGPT API to create and post a summary of a Slack public channel.
 - [normandmickey/MrsStax](https://github.com/normandmickey/MrsStax) - 
