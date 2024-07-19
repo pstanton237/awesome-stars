@@ -1471,6 +1471,7 @@
 
 ## golang 
 
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
@@ -3492,6 +3493,7 @@
 
 ## sql 
 
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework
 - [ErdemOzgen/Python-developer-roadmap](https://github.com/ErdemOzgen/Python-developer-roadmap) - Roadmap for becoming Python developer.
 - [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
