@@ -912,7 +912,6 @@
 - [sebseager/slack-exporter](https://github.com/sebseager/slack-exporter) - A Slack bot for exporting content from public and private channels.
 - [masuidrive/slack-summarizer](https://github.com/masuidrive/slack-summarizer) - OpenAI's ChatGPT API to create and post a summary of a Slack public channel.
 - [normandmickey/MrsStax](https://github.com/normandmickey/MrsStax) - 
-- [aws-samples/automated-meeting-scribe-and-summarizer](https://github.com/aws-samples/automated-meeting-scribe-and-summarizer) - 
 - [aws-samples/fault-tolerance-analyser](https://github.com/aws-samples/fault-tolerance-analyser) - 
 - [aws-samples/aws-health-events-insight](https://github.com/aws-samples/aws-health-events-insight) - centralized approach to store and analyze AWS Health events(PHD,SHD)
 - [fzyzcjy/grafana_dashboard_python](https://github.com/fzyzcjy/grafana_dashboard_python) - Write Grafana dashboards in Python, without losing thousands of dashboards in the zoo
