@@ -257,7 +257,7 @@
 - [standup-raven/standup-raven](https://github.com/standup-raven/standup-raven) - A Mattermost plugin for communicating daily standups across teams
 - [Jimdo/aws-health-exporter](https://github.com/Jimdo/aws-health-exporter) - AWS Health API Exporter for Prometheus
 - [kumina/postfix_exporter](https://github.com/kumina/postfix_exporter) - A Prometheus exporter for Postfix.
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [ekalinin/awsping](https://github.com/ekalinin/awsping) - Console tool to check the latency to each Amazon EC2 region
 - [banzaicloud/telescopes](https://github.com/banzaicloud/telescopes) - Telescopes is a cloud instance types and full cluster layout recommender consisting of on-demand and spot/preemptible AWS EC2, Google, Azure, Oracle and Alibaba cloud instances.
 - [pbnj/awesome-podcasts](https://github.com/pbnj/awesome-podcasts) - 🎙 A collection of awesome engineering podcasts! ARCHIVED in favor of https://github.com/rShetty/awesome-podcasts
@@ -761,7 +761,7 @@
 - [cloudacademy/athena-sg-analyser](https://github.com/cloudacademy/athena-sg-analyser) - Athena Security Group Analyser Queries
 - [aws-samples/aws-health-organizational-view-alerts](https://github.com/aws-samples/aws-health-organizational-view-alerts) - AHOVA has been deprecated and moved to a new solution called AWS Health Aware (AHA)
 - [4ndersonLin/AWS-CIS-alert](https://github.com/4ndersonLin/AWS-CIS-alert) - 
-- [ml0t/docTemplates](https://github.com/ml0t/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
+- [beevomit/docTemplates](https://github.com/beevomit/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 - [SummitRoute/aws_exposable_resources](https://github.com/SummitRoute/aws_exposable_resources) - Resource types that can be publicly exposed on AWS
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [doublejim/tree-style-tab-compact-dark-style](https://github.com/doublejim/tree-style-tab-compact-dark-style) - A dark, compact style for Tree Style Tab by Piro (Firefox Extension).
@@ -1718,7 +1718,7 @@
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [finic-ai/psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
