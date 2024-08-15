@@ -361,7 +361,7 @@
 - [cloudposse-archives/terraform-aws-iam-policy-document-aggregator](https://github.com/cloudposse-archives/terraform-aws-iam-policy-document-aggregator) - Terraform module to aggregate multiple IAM policy documents into single policy document.
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
 - [Voronenko/devops-tf-eks](https://github.com/Voronenko/devops-tf-eks) - terraform baked AWS kubernetes cluster (EKS) - 1.18 compatible
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, P
 - [terraform-aws-modules/terraform-aws-pricing](https://github.com/terraform-aws-modules/terraform-aws-pricing) - Terraform module which calculates price of AWS infrastructure (from Terraform state and plan) 🇺🇦
 - [cloudposse/terraform-null-label](https://github.com/cloudposse/terraform-null-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
 - [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
