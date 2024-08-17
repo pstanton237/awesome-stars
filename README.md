@@ -491,6 +491,7 @@
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [jonalxh/Flask-Admin-Dashboard](https://github.com/jonalxh/Flask-Admin-Dashboard) - Flask Admin customized using AdminLTE bootstrap template and flask security to offer a better Dashboard UX
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [steyep/alfred-jira](https://github.com/steyep/alfred-jira) - Alfred 3 (or Alfred 2) workflow for interacting with JIRA.
@@ -1137,7 +1138,6 @@
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [dineshsonachalam/lucid-dynamodb](https://github.com/dineshsonachalam/lucid-dynamodb) - 🗄️ A simple Python wrapper to AWS Dynamodb.
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [caronc/apprise-api](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library
 - [lorcalhost/BTB-manager-telegram](https://github.com/lorcalhost/BTB-manager-telegram) - A feature packed but easy-to-use Telegram bot for remotely managing Binance Trade Bot instances
 - [Batres35/binance_coins](https://github.com/Batres35/binance_coins) - A binance correlated coins finder
@@ -1718,7 +1718,7 @@
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [aws-samples/automated-iam-access-analyzer](https://github.com/aws-samples/automated-iam-access-analyzer) - 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [finic-ai/psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
