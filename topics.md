@@ -89,6 +89,7 @@
 - [homebrew](#homebrew)
 - [html](#html)
 - [http](#http)
+- [https](#https)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -1710,6 +1711,10 @@
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 
+## https 
+
+- [coreybutler/fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
+
 ## ios 
 
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -2828,7 +2833,6 @@
 - [hatsari/article](https://github.com/hatsari/article) - articles about IT automation
 - [kubermesh/kubermesh](https://github.com/kubermesh/kubermesh) - Bare metal, self-hosted, self-healing/provisioning, mesh network kubernetes cluster
 - [tanjiti/packet_analysis](https://github.com/tanjiti/packet_analysis) - IP/TCP/UDP数据包分析及解析
-- [coreybutler/fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
 - [moul/alfred-workflow-pingport](https://github.com/moul/alfred-workflow-pingport) - :man: Ping TCP ports from Alfred
 - [eskrug/meetup](https://github.com/eskrug/meetup) - 한국 Elasticsearch 사용자그룹 밋업 관련 자료들을 모아놓는 곳입니다. / Korea ES Usergroup Meetup resources
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
