@@ -839,7 +839,6 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
-- [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
@@ -2224,6 +2223,7 @@
 - [dolevf/Open-Policy-Agent-Alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - Reasonably Usable Self-hosted Version of OPA's Playground
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
+- [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform that makes it easy and fast to build custom integrations in python.
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 - [samuelcolvin/pytest-pretty](https://github.com/samuelcolvin/pytest-pretty) - pytest plugin for pretty printing the test summary.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
@@ -2253,7 +2253,7 @@
 - [aws-samples/simple-anomaly-detection-solution](https://github.com/aws-samples/simple-anomaly-detection-solution) - 
 - [vipul-sharma20/slate](https://github.com/vipul-sharma20/slate) - Self hosted Slack app for daily standups
 - [Kuniz/alfnaversearch](https://github.com/Kuniz/alfnaversearch) - Naver Search Workflow for Alfred (알프레드 네이버 검색/사전/지도 자동완성 워크플로우)
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [orange-cloudfoundry/statusetat](https://github.com/orange-cloudfoundry/statusetat) - status page with very HA in mind and notifier
 - [finopsfoundation/kpis](https://github.com/finopsfoundation/kpis) - 
 - [galovics/free-kubernetes-oracle-cloud-terraform](https://github.com/galovics/free-kubernetes-oracle-cloud-terraform) - 
