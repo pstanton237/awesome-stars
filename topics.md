@@ -2276,7 +2276,7 @@
 - [lyft/awspricing](https://github.com/lyft/awspricing) - Python library for AWS pricing.
 - [elbanic/alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
 - [awslabs/aws-reserved-instance-expiration-notification](https://github.com/awslabs/aws-reserved-instance-expiration-notification) - Python SAM Lambda module for sending email about AWS Reserved Instance whose contract is expiring within the specified days
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [jtortorelli/head-first-design-patterns-python](https://github.com/jtortorelli/head-first-design-patterns-python) - The main examples from the Head First Design Patterns book translated into Python
 - [zulhilmizainuddin/aws-lambda-error-rate](https://github.com/zulhilmizainuddin/aws-lambda-error-rate) - AWS Lambda error rate monitoring application using Node.js, TypeScript, Serverless, AWS Lambda, CloudFormation, CloudWatch, S3, SNS and PagerTree
 - [cplankey/lambda-errors-to-slack-sar](https://github.com/cplankey/lambda-errors-to-slack-sar) - Subscribes to tagged Lambdas in your account and forwards their errors to a specified Slack channel
