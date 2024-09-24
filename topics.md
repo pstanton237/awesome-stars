@@ -1110,7 +1110,7 @@
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [phzietsman/aws-slack-clickoops-watcher](https://github.com/phzietsman/aws-slack-clickoops-watcher) - Get alerts when people are using the AWS console to modify create or modify resources.
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools
-- [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - The Open Source Incident Management Framework
+- [incidentbot/incidentbot](https://github.com/incidentbot/incidentbot) - The Open Source Incident Management Framework
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
@@ -1219,7 +1219,7 @@
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [ivangfr/keycloak-clustered](https://github.com/ivangfr/keycloak-clustered) - Keycloak-Clustered extends quay.io/keycloak/keycloak official Keycloak Docker image by adding JDBC_PING discovery protocol.
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
-- [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - The Open Source Incident Management Framework
+- [incidentbot/incidentbot](https://github.com/incidentbot/incidentbot) - The Open Source Incident Management Framework
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings by using the Grafana API
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -3219,7 +3219,7 @@
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-- [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - The Open Source Incident Management Framework
+- [incidentbot/incidentbot](https://github.com/incidentbot/incidentbot) - The Open Source Incident Management Framework
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [zerwes/hiyapyco](https://github.com/zerwes/hiyapyco) - HiYaPyCo - A Hierarchical Yaml Python Config
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
@@ -3267,7 +3267,7 @@
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
-- [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - The Open Source Incident Management Framework
+- [incidentbot/incidentbot](https://github.com/incidentbot/incidentbot) - The Open Source Incident Management Framework
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [jpdillingham/AWSPricingExplorer](https://github.com/jpdillingham/AWSPricingExplorer) - A microservice for the AWS Pricing Api, written in JavaScript with Express, React, and blueprintjs.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
