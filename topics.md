@@ -1604,6 +1604,7 @@
 
 ## hacktoberfest 
 
+- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [PacoVK/tapir](https://github.com/PacoVK/tapir) - A Private Terraform Registry
 - [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -2231,7 +2232,6 @@
 
 ## others 
 
-- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps developers build and prototype web apps faster with AI. Dropbase is local-first and self hosted.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [normandmickey/MrsStax](https://github.com/normandmickey/MrsStax) - 
