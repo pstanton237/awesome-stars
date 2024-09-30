@@ -514,7 +514,7 @@
 - [jamesoff/tamper-console](https://github.com/jamesoff/tamper-console) - Userscript to teach AWS Console keyboard shortcuts
 - [GorillaStack/athena-cloudtrail-partitioner](https://github.com/GorillaStack/athena-cloudtrail-partitioner) - Automate the daily partitioning of your CloudTrail bucket in Athena
 - [incheon-kim/nomore-soldouts-coupang](https://github.com/incheon-kim/nomore-soldouts-coupang) - 쿠팡 상품 목록에서 품절된 항목들 가리기
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
 - [RaoulMeyer/diagram-as-code](https://github.com/RaoulMeyer/diagram-as-code) - Create diagrams of infrastructure in code
 - [speshak/aws-saml-search](https://github.com/speshak/aws-saml-search) - Add a search box to the AWS SAML login page
