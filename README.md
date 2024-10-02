@@ -925,7 +925,7 @@
 - [morozgrafix/alfred-datetime-format-converter](https://github.com/morozgrafix/alfred-datetime-format-converter) - Alfred 2 workflow for converting between timestamps and formatted datetime strings with ease.
 - [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts) - 
 - [welldone-cloud/aws-lint-iam-policies](https://github.com/welldone-cloud/aws-lint-iam-policies) - 
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
 - [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [aws-samples/service-screener-v2](https://github.com/aws-samples/service-screener-v2) - A tool for customers to evaluate their AWS service configurations based on AWS and community best practices and receive recommendations on potential improvements.
