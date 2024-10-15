@@ -173,7 +173,7 @@
 - [jeff-knurek/tfarbe](https://github.com/jeff-knurek/tfarbe) - add color to Terraform 12/13 plan output, also format it for markdown diff
 - [goldfiglabs/rpCheckup](https://github.com/goldfiglabs/rpCheckup) - rpCheckup is an AWS resource policy security checkup tool that identifies public, external account access, intra-org     account access, and private resources.
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
@@ -1636,7 +1636,6 @@
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [mposolda/keycloak-freeipa-docker](https://github.com/mposolda/keycloak-freeipa-docker) - Docker image with Keycloak server configured to authenticate against FreeIPA Kerberos and LDAP
 - [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
-- [DenizParlak/Zeus](https://github.com/DenizParlak/Zeus) - AWS Auditing & Hardening Tool
 - [ptb/mac-setup](https://github.com/ptb/mac-setup) - 
 - [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
 - [aws-samples/aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes
