@@ -1075,6 +1075,7 @@
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - Create, List, Update, Delete Amazon EKS clusters. Deploy and manage software on EKS. Run distributed model training and inference examples.
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [DevopsArtFactory/goployer](https://github.com/DevopsArtFactory/goployer) - AWS Deployer with Go
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
@@ -1217,6 +1218,7 @@
 - [ivangfr/keycloak-clustered](https://github.com/ivangfr/keycloak-clustered) - Keycloak-Clustered extends quay.io/keycloak/keycloak official Keycloak Docker image by adding JDBC_PING discovery protocol.
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [incidentbot/incidentbot](https://github.com/incidentbot/incidentbot) - The Open Source Incident Management Framework
+- [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - Create, List, Update, Delete Amazon EKS clusters. Deploy and manage software on EKS. Run distributed model training and inference examples.
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings by using the Grafana API
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -2363,7 +2365,6 @@
 - [aws-samples/aws-management-and-governance-samples](https://github.com/aws-samples/aws-management-and-governance-samples) - Collection of samples for Management and Governance services
 - [aws-samples/aws-vpc-cidr-mgmt](https://github.com/aws-samples/aws-vpc-cidr-mgmt) - 
 - [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws) - Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalone-account or ControlTower based multi-account AWS environment. This solution provides basi
-- [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - 
 - [aws-samples/iam-roles-pipeline](https://github.com/aws-samples/iam-roles-pipeline) - 
 - [aws-samples/eks-workshop](https://github.com/aws-samples/eks-workshop) - AWS Workshop for Learning EKS
 - [aws-samples/aws-modernization-with-pulumi](https://github.com/aws-samples/aws-modernization-with-pulumi) - 
@@ -3654,6 +3655,7 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [phzietsman/aws-slack-clickoops-watcher](https://github.com/phzietsman/aws-slack-clickoops-watcher) - Get alerts when people are using the AWS console to modify create or modify resources.
 - [TastefulElk/iam-legend](https://github.com/TastefulElk/iam-legend) - IAM policy actions autocomplete, documentation & wildcard resolution for VS Code
+- [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - Create, List, Update, Delete Amazon EKS clusters. Deploy and manage software on EKS. Run distributed model training and inference examples.
 - [antonbabenko/serverless.tf](https://github.com/antonbabenko/serverless.tf) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform.
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 - [jeff-knurek/tfarbe](https://github.com/jeff-knurek/tfarbe) - add color to Terraform 12/13 plan output, also format it for markdown diff
