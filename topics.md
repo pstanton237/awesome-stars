@@ -1618,7 +1618,6 @@
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
-- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
@@ -2727,7 +2726,6 @@
 - [GSA/devsecops-cloud-custodian-rules](https://github.com/GSA/devsecops-cloud-custodian-rules) - [WORK IN PROGRESS] A repo containing rule sets for cloud-custodian inside GSA AWS accounts. This repo does not contain cloud-custodian itself.
 - [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code
 - [opsgang/terraform-aws-cis-fundamentals](https://github.com/opsgang/terraform-aws-cis-fundamentals) - This Terraform module helps to setup an AWS account with the requirements of  CIS Amazon Web Services Foundations Benchmark v1.1.0
-- [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [oaksong/developers-retrospective](https://github.com/oaksong/developers-retrospective) - 개발자 회고 모음
 - [jeshan/botostubs](https://github.com/jeshan/botostubs) - boto3 code assistance for any API in any IDE, always up to date
 - [project-koku/koku](https://github.com/project-koku/koku) - An open source solution for cost management of cloud and hybrid cloud environments.
@@ -2923,7 +2921,6 @@
 - [jlafon/ansible-profile](https://github.com/jlafon/ansible-profile) - An Ansible plugin for timing tasks
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [aws/aws-health-tools](https://github.com/aws/aws-health-tools) - The samples provided in AWS Health Tools can help users to build automation and customized alerting in response to AWS Health events.
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [cloudviz/agentless-system-crawler](https://github.com/cloudviz/agentless-system-crawler) - A tool to crawl systems like crawlers for the web
 - [elasticfence/elasticsearch-http-user-auth](https://github.com/elasticfence/elasticsearch-http-user-auth) - HTTP Basic Authentication and IP ACL plugin for Elasticsearch :key: (UNMAINTAINED)
 
