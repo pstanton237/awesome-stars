@@ -440,7 +440,7 @@
 - [aws-samples/aws-service-catalog-terraform-reference-architecture](https://github.com/aws-samples/aws-service-catalog-terraform-reference-architecture) - Apply Terraform configurations using CloudFormation through a proxy lambda
 - [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
 - [plamen-paskov/serverless-framework-gui](https://github.com/plamen-paskov/serverless-framework-gui) - Integration of Serverless Framework for all JetBrains IDEs
-- [adelf/idea-php-dotenv-plugin](https://github.com/adelf/idea-php-dotenv-plugin) - environment parameters completion, based on .env file keys
+- [JetBrains/idea-php-dotenv-plugin](https://github.com/JetBrains/idea-php-dotenv-plugin) - environment parameters completion, based on .env file keys
 - [gwallet/keycloak-sms-authenticator](https://github.com/gwallet/keycloak-sms-authenticator) - 
 - [robsonbittencourt/aws-cost-miner](https://github.com/robsonbittencourt/aws-cost-miner) - Application to extract usefull information from Aws Billing Report
 - [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
