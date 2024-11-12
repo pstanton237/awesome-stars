@@ -147,7 +147,7 @@
 - [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox) - Search and control Firefox from Alfred
 - [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [rkoval/alfred-aws-console-services-workflow](https://github.com/rkoval/alfred-aws-console-services-workflow) - A powerful workflow for quickly opening up AWS Console Services in your browser or searching for entities within them.
@@ -914,6 +914,7 @@
 
 ## Python 
 
+- [ppabis/cf-generator-ai-agent](https://github.com/ppabis/cf-generator-ai-agent) - AI agent that helps generating CloudFormation schemas based on plain text. It allows the agent to use tool that searches for the appropriate CloudFormation schema in YAML
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [Vokturz/LLM-slackbot-channels](https://github.com/Vokturz/LLM-slackbot-channels) - A user-customized bot for your slack channels using LLMs, Tools and Documents
