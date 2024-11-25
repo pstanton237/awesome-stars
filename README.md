@@ -222,7 +222,6 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance ELT framework powered by Apache Arrow
 - [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) - Terraform provider for Keycloak
-- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [loft-sh/kiosk](https://github.com/loft-sh/kiosk) - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
 - [jckuester/awsls](https://github.com/jckuester/awsls) - A list command for AWS resources
@@ -367,6 +366,7 @@
 - [riteshsoni10/gcp_aws_deployment](https://github.com/riteshsoni10/gcp_aws_deployment) - Automated Multi-Cloud Application Deployment using terraform.  The inter-connectivity between the public clouds is preformed using Site-To-Site VPN using terraform as code. The application is deployed
 - [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) - Example usage of HashiCorp Terraform
 - [futurice/terraform-examples](https://github.com/futurice/terraform-examples) - Terraform samples for all the major clouds you can copy and paste. The future, co-created.
+- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [nccgroup/sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
@@ -465,6 +465,7 @@
 
 ## JavaScript 
 
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [adamlui/chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
 - [nvuillam/npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint) - Lint, format and auto-fix your Groovy / Jenkinsfile / Gradle files using command line
@@ -677,6 +678,7 @@
 
 ## Others 
 
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -686,7 +688,6 @@
 - [awsdocs/aws-security-hub-user-guide](https://github.com/awsdocs/aws-security-hub-user-guide) - The open source version of the AWS Security Hub documentation. To provide feedback or request changes, you can submit a pull request that contains your proposed changes.
 - [zarifpour/alfred-you-suggest](https://github.com/zarifpour/alfred-you-suggest) - 🎩 Get in-line suggestions from You.com's search results with Alfred.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
-- [jonzarecki/awesome-pycharm-plugins](https://github.com/jonzarecki/awesome-pycharm-plugins) - A curated list of awesome Pycharm plugins
 - [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [elbanic/alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
 - [felipekiko/finops-c7n](https://github.com/felipekiko/finops-c7n) - Some custodian policies to use in FinOps monitoring
@@ -912,6 +913,8 @@
 
 ## Python 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [cosimo/route53-transfer-ng](https://github.com/cosimo/route53-transfer-ng) - Easily backup and restore AWS Route53 dns zones
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
