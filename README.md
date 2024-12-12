@@ -1210,7 +1210,7 @@
 - [gilbutITbook/080235](https://github.com/gilbutITbook/080235) - 파이썬 코딩의 기술 개정2판(Effective Python, 2nd) 소스 코드입니다
 - [mlavin/cloudping](https://github.com/mlavin/cloudping) - AWS Hosted Uptime Monitoring
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
-- [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Second Edition — Source Code and Errata for the Book
+- [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Third Edition — Source Code and Errata for the Book
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
 - [onlybooks/python-algorithm-interview](https://github.com/onlybooks/python-algorithm-interview) - &lt;파이썬 알고리즘 인터뷰&gt; 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
