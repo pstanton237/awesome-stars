@@ -485,7 +485,6 @@
 - [iann0036/aws.permissions.cloud](https://github.com/iann0036/aws.permissions.cloud) - A crowdsourced AWS IAM permissions reference.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [iann0036/iamfast](https://github.com/iann0036/iamfast) - AWS IAM policy generation from application code
 - [schams-net/amazon-ses-logging](https://github.com/schams-net/amazon-ses-logging) - Simple prototype of a Lambda function to write Amazon SES logs to a S3 bucket
 - [aws-solutions/aws-devops-monitoring-dashboard](https://github.com/aws-solutions/aws-devops-monitoring-dashboard) - The DevOps Monitoring Dashboard on AWS solution is a reference implementation that automates the process for monitoring and visualizing performance and operational metrics in continuous integration/co
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
@@ -706,6 +705,7 @@
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
+- [iann0036/iamfast](https://github.com/iann0036/iamfast) - Repository for iamfast questions and issues
 - [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path
 - [mercari/production-readiness-checklist](https://github.com/mercari/production-readiness-checklist) - Production readiness checklist used for Mercari and Merpay microservices
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
@@ -1722,6 +1722,7 @@
 
 ## TypeScript 
 
+- [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
