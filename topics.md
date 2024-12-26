@@ -435,6 +435,7 @@
 
 ## aws 
 
+- [aws-samples/data-perimeter-policy-examples](https://github.com/aws-samples/data-perimeter-policy-examples) - Example policies demonstrating how to implement a data perimeter on AWS.
 - [aws-samples/aws-health-events-insight](https://github.com/aws-samples/aws-health-events-insight) - centralized approach to store and analyze AWS Health events(PHD,SHD)
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
@@ -2250,6 +2251,8 @@
 
 ## others 
 
+- [aws-samples/reinvent24](https://github.com/aws-samples/reinvent24) - Slides and other assets for the re:Invent 2024 KUB track
+- [aws-samples/amazon-bedrock-client-for-mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac) - A sleek and powerful macOS client for Amazon Bedrock, bringing AI models to your desktop
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [aws-samples/claude-prompt-generator](https://github.com/aws-samples/claude-prompt-generator) - 
 - [cosimo/route53-transfer-ng](https://github.com/cosimo/route53-transfer-ng) - Easily backup and restore AWS Route53 dns zones
@@ -2535,7 +2538,6 @@
 - [aws/eks-charts](https://github.com/aws/eks-charts) - Amazon EKS Helm chart repository
 - [aws-samples/aws-transit-gateway-attachment-automation](https://github.com/aws-samples/aws-transit-gateway-attachment-automation) - AWS CloudFormation templates and AWS Lambda Python based code for automating AWS Transit Gateway Attachment associations across an AWS Organization.
 - [gwallet/keycloak-sms-authenticator](https://github.com/gwallet/keycloak-sms-authenticator) - 
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [inovex/illuminatio](https://github.com/inovex/illuminatio) - The kubernetes network policy validator.
 - [92bondstreet/awesome-onboarding](https://github.com/92bondstreet/awesome-onboarding) - 🌻 A curated list of awesome onboarding new developers resources.
 - [awsdocs/aws-personal-health-dashboard](https://github.com/awsdocs/aws-personal-health-dashboard) - The open source version of the AWS Personal Health Dashboard docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull re
