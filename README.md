@@ -512,7 +512,7 @@
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [mkora/pocket-tagger](https://github.com/mkora/pocket-tagger) - Adds tags to Pocket's unread articles
 - [jamesoff/tamper-console](https://github.com/jamesoff/tamper-console) - Userscript to teach AWS Console keyboard shortcuts
-- [GorillaStack/athena-cloudtrail-partitioner](https://github.com/GorillaStack/athena-cloudtrail-partitioner) - Automate the daily partitioning of your CloudTrail bucket in Athena
+- [SWO-GS/athena-cloudtrail-partitioner](https://github.com/SWO-GS/athena-cloudtrail-partitioner) - Automate the daily partitioning of your CloudTrail bucket in Athena
 - [incheon-kim/nomore-soldouts-coupang](https://github.com/incheon-kim/nomore-soldouts-coupang) - 쿠팡 상품 목록에서 품절된 항목들 가리기
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
@@ -569,7 +569,7 @@
 - [outsideris/citizen](https://github.com/outsideris/citizen) - A Private Terraform Module/Provider Registry
 - [awslabs/hids-cloudwatchlogs-opensearch-template](https://github.com/awslabs/hids-cloudwatchlogs-opensearch-template) - Monitor Host-Based Intrusion Detection System Alerts on Amazon EC2 Instances
 - [indix/aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
-- [GorillaStack/auto-tag](https://github.com/GorillaStack/auto-tag) - Automatically tag AWS resources on creation, for cost assignment
+- [SWO-GS/auto-tag](https://github.com/SWO-GS/auto-tag) - Automatically tag AWS resources on creation, for cost assignment
 - [alvesjtiago/airpass](https://github.com/alvesjtiago/airpass) - Airpass - status bar Mac app to overcome time constrained WiFi networks.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -940,7 +940,7 @@
 - [fzyzcjy/grafana_dashboard_python](https://github.com/fzyzcjy/grafana_dashboard_python) - Write Grafana dashboards in Python, without losing thousands of dashboards in the zoo
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [grycap/scar](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker in AWS Lambda)
 - [morozgrafix/alfred-datetime-format-converter](https://github.com/morozgrafix/alfred-datetime-format-converter) - Alfred 2 workflow for converting between timestamps and formatted datetime strings with ease.
 - [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts) - 
@@ -1536,7 +1536,7 @@
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [kontena/mortar](https://github.com/kontena/mortar) - The manifest shooter for Kubernetes
 - [inspec/inspec-aws](https://github.com/inspec/inspec-aws) - InSpec AWS Resource Pack  https://www.inspec.io/
-- [GorillaStack/retro-tag](https://github.com/GorillaStack/retro-tag) - Retrospectively tag AWS resources so you can work out who created them
+- [SWO-GS/retro-tag](https://github.com/SWO-GS/retro-tag) - Retrospectively tag AWS resources so you can work out who created them
 - [sensu-plugins/sensu-plugins-aws](https://github.com/sensu-plugins/sensu-plugins-aws) - This plugin provides native AWS instrumentation for monitoring and metrics collection, including: health and metrics for various AWS services, such as EC2, RDS, ELB, and more, as well as handlers for 
 - [gruntwork-io/infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
 - [k1LoW/awspec](https://github.com/k1LoW/awspec) - RSpec tests for your AWS resources.
