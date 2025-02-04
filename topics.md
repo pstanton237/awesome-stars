@@ -264,7 +264,7 @@
 
 - [iam-abbas/FastAPI-Production-Boilerplate](https://github.com/iam-abbas/FastAPI-Production-Boilerplate) - A scalable and production ready boilerplate for FastAPI
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -289,7 +289,6 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-- [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
@@ -803,7 +802,7 @@
 ## bitcoin 
 
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -818,7 +817,7 @@
 - [sebseager/slack-exporter](https://github.com/sebseager/slack-exporter) - A Slack bot for exporting content from public and private channels.
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
@@ -1015,7 +1014,7 @@
 - [Ph3nol/Trading-Bot](https://github.com/Ph3nol/Trading-Bot) - Automated Trading Bot based on managed instances of Freqtrade, fully Dockerized.
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -1302,7 +1301,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [buttercrab/wtfpython-ko](https://github.com/buttercrab/wtfpython-ko) - 놀라운 예제들을 통해서 파이썬을 탐험하고 이해해보세요!
-- [beevomit/docTemplates](https://github.com/beevomit/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 - [appsecco/attacking-cloudgoat2](https://github.com/appsecco/attacking-cloudgoat2) - A step-by-step walkthrough of CloudGoat 2.0 scenarios.
 - [dteoh/devdocs-macos](https://github.com/dteoh/devdocs-macos) - An unofficial DevDocs API Documentation viewer for macOS.
 - [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
@@ -1348,7 +1346,7 @@
 
 ## ethereum 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [moimz/iCoinTicker](https://github.com/moimz/iCoinTicker) - macOS crypto currency menubar ticker (맥 가상화폐 시세 메뉴바 티커)
 
@@ -1397,7 +1395,7 @@
 
 ## framework 
 
-- [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
+- [pedroCabrera/PyFlow](https://github.com/pedroCabrera/PyFlow) - Visual scripting framework for python
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
@@ -1971,7 +1969,7 @@
 
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## linux 
 
@@ -2051,7 +2049,7 @@
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
+- [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
@@ -2083,7 +2081,6 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [monkeyapple/TOC-Generator-for-Bear-Note](https://github.com/monkeyapple/TOC-Generator-for-Bear-Note) - Generating TOC(Table-of-contents) for Bear Notes users.
-- [beevomit/docTemplates](https://github.com/beevomit/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 - [alexander-lee/markdown-github-bear-toc](https://github.com/alexander-lee/markdown-github-bear-toc) - Autogenerated Table of Contents for Github Markdown or Bear Notes
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
@@ -2263,6 +2260,7 @@
 
 ## others 
 
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [denisbalber/IDESync-VSCode-JetBrains](https://github.com/denisbalber/IDESync-VSCode-JetBrains) - 
 - [aws-samples/reinvent24](https://github.com/aws-samples/reinvent24) - Slides and other assets for the re:Invent 2024 KUB track
 - [aws-samples/amazon-bedrock-client-for-mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac) - A sleek and powerful macOS client for Amazon Bedrock, bringing AI models to your desktop
@@ -3036,7 +3034,6 @@
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
-- [beevomit/docTemplates](https://github.com/beevomit/docTemplates) - =&gt;DEVELOPMENT OF THIS REPO HAS MIGRATED TO SOURCEHUT!&lt;= Simple Project Management and Document Templates in Markdown for Compatibility and Portability
 
 ## pwa 
 
@@ -3105,7 +3102,7 @@
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [zerwes/hiyapyco](https://github.com/zerwes/hiyapyco) - HiYaPyCo - A Hierarchical Yaml Python Config
-- [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
+- [pedroCabrera/PyFlow](https://github.com/pedroCabrera/PyFlow) - Visual scripting framework for python
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -3280,7 +3277,7 @@
 
 ## qt 
 
-- [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
+- [pedroCabrera/PyFlow](https://github.com/pedroCabrera/PyFlow) - Visual scripting framework for python
 
 ## quantitative-finance 
 
@@ -3655,7 +3652,7 @@
 
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
-- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
+- [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
 - [hatashiro/kawa](https://github.com/hatashiro/kawa) - A macOS input source switcher with user-defined shortcuts.
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -3665,7 +3662,7 @@
 
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
-- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
+- [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
 
 ## symfony 
 
@@ -3869,7 +3866,7 @@
 ## vim 
 
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
-- [godbout/kindaVim.docs](https://github.com/godbout/kindaVim.docs) - Ultimate Vim Mode for macOS
+- [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [AlexPl292/IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
