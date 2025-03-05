@@ -157,7 +157,7 @@
 - [orange-cloudfoundry/statusetat](https://github.com/orange-cloudfoundry/statusetat) - status page with very HA in mind and notifier
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [cookpad/uguisu](https://github.com/cookpad/uguisu) - AWS resource monitoring tool based on CIS benchmark
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -919,6 +919,8 @@
 
 ## Python 
 
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -1189,7 +1191,7 @@
 - [jalmeroth/ncprefs](https://github.com/jalmeroth/ncprefs) - A tool to remove Notifications on MacOS lock screen
 - [latture/json2table](https://github.com/latture/json2table) - Converts JSON to an HTML table
 - [invl/retry](https://github.com/invl/retry) - easy to use retry decorator in python
-- [Alfresco/sweeper](https://github.com/Alfresco/sweeper) - A tool to check for rogue/orphaned AWS services running that cost money
+- [AlfrescoArchive/sweeper](https://github.com/AlfrescoArchive/sweeper) - A tool to check for rogue/orphaned AWS services running that cost money
 - [z0ph/aa-policy-validator](https://github.com/z0ph/aa-policy-validator) - Validate all your Customer IAM Policies against AWS Access Analyzer - Policy Validation
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [cevoaustralia/tag-sentinel](https://github.com/cevoaustralia/tag-sentinel) - Serverless tag policy tool
