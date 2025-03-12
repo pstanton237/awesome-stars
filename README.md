@@ -129,7 +129,7 @@
 
 ## Go 
 
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a secure, scalable runtime for AI-generated code execution.
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
@@ -1732,6 +1732,7 @@
 
 ## TypeScript 
 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
