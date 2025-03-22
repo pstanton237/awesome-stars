@@ -980,7 +980,7 @@
 - [jakubplichta/grafana-dashboard-builder](https://github.com/jakubplichta/grafana-dashboard-builder) - Generate Grafana dashboards with YAML
 - [pawelrychlik/jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [zarifpour/jira-dependency-graph](https://github.com/zarifpour/jira-dependency-graph) - 🧿 Graph visualizer for JIRA ticket dependencies (epics, tasks, statuses, links, and more).
-- [Netflix/spectator-py](https://github.com/Netflix/spectator-py) - 
+- [Netflix/spectator-py](https://github.com/Netflix/spectator-py) - Thin-client metrics library for use with Atlas and SpectatorD
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
@@ -1735,6 +1735,7 @@
 
 ## TypeScript 
 
+- [openops-cloud/openops](https://github.com/openops-cloud/openops) - The batteries-included, No-Code FinOps automation platform.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [kahole/edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
