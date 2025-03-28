@@ -810,7 +810,7 @@
 - [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam) - 좋은 개발팀을 만드는데 도움이 되는 자료
 - [RhinoSecurityLabs/AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) - A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.
 - [ellerbrock/aws-iam-resources](https://github.com/ellerbrock/aws-iam-resources) - :key: Collection of useful AWS IAM Resources & Policies
-- [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
+- [jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [NYPL/engineering-general](https://github.com/NYPL/engineering-general) - Standards, values, and other information relevant to the NYPL Engineering Team.
