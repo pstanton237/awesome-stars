@@ -613,6 +613,7 @@
 
 ## Jupyter Notebook 
 
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [FinanceData/FinanceDataReader](https://github.com/FinanceData/FinanceDataReader) - Financial data reader
 - [sharebook-kr/book-pandas-for-finance](https://github.com/sharebook-kr/book-pandas-for-finance) - 금융 데이터 분석을 위한 파이썬 Pandas
 - [awslabs/ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
@@ -1144,7 +1145,6 @@
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [prisma-cloud/IAMFinder](https://github.com/prisma-cloud/IAMFinder) - IAMFinder enumerates and finds users and IAM roles in a target AWS account.
@@ -1538,7 +1538,7 @@
 - [joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
 - [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [inspec/inspec-gcp](https://github.com/inspec/inspec-gcp) - InSpec GCP (Google Cloud Platform) Resource Pack
-- [james-ransom/auto-apply-gcp-iam-recommendations](https://github.com/james-ransom/auto-apply-gcp-iam-recommendations) - Auto apply GCP IAM permissions
+- [BugWrestler5000/auto-apply-gcp-iam-recommendations](https://github.com/BugWrestler5000/auto-apply-gcp-iam-recommendations) - Auto apply GCP IAM permissions
 - [technicalpickles/homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [kontena/mortar](https://github.com/kontena/mortar) - The manifest shooter for Kubernetes
@@ -1568,6 +1568,7 @@
 
 ## Rust 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
