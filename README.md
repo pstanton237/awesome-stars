@@ -1091,7 +1091,7 @@
 - [aws-samples/aws-vpc-cidr-mgmt](https://github.com/aws-samples/aws-vpc-cidr-mgmt) - 
 - [aws-samples/amazon-cloudwatch-auto-alarms](https://github.com/aws-samples/amazon-cloudwatch-auto-alarms) - Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.
 - [aws-samples/iam-roles-pipeline](https://github.com/aws-samples/iam-roles-pipeline) - 
-- [aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment) - Command Line Interface tool for Cloud Intelligence Dashboards deployment
+- [aws-solutions-library-samples/cloud-intelligence-dashboards-framework](https://github.com/aws-solutions-library-samples/cloud-intelligence-dashboards-framework) - Command Line Interface tool for Cloud Intelligence Dashboards deployment
 - [aws-samples/aws-vpc-network-access-analyzer-automation](https://github.com/aws-samples/aws-vpc-network-access-analyzer-automation) - 
 - [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 - [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
