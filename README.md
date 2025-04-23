@@ -874,7 +874,7 @@
 - [anonymuse/linux-operations-interview-questions](https://github.com/anonymuse/linux-operations-interview-questions) - Collection of linux sysadmin/devop interview questions
 - [kylejohnson/linux-sysadmin-interview-questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions) - A list of some of the questions which I've had to know during linux syadmin / devops interviews.
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) - A collection of links related to Linux kernel security and exploitation
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [Shephexd/workflows](https://github.com/Shephexd/workflows) - workflows of Alfred
