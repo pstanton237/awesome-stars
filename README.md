@@ -163,7 +163,7 @@
 - [iann0036/iamlive-lambda-extension](https://github.com/iann0036/iamlive-lambda-extension) - Lambda Extension for iamlive
 - [common-fate/iamzero](https://github.com/common-fate/iamzero) - Identity & Access Management simplified and secure.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
-- [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access your cloud.
+- [common-fate/granted](https://github.com/common-fate/granted) - The easiest way to access AWS.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [aidansteele/flowdog](https://github.com/aidansteele/flowdog) - Framework for inspecting and editing traffic in AWS VPCs
