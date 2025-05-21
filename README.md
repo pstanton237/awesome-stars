@@ -687,6 +687,7 @@
 
 ## Others 
 
+- [matthewdfuller/safer-scps](https://github.com/matthewdfuller/safer-scps) - Safer AWS SCP deployments via real-time monitoring
 - [aws-samples/data-perimeter-policy-examples](https://github.com/aws-samples/data-perimeter-policy-examples) - Example policies demonstrating how to implement a data perimeter on AWS.
 - [aws-samples/reinvent24](https://github.com/aws-samples/reinvent24) - Slides and other assets for the re:Invent 2024 KUB track
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
