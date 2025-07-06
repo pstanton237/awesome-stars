@@ -1361,7 +1361,6 @@
 
 ## electron 
 
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
@@ -2523,7 +2522,7 @@
 - [FX-HAO/keycloak-phone-authenticator](https://github.com/FX-HAO/keycloak-phone-authenticator) - Obtain token and reset password via SMS
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [aminohealth/wonk](https://github.com/aminohealth/wonk) - Wonk is a tool for combining a set of AWS policy files into smaller compiled policy sets.
-- [edge-minato/pypj](https://github.com/edge-minato/pypj) - Python project kick starter
+- [edge-m/pypj](https://github.com/edge-m/pypj) - Python project kick starter
 - [AndreiD/SlackUptimeMonitor](https://github.com/AndreiD/SlackUptimeMonitor) - Receive notifications in Slack when your websites/api/services are down
 - [lowlighter/downtime](https://github.com/lowlighter/downtime) - 💹 An uptime/response time monitor powered by GitHub Action. Generates status badges to embed everywhere, along with a static website with GitHub pages
 - [joeyespo/pytest-watch](https://github.com/joeyespo/pytest-watch) - Local continuous test runner with pytest and watchdog.
