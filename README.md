@@ -127,6 +127,7 @@
 
 ## Go 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files.
 - [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform configurations
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
@@ -924,6 +925,7 @@
 
 ## Python 
 
+- [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [ivanba-arch/cursor-chat-explorer](https://github.com/ivanba-arch/cursor-chat-explorer) - 
 - [dohsimpson/kubernetes-doc-pdf](https://github.com/dohsimpson/kubernetes-doc-pdf) - Kubernetes PDF Documentation
@@ -1386,7 +1388,6 @@
 - [openstack/bashate](https://github.com/openstack/bashate) - Code style enforcement for bash programs. Mirror of code maintained at opendev.org.
 - [bdclark/awsenv](https://github.com/bdclark/awsenv) - Set profile-based AWS environment variables with ease.
 - [charithd/aws_ec2-cpu_analyzer](https://github.com/charithd/aws_ec2-cpu_analyzer) - Python (Boto3) tool to identify underutilized AWS instances
-- [gavagiuc/ec2-inventory-report](https://github.com/gavagiuc/ec2-inventory-report) - Python script to generate a xlsx report containing all EC2 instances in AWS account.
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch
 - [jeshan/botostubs](https://github.com/jeshan/botostubs) - boto3 code assistance for any API in any IDE, always up to date
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
@@ -1681,7 +1682,6 @@
 - [hashicorp/vault-guides](https://github.com/hashicorp/vault-guides) - Example usage of HashiCorp Vault secrets management
 - [moomindani/aws-mon-linux](https://github.com/moomindani/aws-mon-linux) - Bash script that reports custom metric data about Linux performance to Amazon CloudWatch
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [belak/prezto-contrib](https://github.com/belak/prezto-contrib) - A set of additional plugins designed to work easily with prezto
 - [StackStorm/st2-docker](https://github.com/StackStorm/st2-docker) - StackStorm docker-compose deployment
 - [Integralist/Shell-Scripts](https://github.com/Integralist/Shell-Scripts) - Collection of custom utility shell scripts
@@ -1831,6 +1831,7 @@
 
 ## Vim Script 
 
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 
 ## Vue 
