@@ -365,7 +365,7 @@
 - [cloudposse-archives/terraform-aws-iam-policy-document-aggregator](https://github.com/cloudposse-archives/terraform-aws-iam-policy-document-aggregator) - Terraform module to aggregate multiple IAM policy documents into single policy document.
 - [mozmeao/infra](https://github.com/mozmeao/infra) - Mozilla Marketing Engineering and Operations Infrastructure
 - [Voronenko/devops-tf-eks](https://github.com/Voronenko/devops-tf-eks) - terraform baked AWS kubernetes cluster (EKS) - 1.18 compatible
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Vagrant, Puppet, Lambda, Python, Perl, Bash, Ruby, Golang, Java, Scala, Groo
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for AWS, GCP, Docker, CI/CD, Kubernetes, Terraform, Packer, Jenkins, CircleCI, GitHub Actions, Vagrant, Puppet, Lambda, Python, Perl, Bash, Ruby, Golang, Java, Scal
 - [terraform-aws-modules/terraform-aws-pricing](https://github.com/terraform-aws-modules/terraform-aws-pricing) - Terraform module which calculates price of AWS infrastructure (from Terraform state and plan) 🇺🇦
 - [cloudposse/terraform-null-label](https://github.com/cloudposse/terraform-null-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
 - [transcend-io/terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
@@ -1616,7 +1616,7 @@
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - Create, List, Update, Delete Amazon EKS clusters. Deploy and manage software on EKS. Run distributed model training and inference examples.
 - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
-- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
+- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
 - [mbelloiseau/website-monitoring](https://github.com/mbelloiseau/website-monitoring) - Monitore your websites availability, http status code (current and history), certificate, redirects and more with Grafana and Prometheus blackbox exporter.
 - [reviewdog/action-tflint](https://github.com/reviewdog/action-tflint) - Run tflint with reviewdog on pull requests to enforce best practices
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
