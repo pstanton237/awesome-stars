@@ -1138,7 +1138,7 @@
 - [cuemacro/findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
 - [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [hackingthemarkets/supertrend-crypto-bot](https://github.com/hackingthemarkets/supertrend-crypto-bot) - supertrend bot using python, pandas, and ccxt
 - [hackingthemarkets/stockscreener](https://github.com/hackingthemarkets/stockscreener) - Build a Stock Screener using FastAPI (Python)
 - [hackingthemarkets/candlestick-screener](https://github.com/hackingthemarkets/candlestick-screener) - web-based technical screener for candlestick patterns using Python and Flask
@@ -1685,6 +1685,7 @@
 - [hashicorp/vault-guides](https://github.com/hashicorp/vault-guides) - Example usage of HashiCorp Vault secrets management
 - [moomindani/aws-mon-linux](https://github.com/moomindani/aws-mon-linux) - Bash script that reports custom metric data about Linux performance to Amazon CloudWatch
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [belak/prezto-contrib](https://github.com/belak/prezto-contrib) - A set of additional plugins designed to work easily with prezto
 - [StackStorm/st2-docker](https://github.com/StackStorm/st2-docker) - StackStorm docker-compose deployment
 - [Integralist/Shell-Scripts](https://github.com/Integralist/Shell-Scripts) - Collection of custom utility shell scripts
@@ -1742,6 +1743,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [lifeinchords/cursor-diamonds](https://github.com/lifeinchords/cursor-diamonds) - [Vibe coding experiment] Explore and export your precious Cursor chat history
@@ -1836,7 +1838,6 @@
 
 ## Vim Script 
 
-- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 
 ## Vue 
