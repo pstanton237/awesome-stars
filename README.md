@@ -1774,7 +1774,7 @@
 - [aws-samples/amazon-q-slack-gateway](https://github.com/aws-samples/amazon-q-slack-gateway) - 
 - [chralp/heyburrito](https://github.com/chralp/heyburrito) - Slack application HeyBurrito! :burrito:
 - [gaganpreet/fastapi-starter](https://github.com/gaganpreet/fastapi-starter) - A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress
-- [llami-team/friday-gpt](https://github.com/llami-team/friday-gpt) - Assign R&R to AI to proceed with programming tasks
+- [hmmhmmhm/friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - Assign R&R to AI to proceed with programming tasks
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
