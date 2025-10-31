@@ -1130,7 +1130,7 @@
 - [stash86/MultiMA_TSL](https://github.com/stash86/MultiMA_TSL) - 
 - [devbootstrap/freqtrade-hyperopt-running-in-cloud-example](https://github.com/devbootstrap/freqtrade-hyperopt-running-in-cloud-example) - An example of optimizing an existing strategy using Freqtrade Hyperopt Parameters
 - [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
-- [aminohealth/wonk](https://github.com/aminohealth/wonk) - Wonk is a tool for combining a set of AWS policy files into smaller compiled policy sets.
+- [kstrauser/wonk](https://github.com/kstrauser/wonk) - Wonk is a tool for combining a set of AWS policy files into smaller compiled policy sets.
 - [edge-m/pypj](https://github.com/edge-m/pypj) - Python project kick starter
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
