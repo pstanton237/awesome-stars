@@ -1690,6 +1690,7 @@
 
 ## golang 
 
+- [cage1016/ak](https://github.com/cage1016/ak) - A generator for golang alfred workflow that helps you create boilerplate code.
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
