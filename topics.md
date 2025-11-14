@@ -410,7 +410,7 @@
 - [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
-- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -1121,7 +1121,7 @@
 - [aws-samples/aws-multi-region-multi-account-config-status-dashboard](https://github.com/aws-samples/aws-multi-region-multi-account-config-status-dashboard) - 
 - [lalamove/konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era
 - [awslabs/aws-config-to-elasticsearch](https://github.com/awslabs/aws-config-to-elasticsearch) - Generates an AWS Config Snapshot and ingests it into ElasticSearch for further analysis using Kibana
-- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 
 ## continuous-integration 
 
@@ -2533,7 +2533,7 @@
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
 - [denisbalber/IDESync-VSCode-JetBrains](https://github.com/denisbalber/IDESync-VSCode-JetBrains) - A synchronization system that allows seamless switching between VSCode and JetBrains IDEs while maintaining the current file and cursor position.
 - [aws-samples/reinvent24](https://github.com/aws-samples/reinvent24) - Slides and other assets for the re:Invent 2024 KUB track
-- [aws-samples/amazon-bedrock-client-for-mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac) - A modern, native macOS client for Amazon Bedrock, providing streamlined access to AI models directly from your desktop.
+- [aws-samples/amazon-bedrock-client-for-mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac) - A native macOS client that brings Amazon Bedrock's AI models directly to your desktop. Access Claude Sonnet 4.5, Opus 4, and other foundation models through a clean interface designed for macOS, with 
 - [aws-samples/claude-prompt-generator](https://github.com/aws-samples/claude-prompt-generator) - 
 - [cosimo/route53-transfer-ng](https://github.com/cosimo/route53-transfer-ng) - Easily backup and restore AWS Route53 dns zones
 - [DropbaseHQ/dropbase](https://github.com/DropbaseHQ/dropbase) - Dropbase helps developers build and prototype web apps faster with AI. Dropbase is local-first and self hosted.
@@ -3588,11 +3588,11 @@
 - [carlosesilva/reinvent-planner](https://github.com/carlosesilva/reinvent-planner) - Plan your AWS re:Invent 2019 sessions by visualizing it in a calendar.
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
-- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [nccgroup/aws-inventory](https://github.com/nccgroup/aws-inventory) - Discover resources created in an AWS account.
 - [clamarque/kibana_health_metric_vis](https://github.com/clamarque/kibana_health_metric_vis) - Plugin for kibana Version 4.x, 5.x, 6.x and 7.x to change color of metric depending to the planned state of health
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 
 ## reactjs 
 
