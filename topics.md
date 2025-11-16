@@ -2860,7 +2860,6 @@
 - [1Strategy/visualize-cur-using-glue-es](https://github.com/1Strategy/visualize-cur-using-glue-es) - This solution provides a serverless way to visualized AWS Cost and Usage report using AWS Glue and Elasticsearch Services.
 - [concurrencylabs/aws-pricing-tools](https://github.com/concurrencylabs/aws-pricing-tools) - Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.
 - [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly
-- [yousefvand/shellman-ebook](https://github.com/yousefvand/shellman-ebook) - Guide on shell scripting with Shellman vscode snippet
 - [opencredo/terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [apparentlymart/terraform-clean-syntax](https://github.com/apparentlymart/terraform-clean-syntax) - A simple tool for Terraform language syntax cleanup, extending terraform fmt
 - [jramer/bitbar-corona](https://github.com/jramer/bitbar-corona) - A bitbar plugin for info on the spread of the corona virus
@@ -2878,7 +2877,6 @@
 - [sbusso/Bear-Power-Pack](https://github.com/sbusso/Bear-Power-Pack) - A collection of workflows enhancing Bear writer app on iOS and Mac.
 - [jkueh/aws-rolex](https://github.com/jkueh/aws-rolex) - AWS Role Extension (AWS RolEx) - A little browser extension to make the role selection page a bit more tolerable :)
 - [ThreatResponse/aws_ir](https://github.com/ThreatResponse/aws_ir) - Python installable command line utiltity for mitigation of host and key compromises.
-- [yousefvand/shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
 - [maxsivanov/influxdb-timeshift-proxy](https://github.com/maxsivanov/influxdb-timeshift-proxy) - Add timeshift feature to influxdb for grafana users with mathematics between metrics feature
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [jnarayanan/AWS-Workspaces-Portal](https://github.com/jnarayanan/AWS-Workspaces-Portal) - AWS-Workspaces-Portal
