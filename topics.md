@@ -235,6 +235,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
@@ -260,6 +261,7 @@
 
 ## ai-agents 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [openops-cloud/openops](https://github.com/openops-cloud/openops) - The batteries-included, No-Code FinOps automation platform, with the AI you trust.
@@ -975,6 +977,7 @@
 - [regenrek/peakypanes](https://github.com/regenrek/peakypanes) - A dead simple tmux Project Manager with YAML-based layouts
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -2574,6 +2577,7 @@
 
 ## others 
 
+- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude 
 - [walles/riff](https://github.com/walles/riff) - A syntax highter for diffs, clarifying which parts of lines have changed
 - [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -2590,7 +2594,6 @@
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [goniszewski/cctray](https://github.com/goniszewski/cctray) - macOS menu bar app for monitoring Claude Code usage
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [sivchari/ccowl](https://github.com/sivchari/ccowl) - A cross-platform status bar application that monitors Claude Code usage in real-time.
@@ -4104,6 +4107,7 @@
 - [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [phzietsman/aws-slack-clickoops-watcher](https://github.com/phzietsman/aws-slack-clickoops-watcher) - Get alerts when people are using the AWS console to modify create or modify resources.
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [TastefulElk/iam-legend](https://github.com/TastefulElk/iam-legend) - IAM policy actions autocomplete, documentation & wildcard resolution for VS Code
 - [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - Create, List, Update, Delete Amazon EKS clusters. Deploy and manage software on EKS. Run distributed model training and inference examples.
 - [antonbabenko/serverless.tf](https://github.com/antonbabenko/serverless.tf) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform.
