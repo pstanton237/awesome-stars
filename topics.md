@@ -2593,6 +2593,7 @@
 
 ## others 
 
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
 - [gupsammy/PortKiller](https://github.com/gupsammy/PortKiller) - Lightweight macOS menu bar app to monitor and kill processes on development ports
