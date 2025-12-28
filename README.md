@@ -126,7 +126,7 @@
 
 ## Go 
 
-- [regenrek/peakypanes](https://github.com/regenrek/peakypanes) - A dead simple tmux Project Manager with YAML-based layouts
+- [regenrek/peakypanes](https://github.com/regenrek/peakypanes) - A dead simple TUI Project Manager with YAML-based layouts
 - [cage1016/ak](https://github.com/cage1016/ak) - A generator for golang alfred workflow that helps you create boilerplate code.
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS Kubernetes Operator - "Argo CD for Terraform"
