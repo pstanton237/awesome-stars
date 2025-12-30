@@ -182,6 +182,7 @@
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -947,7 +948,7 @@
 - [ivanba-arch/cursor-chat-explorer](https://github.com/ivanba-arch/cursor-chat-explorer) - 
 - [dohsimpson/kubernetes-doc-pdf](https://github.com/dohsimpson/kubernetes-doc-pdf) - Kubernetes PDF Documentation
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
@@ -968,6 +969,7 @@
 - [normandmickey/MrsStax](https://github.com/normandmickey/MrsStax) - 
 - [aws-samples/fault-tolerance-analyser](https://github.com/aws-samples/fault-tolerance-analyser) - 
 - [aws-solutions-library-samples/aws-health-events-insight](https://github.com/aws-solutions-library-samples/aws-health-events-insight) - This Guidance demonstrates how to analyze AWS Health events across multiple AWS accounts using natural language queries and generative business intelligence. Organizations managing thousands of AWS re
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [fzyzcjy/grafana_dashboard_python](https://github.com/fzyzcjy/grafana_dashboard_python) - Write Grafana dashboards in Python, without losing thousands of dashboards in the zoo
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [domain-protect/domain-protect](https://github.com/domain-protect/domain-protect) - OWASP Domain Protect - prevent subdomain takeover
@@ -1151,7 +1153,6 @@
 - [cuemacro/findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
 - [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - This repository contains a collection of awesome tools and scripts for Developers and Engineers seeking to automate routine tasks on AWS Cloud.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [hackingthemarkets/supertrend-crypto-bot](https://github.com/hackingthemarkets/supertrend-crypto-bot) - supertrend bot using python, pandas, and ccxt
 - [hackingthemarkets/stockscreener](https://github.com/hackingthemarkets/stockscreener) - Build a Stock Screener using FastAPI (Python)
 - [hackingthemarkets/candlestick-screener](https://github.com/hackingthemarkets/candlestick-screener) - web-based technical screener for candlestick patterns using Python and Flask
@@ -1792,7 +1793,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
