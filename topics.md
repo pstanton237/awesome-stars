@@ -1294,7 +1294,7 @@
 
 ## developer-tools 
 
-- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS app for finding and killing processes on open ports. Perfect for developers.
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -2129,7 +2129,7 @@
 
 ## kubernetes 
 
-- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS app for finding and killing processes on open ports. Perfect for developers.
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS Kubernetes Operator - "Argo CD for Terraform"
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
@@ -2334,7 +2334,7 @@
 
 ## macos 
 
-- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS app for finding and killing processes on open ports. Perfect for developers.
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -4040,7 +4040,7 @@
 
 ## swift 
 
-- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS app for finding and killing processes on open ports. Perfect for developers.
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
@@ -4052,7 +4052,7 @@
 
 ## swiftui 
 
-- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS app for finding and killing processes on open ports. Perfect for developers.
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [mohamed-arradi/AirpodsBattery-Monitor-For-Mac](https://github.com/mohamed-arradi/AirpodsBattery-Monitor-For-Mac) - Your AirPods Battery levels at your status bar | MacOS | Widget
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [godbout/kindaVim.blahblah](https://github.com/godbout/kindaVim.blahblah) - Ultimate Vim Mode for macOS
@@ -4370,6 +4370,7 @@
 
 ## windows 
 
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
