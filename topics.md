@@ -206,6 +206,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [userscript](#userscript)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visualization](#visualization)
@@ -2604,7 +2605,7 @@
 - [walles/riff](https://github.com/walles/riff) - A syntax highter for diffs, clarifying which parts of lines have changed
 - [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
@@ -2865,7 +2866,7 @@
 - [simonw/iam-to-sqlite](https://github.com/simonw/iam-to-sqlite) - Load Amazon IAM data into a SQLite database
 - [thought-machine/aws-service-quotas-exporter](https://github.com/thought-machine/aws-service-quotas-exporter) - Exports AWS service quotas as Prometheus metrics
 - [googleinterns/terraform-cost-estimation](https://github.com/googleinterns/terraform-cost-estimation) - Cost Estimation for GCP infrastructure deployed by Terraform
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [jetbrains-infra/terraform-examples](https://github.com/jetbrains-infra/terraform-examples) - Examples of terraform projects
 - [jchrisfarris/aws-interesting-api-calls](https://github.com/jchrisfarris/aws-interesting-api-calls) - Inventory of AWS API Calls of Significance to Security
 - [jchrisfarris/detect-credential-compromise](https://github.com/jchrisfarris/detect-credential-compromise) - Cloudformation Template and Lambda to detect if Instance Profile credentials are being used outside your AWS Account.
@@ -2929,7 +2930,6 @@
 - [aws-samples/aws-account-vending-machine](https://github.com/aws-samples/aws-account-vending-machine) - This repository contains various versions of the account vending machine used to provision AWS accounts with custom configurations
 - [Peter-Slump/python-keycloak-client](https://github.com/Peter-Slump/python-keycloak-client) - Python Client for Keycloak identity and access management service
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) - 
-- [jamesoff/tamper-console](https://github.com/jamesoff/tamper-console) - Userscript to teach AWS Console keyboard shortcuts
 - [easttimor/aws-incident-response](https://github.com/easttimor/aws-incident-response) - 
 - [cloudacademy/athena-sg-analyser](https://github.com/cloudacademy/athena-sg-analyser) - Athena Security Group Analyser Queries
 - [trek10inc/awsets](https://github.com/trek10inc/awsets) - A utility for crawling an AWS account and exporting all its resources for further analysis.
@@ -4296,6 +4296,14 @@
 ## ui-design 
 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+
+## userscript 
+
+- [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
+- [adamlui/chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ↻ Keeps ChatGPT sessions fresh, eliminating chat time limits + network errors + Cloudflare checks
+- [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
+- [jamesoff/tamper-console](https://github.com/jamesoff/tamper-console) - Userscript to teach AWS Console keyboard shortcuts
+- [disjukr/just-news](https://github.com/disjukr/just-news) - a userscript project that parses korean news site and then making more readable view
 
 ## vagrant 
 
