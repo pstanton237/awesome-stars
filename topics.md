@@ -2611,6 +2611,7 @@
 
 ## others 
 
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [gupsammy/PortKiller](https://github.com/gupsammy/PortKiller) - Lightweight macOS menu bar app to monitor and kill processes on development ports
@@ -2965,7 +2966,7 @@
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [scopely-devops/skew](https://github.com/scopely-devops/skew) - 
-- [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional/semantic commits.
+- [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional commits.
 - [doublejim/tree-style-tab-compact-dark-style](https://github.com/doublejim/tree-style-tab-compact-dark-style) - A dark, compact style for Tree Style Tab by Piro (Firefox Extension).
 - [3pillarlabs/aws-billing-visualization](https://github.com/3pillarlabs/aws-billing-visualization) - 
 - [1Strategy/visualize-cur-using-glue-es](https://github.com/1Strategy/visualize-cur-using-glue-es) - This solution provides a serverless way to visualized AWS Cost and Usage report using AWS Glue and Elasticsearch Services.
