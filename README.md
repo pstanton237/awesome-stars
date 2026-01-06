@@ -637,7 +637,7 @@
 - [codota/tabnine-intellij](https://github.com/codota/tabnine-intellij) - Jetbrains IDEs client for TabNine. Compatible with all IntelliJ-based IDEs. https://plugins.jetbrains.com/plugin/12798-tabnine
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
 - [tonybaloney/pycharm-security](https://github.com/tonybaloney/pycharm-security) - Finds security holes in your Python projects from PyCharm and GitHub
-- [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional/semantic commits.
+- [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional commits.
 - [spinnaker/swabbie](https://github.com/spinnaker/swabbie) - Spinnaker's clean up service
 
 ## Lua 
@@ -1767,6 +1767,7 @@
 
 ## TypeScript 
 
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude 
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
