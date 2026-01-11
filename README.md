@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [regenrek/peakypanes](https://github.com/regenrek/peakypanes) - A dead simple TUI Project Manager with YAML-based layouts
 - [cage1016/ak](https://github.com/cage1016/ak) - A generator for golang alfred workflow that helps you create boilerplate code.
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
@@ -1617,7 +1618,7 @@
 - [vladvasiliu/aws-health-exporter-rs](https://github.com/vladvasiliu/aws-health-exporter-rs) - AWS Health exporter for Prometheus
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [mike-engel/jwt-cli](https://github.com/mike-engel/jwt-cli) - A super fast CLI tool to decode and encode JWTs built in Rust
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 
 ## Scala 
