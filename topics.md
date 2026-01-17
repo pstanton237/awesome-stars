@@ -398,7 +398,7 @@
 
 ## awesome 
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -458,7 +458,7 @@
 
 ## awesome-list 
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -2291,6 +2291,7 @@
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -4099,7 +4100,6 @@
 ## telegram-bot 
 
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
-- [lorcalhost/BTB-manager-telegram](https://github.com/lorcalhost/BTB-manager-telegram) - A feature packed but easy-to-use Telegram bot for remotely managing Binance Trade Bot instances
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## terminal 
@@ -4261,7 +4261,6 @@
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
-- [lorcalhost/BTB-manager-telegram](https://github.com/lorcalhost/BTB-manager-telegram) - A feature packed but easy-to-use Telegram bot for remotely managing Binance Trade Bot instances
 
 ## tui 
 
