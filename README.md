@@ -49,7 +49,6 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -348,6 +347,7 @@
 
 ## Go Template 
 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 
 ## Groovy 
@@ -648,7 +648,7 @@
 
 ## Lua 
 
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [riskprofiler/CloudFrontier](https://github.com/riskprofiler/CloudFrontier) - Monitor the internet attack surface of various public cloud environments. Currently supports AWS, GCP, Azure, DigitalOcean and Oracle Cloud.
 - [zmallen/robin](https://github.com/zmallen/robin) - 
 
@@ -1732,10 +1732,6 @@
 - [hurulu/idrac-configure-script](https://github.com/hurulu/idrac-configure-script) - Using racadm to configure idrac under command line
 - [cirosantilli/linux-cheat](https://github.com/cirosantilli/linux-cheat) - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities. Linux kernel at: https://github.com/cirosantilli/linux-kernel-module-cheat Linux教程和备忘单。 最少的例子。 主要是用户级CLI实用程序。 Linux内核
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-
-## Smarty 
-
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Svelte 
 
