@@ -44,7 +44,6 @@
 - [Puppet](#puppet)
 - [Python](#python)
 - [R](#r)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -479,6 +478,7 @@
 - [amazon-archives/cloudwatch-logs-subscription-consumer](https://github.com/amazon-archives/cloudwatch-logs-subscription-consumer) - A specialized Amazon Kinesis stream reader (based on the Amazon Kinesis Connector Library) that can help you deliver data from Amazon CloudWatch Logs to any other system in near real-time using a Clou
 - [pinterest/soundwave](https://github.com/pinterest/soundwave) - A searchable EC2 Inventory store
 - [qyjohn/AWS_Tutorials](https://github.com/qyjohn/AWS_Tutorials) - 
+- [vlsi/ksar](https://github.com/vlsi/ksar) - A sar grapher, fork of http://sourceforge.net/projects/ksar/
 - [elasticfence/elasticsearch-http-user-auth](https://github.com/elasticfence/elasticsearch-http-user-auth) - HTTP Basic Authentication and IP ACL plugin for Elasticsearch :key: (UNMAINTAINED)
 
 ## JavaScript 
@@ -1549,10 +1549,6 @@
 ## R 
 
 - [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) - Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats
-
-## Roff 
-
-- [vlsi/ksar](https://github.com/vlsi/ksar) - A sar grapher, fork of http://sourceforge.net/projects/ksar/
 
 ## Ruby 
 
