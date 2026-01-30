@@ -3143,7 +3143,6 @@
 - [Yipit/awslimits](https://github.com/Yipit/awslimits) - 
 - [datadudes/athena](https://github.com/datadudes/athena) - Interact with your Hadoop cluster from the convenience of your local command line.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-- [ridi/style-guide](https://github.com/ridi/style-guide) - 📘 Rules of Play @ RIDI
 - [knowshan/c7n-docker](https://github.com/knowshan/c7n-docker) - Cloud Custodian Docker images for end-users developing on top of base c7n
 - [prometheus-community/yet-another-cloudwatch-exporter](https://github.com/prometheus-community/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 - [davestern/ansible-init](https://github.com/davestern/ansible-init) - An ansible playbook for creating ansible playbooks
