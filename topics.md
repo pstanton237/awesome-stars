@@ -2971,7 +2971,7 @@
 - [3pillarlabs/aws-billing-visualization](https://github.com/3pillarlabs/aws-billing-visualization) - 
 - [1Strategy/visualize-cur-using-glue-es](https://github.com/1Strategy/visualize-cur-using-glue-es) - This solution provides a serverless way to visualized AWS Cost and Usage report using AWS Glue and Elasticsearch Services.
 - [concurrencylabs/aws-pricing-tools](https://github.com/concurrencylabs/aws-pricing-tools) - Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.
-- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly
+- [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy has been discontinued.
 - [opencredo/terrahelp](https://github.com/opencredo/terrahelp) - Terraform helper. Terrahelp is as a command line utility written in Go and is aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [apparentlymart/terraform-clean-syntax](https://github.com/apparentlymart/terraform-clean-syntax) - A simple tool for Terraform language syntax cleanup, extending terraform fmt
 - [jramer/bitbar-corona](https://github.com/jramer/bitbar-corona) - A bitbar plugin for info on the spread of the corona virus
