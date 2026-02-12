@@ -2669,7 +2669,6 @@
 - [roeniss/dhlottery-api](https://github.com/roeniss/dhlottery-api) - 비공식 동행복권 API
 - [techinpark/lottery-bot](https://github.com/techinpark/lottery-bot) - 매주 동행복권 자동구매 하고 당첨되면 알려드려요 💰  (Github Action)
 - [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container) - Firefox extension to open external links in a specific container
-- [ScaleSec/terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp) - AWS Organizations Service Control Policies (SCPs) written in HashiCorp Terraform.
 - [mnagel/clustergit](https://github.com/mnagel/clustergit) - run git commands on multiple git clones
 - [johngrib/fav-dir](https://github.com/johngrib/fav-dir) - Jump to your favorite directories in bash using fzf.
 - [myoung34/yawps](https://github.com/myoung34/yawps) - Yet Another Workflow Parser for SecurityHub
