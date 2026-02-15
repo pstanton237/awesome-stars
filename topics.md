@@ -913,7 +913,7 @@
 - [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
 - [nsonaniya2010/SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer) - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github.
 - [TypeError/domained](https://github.com/TypeError/domained) - Multi Tool Subdomain Enumeration
-- [guelfoweb/knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
+- [guelfoweb/knockpy](https://github.com/guelfoweb/knockpy) - Knock Subdomain Scan
 
 ## c 
 
@@ -3333,7 +3333,7 @@
 ## penetration-testing 
 
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-- [guelfoweb/knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
+- [guelfoweb/knockpy](https://github.com/guelfoweb/knockpy) - Knock Subdomain Scan
 - [jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 
 ## pentesting 
@@ -3887,7 +3887,7 @@
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [TypeError/domained](https://github.com/TypeError/domained) - Multi Tool Subdomain Enumeration
-- [guelfoweb/knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
+- [guelfoweb/knockpy](https://github.com/guelfoweb/knockpy) - Knock Subdomain Scan
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) - A collection of links related to Linux kernel security and exploitation
 
