@@ -516,7 +516,7 @@
 
 ## aws 
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) - Official AWS MCP Servers
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
 - [matthewdfuller/safer-scps](https://github.com/matthewdfuller/safer-scps) - Safer AWS SCP deployments via real-time monitoring
 - [aws-samples/data-perimeter-policy-examples](https://github.com/aws-samples/data-perimeter-policy-examples) - Example policies demonstrating how to implement a data perimeter on AWS.
 - [aws-solutions-library-samples/aws-health-events-insight](https://github.com/aws-solutions-library-samples/aws-health-events-insight) - This Guidance demonstrates how to analyze AWS Health events across multiple AWS accounts using natural language queries and generative business intelligence. Organizations managing thousands of AWS re
@@ -611,7 +611,7 @@
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 - [JohannesEbke/aws_list_all](https://github.com/JohannesEbke/aws_list_all) - List all your AWS resources, all regions, all services.
-- [laughingman7743/PyAthena](https://github.com/laughingman7743/PyAthena) - PyAthena is a Python DB API 2.0 (PEP 249) client for Amazon Athena.
+- [pyathena-dev/PyAthena](https://github.com/pyathena-dev/PyAthena) - PyAthena is a Python DB API 2.0 (PEP 249) client for Amazon Athena.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
@@ -2396,7 +2396,7 @@
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
-- [awslabs/mcp](https://github.com/awslabs/mcp) - Official AWS MCP Servers
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -3561,7 +3561,7 @@
 - [beeware/briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
-- [laughingman7743/PyAthena](https://github.com/laughingman7743/PyAthena) - PyAthena is a Python DB API 2.0 (PEP 249) client for Amazon Athena.
+- [pyathena-dev/PyAthena](https://github.com/pyathena-dev/PyAthena) - PyAthena is a Python DB API 2.0 (PEP 249) client for Amazon Athena.
 - [cloudtools/awacs](https://github.com/cloudtools/awacs) - Python library for AWS Access Policy Language creation
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
