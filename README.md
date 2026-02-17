@@ -482,6 +482,7 @@
 
 ## JavaScript 
 
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [JSpiner/viber](https://github.com/JSpiner/viber) - 
 - [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
