@@ -958,7 +958,7 @@
 - [ivanba-arch/cursor-chat-explorer](https://github.com/ivanba-arch/cursor-chat-explorer) - 
 - [dohsimpson/kubernetes-doc-pdf](https://github.com/dohsimpson/kubernetes-doc-pdf) - Kubernetes PDF Documentation
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
@@ -1055,7 +1055,7 @@
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [rochacbruno/fastapi-project-template](https://github.com/rochacbruno/fastapi-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [ycd/manage-fastapi](https://github.com/ycd/manage-fastapi) - :rocket: CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [m-vdb/slack-randompicker](https://github.com/m-vdb/slack-randompicker) - Pick a random person from a group or channel in Slack
 - [aws-samples/simple-anomaly-detection-solution](https://github.com/aws-samples/simple-anomaly-detection-solution) - 
 - [vipul-sharma20/slate](https://github.com/vipul-sharma20/slate) - Self hosted Slack app for daily standups
