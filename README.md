@@ -1630,6 +1630,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher
 - [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) - Use cURL with cookies from Chrome
@@ -1649,7 +1650,7 @@
 - [reviewdog/action-tflint](https://github.com/reviewdog/action-tflint) - Run tflint with reviewdog on pull requests to enforce best practices
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading.
 - [DenizParlak/hayat](https://github.com/DenizParlak/hayat) - Hayat is a script for report and analyze Google Cloud Platform resources.
 - [GoogleCloudPlatform/istio-samples](https://github.com/GoogleCloudPlatform/istio-samples) - Istio demos and sample applications for GCP
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
