@@ -902,7 +902,7 @@
 
 ## bot 
 
-- [sebseager/slack-exporter](https://github.com/sebseager/slack-exporter) - A Slack bot for exporting content from public and private channels.
+- [sebseager/slack-exporter](https://github.com/sebseager/slack-exporter) - A Slack bot for exporting content from public and private channels
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
