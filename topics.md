@@ -625,7 +625,7 @@
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [ACloudGuru/serverless-plugin-aws-alerts](https://github.com/ACloudGuru/serverless-plugin-aws-alerts) - A Serverless Framework plugin that creates CloudWatch alarms for functions.
 - [serverless/serverless-python-requirements](https://github.com/serverless/serverless-python-requirements) - ⚡️🐍📦 Serverless plugin to bundle Python packages
-- [zoph-io/MAMIP](https://github.com/zoph-io/MAMIP) - Monitor AWS Managed IAM Policies Changes
+- [zoph-io/IAMTrail](https://github.com/zoph-io/IAMTrail) - IAMTrail
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [corollari/aws-color-region-navbar-extension](https://github.com/corollari/aws-color-region-navbar-extension) - OSS browser extension that changes the color of AWS' navbar depending on the region
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
@@ -3884,7 +3884,7 @@
 - [Netflix-Skunkworks/policyuniverse](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and Process AWS IAM Policies, Statements, ARNs, and wildcards.
 - [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management knowledge for cloud platforms
 - [tonybaloney/pycharm-security](https://github.com/tonybaloney/pycharm-security) - Finds security holes in your Python projects from PyCharm and GitHub
-- [zoph-io/MAMIP](https://github.com/zoph-io/MAMIP) - Monitor AWS Managed IAM Policies Changes
+- [zoph-io/IAMTrail](https://github.com/zoph-io/IAMTrail) - IAMTrail
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
 - [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
