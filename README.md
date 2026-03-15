@@ -1853,7 +1853,7 @@
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
-- [zoph-io/MAMIP](https://github.com/zoph-io/MAMIP) - Monitor AWS Managed IAM Policies Changes
+- [zoph-io/IAMTrail](https://github.com/zoph-io/IAMTrail) - IAMTrail
 - [mpyw/aws-lambda-billing-slack-notification](https://github.com/mpyw/aws-lambda-billing-slack-notification) - Node.js 14 以降向けの AWS 当月利用料金 Slack 通知スクリプト
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
