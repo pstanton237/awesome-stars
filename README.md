@@ -570,7 +570,6 @@
 - [cloudconformity/auto-remediate](https://github.com/cloudconformity/auto-remediate) - Cloud Conformity Auto Remediate
 - [arabold/aws-to-slack](https://github.com/arabold/aws-to-slack) - Forward AWS CloudWatch Alarms and other notifications from Amazon SNS to Slack.
 - [awslabs/aws-multi-account-viewer](https://github.com/awslabs/aws-multi-account-viewer) - Serverless app designed for any customer with two or more accounts to view resources across accounts/regions in simple single pane of glass website
-- [jncharon/aws_console_extension](https://github.com/jncharon/aws_console_extension) - This extension changes the AWS console header color depending on the region you selected. This visual hint will help you avoid creating resources in the wrong region !
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [justeat/JustSupport](https://github.com/justeat/JustSupport) - 
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
