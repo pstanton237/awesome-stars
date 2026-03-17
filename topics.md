@@ -3114,7 +3114,6 @@
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [mozilla/guardduty-multi-account-manager](https://github.com/mozilla/guardduty-multi-account-manager) - Automate the AWS GuardDuty account invitation lifecycle for all of your organizations AWS accounts in all regions as well as aggregate and normalize the GuardDuty findings
 - [johngrib/droller](https://github.com/johngrib/droller) - A command-line tool that randomly recommends one of the URIs you haven't read forever.
-- [jncharon/aws_console_extension](https://github.com/jncharon/aws_console_extension) - This extension changes the AWS console header color depending on the region you selected. This visual hint will help you avoid creating resources in the wrong region !
 - [naveen-vijay/awsiamlogin](https://github.com/naveen-vijay/awsiamlogin) - AWS IAM Login makes it easy to navigate across multiple AWS accounts through bookmarks.
 - [awskrug/architecture-group](https://github.com/awskrug/architecture-group) - AWSKRUG architecutre small group
 - [leehosung/awesome-devteam](https://github.com/leehosung/awesome-devteam) - 좋은 개발팀을 만드는데 도움이 되는 자료
