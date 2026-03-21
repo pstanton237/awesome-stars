@@ -716,6 +716,7 @@
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [miztiik/aws-real-time-use-cases](https://github.com/miztiik/aws-real-time-use-cases) - Repo of quick starts for real time AWS use cases 🎓
+- [ravsau/aws-cloud-cost-management](https://github.com/ravsau/aws-cloud-cost-management) - A collection of ways and tips to save money in the AWS cloud.
 - [jenkinsci/pipeline-aws-plugin](https://github.com/jenkinsci/pipeline-aws-plugin) - Jenkins Pipeline Step Plugin for AWS
 - [circa10a/go-aws-news](https://github.com/circa10a/go-aws-news) - Go app + library to fetch what's new from AWS
 - [katapultcloud/check_unattached_ebs_volumes](https://github.com/katapultcloud/check_unattached_ebs_volumes) - The script loops through all AWS regions where EC2 service is available, checks for unattached EBS volumes and calculates the price for them.
@@ -1422,6 +1423,7 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+- [ravsau/aws-cloud-cost-management](https://github.com/ravsau/aws-cloud-cost-management) - A collection of ways and tips to save money in the AWS cloud.
 - [arabold/aws-to-slack](https://github.com/arabold/aws-to-slack) - Forward AWS CloudWatch Alarms and other notifications from Amazon SNS to Slack.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [jordanwilson230/kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins) - A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).
@@ -3092,7 +3094,6 @@
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [anthcourtney/ansible-role-cis-amazon-linux](https://github.com/anthcourtney/ansible-role-cis-amazon-linux) - Ansible role to apply CIS Amazon Linux Benchmark v2.0.0
 - [alicek106/start-docker-kubernetes](https://github.com/alicek106/start-docker-kubernetes) - 시작하세요! 도커, 그리고 쿠버네티스 책에서 사용되는 예제를 정리한 저장소입니다.
-- [ravsau/aws-cloud-cost-management](https://github.com/ravsau/aws-cloud-cost-management) - A collection of ways and tips to save money in the AWS cloud.
 - [saltysoup/cost-optimization-multi](https://github.com/saltysoup/cost-optimization-multi) - multi account version of https://github.com/awslabs/cost-optimization-ec2-right-sizing
 - [bamos/zsh-history-analysis](https://github.com/bamos/zsh-history-analysis) - Plot your .zsh_history.
 - [devopswroclaw/presentations](https://github.com/devopswroclaw/presentations) - DevOps Wroclaw Meetup – Presentations
