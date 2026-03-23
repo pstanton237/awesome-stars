@@ -424,6 +424,7 @@
 - [dolevf/Open-Policy-Agent-Alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - Reasonably Usable Self-hosted Version of OPA's Playground
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 - [shahrviral/Mac-Setup](https://github.com/shahrviral/Mac-Setup) - Buy me a coffee / book / beer
@@ -633,7 +634,6 @@
 ## Jupyter Notebook 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [sharebook-kr/book-pandas-for-finance](https://github.com/sharebook-kr/book-pandas-for-finance) - 금융 데이터 분석을 위한 파이썬 Pandas
 - [awslabs/ec2-spot-labs](https://github.com/awslabs/ec2-spot-labs) - Collection of tools and code examples to demonstrate best practices in using Amazon EC2 Spot Instances.
 
@@ -1519,7 +1519,7 @@
 - [singleton11/SDB](https://github.com/singleton11/SDB) - Simple Django Boilerplate
 - [moul/alfred-workflow-pingport](https://github.com/moul/alfred-workflow-pingport) - :man: Ping TCP ports from Alfred
 - [mattweber/es2graphite](https://github.com/mattweber/es2graphite) - Send elasticsearch metrics to graphite
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [Tr3jer/dnsAutoRebinding](https://github.com/Tr3jer/dnsAutoRebinding) - ssrf、ssrfIntranetFuzz、dnsRebinding、recordEncode、dnsPoisoning、Support ipv4/ipv6
 - [karttoon/dnsQmon](https://github.com/karttoon/dnsQmon) - dnsQmon - Linux Python DNS Query Monitor
