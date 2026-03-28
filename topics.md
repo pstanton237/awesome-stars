@@ -280,7 +280,7 @@
 
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
@@ -1000,7 +1000,7 @@
 
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1323,8 +1323,9 @@
 
 ## developer-tools 
 
+- [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) - One dashboard to scan, find, and fix everything Claude Code loads — security scanner, context budget, scope management. npx @mcpware/claude-code-organizer
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect every tool call, subagent, and token like a browser inspector
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
@@ -1588,7 +1589,7 @@
 
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect every tool call, subagent, and token like a browser inspector
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
@@ -2342,7 +2343,7 @@
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -2356,6 +2357,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [hmmhmmhm/friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - 🔮 Assign R&R to AI to proceed with programming tasks
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
@@ -2453,8 +2455,9 @@
 
 ## mcp 
 
+- [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) - One dashboard to scan, find, and fix everything Claude Code loads — security scanner, context budget, scope management. npx @mcpware/claude-code-organizer
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -2684,6 +2687,7 @@
 
 ## others 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
@@ -3105,7 +3109,7 @@
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [houqp/vpcstudio](https://github.com/houqp/vpcstudio) - VPC design made easy
-- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [anthcourtney/ansible-role-cis-amazon-linux](https://github.com/anthcourtney/ansible-role-cis-amazon-linux) - Ansible role to apply CIS Amazon Linux Benchmark v2.0.0
 - [alicek106/start-docker-kubernetes](https://github.com/alicek106/start-docker-kubernetes) - 시작하세요! 도커, 그리고 쿠버네티스 책에서 사용되는 예제를 정리한 저장소입니다.
@@ -4184,7 +4188,7 @@
 ## terminal 
 
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -4347,7 +4351,7 @@
 
 ## tui 
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [regenrek/peky](https://github.com/regenrek/peky) - All your AI Agents like Claude Code, Codex CLI in a single TUI to keep things organized.
