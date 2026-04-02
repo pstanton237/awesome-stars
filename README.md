@@ -488,8 +488,9 @@
 
 ## JavaScript 
 
+- [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
-- [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) - One dashboard to scan, find, and fix everything Claude Code loads — security scanner, context budget, scope management. npx @mcpware/claude-code-organizer
+- [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) - Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-or
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [JSpiner/viber](https://github.com/JSpiner/viber) - 
@@ -704,6 +705,7 @@
 
 ## Others 
 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [matthewdfuller/safer-scps](https://github.com/matthewdfuller/safer-scps) - Safer AWS SCP deployments via real-time monitoring
@@ -1782,7 +1784,7 @@
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is an open‑source screen recorder for MacOS/Windows/Linux with auto-zoom, motion blur animated cursors, webcam overlays, auto-captions and more. Used to create product demos, guided walkthrou
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect every tool call, subagent, and token like a browser inspector
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
