@@ -111,6 +111,7 @@
 - [zcalusic/dockerfiles](https://github.com/zcalusic/dockerfiles) - A collection of Docker recipes.
 - [unchartedsky/prowler](https://github.com/unchartedsky/prowler) - Docker image for toniblyx/prowler
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
+- [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
 ## Elixir 
@@ -1605,7 +1606,7 @@
 - [gupsammy/PortKiller](https://github.com/gupsammy/PortKiller) - Lightweight macOS menu bar app to monitor and kill processes on development ports
 - [walles/riff](https://github.com/walles/riff) - A syntax highter for diffs, clarifying which parts of lines have changed
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -1728,7 +1729,6 @@
 - [swirepe/alwaysontop](https://github.com/swirepe/alwaysontop) - Keep the input line at the top of the terminal
 - [m4rcu5nl/docker-pdns-recursor-alpine](https://github.com/m4rcu5nl/docker-pdns-recursor-alpine) - Docker image for PowerDNS-recursor 4.1.9 on Alpine 3.8
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [chrisdaish/docker-squid](https://github.com/chrisdaish/docker-squid) - Slim image (18MB) of Squid 3.5.4 running under Alpine Linux 3.2.
 - [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) - Multi architecture simple SMTP server (postfix null relay) host for your Docker and Kubernetes containers. Based on Debian/Ubuntu/Alpine.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
