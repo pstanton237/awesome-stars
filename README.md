@@ -1748,6 +1748,7 @@
 
 ## Swift 
 
+- [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
@@ -1782,6 +1783,9 @@
 
 ## TypeScript 
 
+- [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
+- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
+- [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
@@ -1793,7 +1797,7 @@
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux that adds auto-zooms, animated cursors, auto-captions and more to your videos.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
