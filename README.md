@@ -564,7 +564,6 @@
 - [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest AWS SDK and Node.js v20!
 - [faultline/faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 - [carlosesilva/reinvent-planner](https://github.com/carlosesilva/reinvent-planner) - Plan your AWS re:Invent 2019 sessions by visualizing it in a calendar.
-- [rapid7/awsaml](https://github.com/rapid7/awsaml) - Awsaml is an application for providing automatically rotated temporary AWS credentials.
 - [iann0036/aws-account-controller](https://github.com/iann0036/aws-account-controller) - Self-service creation and deletion of sandbox-style accounts.
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [dwyl/learn-aws-lambda](https://github.com/dwyl/learn-aws-lambda) - ✨  Learn how to use AWS Lambda to easily create infinitely scalable web services
@@ -1748,7 +1747,7 @@
 
 ## Swift 
 
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - A clean, native markdown editor for macOS.
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac
 - [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -1821,7 +1820,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [Dwtexe/cursor-stats](https://github.com/Dwtexe/cursor-stats) - A Cursor extension that displays your Cursor Subscription usage statistics in the status bar.
 - [openops-cloud/openops](https://github.com/openops-cloud/openops) - The batteries-included, No-Code FinOps automation platform, with the AI you trust.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
