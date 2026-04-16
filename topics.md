@@ -1184,7 +1184,7 @@
 
 ## code-review 
 
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  | This repo is not the Qodo free tier! Try Qodo free tier, click the link
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
@@ -1569,7 +1569,7 @@
 - [geekmuse/cloud-custodian-docker](https://github.com/geekmuse/cloud-custodian-docker) - Containerized Deployment for Cloud Custodian
 - [osixia/docker-openldap-backup](https://github.com/osixia/docker-openldap-backup) - A docker image to run OpenLDAP, and make periodic backups 🐳
 - [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin) - phpLDAPadmin container image 🐳🌴
-- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🌴
+- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [smebberson/docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
@@ -2709,7 +2709,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  | This repo is not the Qodo free tier! Try Qodo free tier, click the link
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [ibizabroker/slack-hr-gpt](https://github.com/ibizabroker/slack-hr-gpt) - A generative AI HR slack bot.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -2735,6 +2735,7 @@
 
 ## others 
 
+- [zarazhangrui/tab-out](https://github.com/zarazhangrui/tab-out) - Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them.
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
 - [router-for-me/CLIProxyAPIPlus](https://github.com/router-for-me/CLIProxyAPIPlus) - The Plus version of CLIProxyAPI
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
