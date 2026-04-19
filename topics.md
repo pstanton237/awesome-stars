@@ -1004,6 +1004,7 @@
 
 ## claude-code 
 
+- [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code — monitor and manage multiple sessions from any browser
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) - A real-time monitoring dashboard for Claude Code
@@ -1356,6 +1357,7 @@
 
 ## developer-tools 
 
+- [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code — monitor and manage multiple sessions from any browser
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) - Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-or
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
@@ -1621,6 +1623,7 @@
 
 ## electron 
 
+- [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code — monitor and manage multiple sessions from any browser
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -2617,6 +2620,7 @@
 
 ## nextjs 
 
+- [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code — monitor and manage multiple sessions from any browser
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -4248,6 +4252,7 @@
 
 ## terminal 
 
+- [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code — monitor and manage multiple sessions from any browser
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -4438,6 +4443,7 @@
 
 ## typescript 
 
+- [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code — monitor and manage multiple sessions from any browser
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
