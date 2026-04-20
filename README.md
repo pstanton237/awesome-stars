@@ -623,7 +623,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [lyvius2/UsedBookApp](https://github.com/lyvius2/UsedBookApp) - 중고책 구매/매각가 검색 앱
+- [lyvius2/UsedBookApp](https://github.com/lyvius2/UsedBookApp) - 중고책 구매/매각가 검색 앱. A hybrid app for searching used book prices and comparing buyback offers across major Korean bookstores.
 - [aholstenson/miio](https://github.com/aholstenson/miio) - Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more
 
 ## Jinja 
@@ -1640,6 +1640,7 @@
 
 ## Shell 
 
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher
@@ -1786,6 +1787,7 @@
 
 ## TypeScript 
 
+- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code — monitor and manage multiple sessions from any browser
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e
