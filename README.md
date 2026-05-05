@@ -424,7 +424,7 @@
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [altalt-org/Lightning-SimulWhisper](https://github.com/altalt-org/Lightning-SimulWhisper) - An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance
-- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
+- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [dolevf/Open-Policy-Agent-Alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - Reasonably Usable Self-hosted Version of OPA's Playground
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
