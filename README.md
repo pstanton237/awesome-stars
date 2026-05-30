@@ -131,7 +131,7 @@
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [regenrek/peky](https://github.com/regenrek/peky) - All your AI Agents like Claude Code, Codex CLI in a single TUI to keep things organized.
 - [cage1016/ak](https://github.com/cage1016/ak) - A generator for golang alfred workflow that helps you create boilerplate code.
@@ -672,6 +672,7 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## Makefile 
 
@@ -890,7 +891,6 @@
 - [awslabs/ami-builder-packer](https://github.com/awslabs/ami-builder-packer) - An example of an AMI Builder using CI/CD with AWS CodePipeline, AWS CodeBuild, Hashicorp Packer and Ansible.
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [eskrug/meetup](https://github.com/eskrug/meetup) - 한국 Elasticsearch 사용자그룹 밋업 관련 자료들을 모아놓는 곳입니다. / Korea ES Usergroup Meetup resources
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [ellerbrock/chrome-extensions-for-webdeveloper](https://github.com/ellerbrock/chrome-extensions-for-webdeveloper) - :ox:  A list with useful Chrome Extensions
