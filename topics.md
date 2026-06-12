@@ -2831,6 +2831,8 @@
 
 ## others 
 
+- [epoko77-ai/design-diversity](https://github.com/epoko77-ai/design-diversity) - Claude Code 산출물의 디자인 다양성 확보 — 공개 디자인 시스템을 증류한 프롬프트형 디자인 팩 100종 카탈로그 (PPT 50 + 웹 50)
+- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 - [nogu66/open-computer-use](https://github.com/nogu66/open-computer-use) - 
 - [paraschopra/make-pages-interactive](https://github.com/paraschopra/make-pages-interactive) - 
@@ -3368,7 +3370,6 @@
 - [danielfm/aws-limits-exporter](https://github.com/danielfm/aws-limits-exporter) - Expose AWS service usage and limits to Prometheus
 - [cloudtools/ssh-ca](https://github.com/cloudtools/ssh-ca) - Management utilities to support a certificate authority for ssh keys
 - [L21s/keycloak-monitoring-prometheus](https://github.com/L21s/keycloak-monitoring-prometheus) - Monitor your keycloak with prometheus
-- [Yipit/awslimits](https://github.com/Yipit/awslimits) - 
 - [datadudes/athena](https://github.com/datadudes/athena) - Interact with your Hadoop cluster from the convenience of your local command line.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [knowshan/c7n-docker](https://github.com/knowshan/c7n-docker) - Cloud Custodian Docker images for end-users developing on top of base c7n
