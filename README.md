@@ -198,7 +198,6 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [jsonmaur/aws-regions](https://github.com/jsonmaur/aws-regions) - AWS Regions and Availability Zones
 - [c1982/awsdtc](https://github.com/c1982/awsdtc) - AWS Data Transfer Cost Explorer
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -951,6 +950,7 @@
 
 ## Python 
 
+- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1448,7 +1448,6 @@
 - [awslabs/aws-config-engine-for-compliance-as-code](https://github.com/awslabs/aws-config-engine-for-compliance-as-code) - Manage AWS Config Rules at scale in AWS multi-account and/or multi-region environment; with fully configurable deployment (RuleSets) and analytics.
 - [claranet/ssha](https://github.com/claranet/ssha) - SSH into AWS EC2 instances
 - [cloudtools/ssh-ca](https://github.com/cloudtools/ssh-ca) - Management utilities to support a certificate authority for ssh keys
-- [Yipit/awslimits](https://github.com/Yipit/awslimits) - 
 - [datadudes/athena](https://github.com/datadudes/athena) - Interact with your Hadoop cluster from the convenience of your local command line.
 - [Netflix/repokid](https://github.com/Netflix/repokid) - AWS Least Privilege for Distributed, High-Velocity Deployment
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
@@ -1802,6 +1801,7 @@
 
 ## TypeScript 
 
+- [epoko77-ai/design-diversity](https://github.com/epoko77-ai/design-diversity) - Claude Code 산출물의 디자인 다양성 확보 — 공개 디자인 시스템을 증류한 프롬프트형 디자인 팩 100종 카탈로그 (PPT 50 + 웹 50)
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 - [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
@@ -1897,6 +1897,7 @@
 - [towardsthecloud/cloudburn](https://github.com/towardsthecloud/cloudburn) - Open-source policy engine that blocks bad AWS spending patterns before they ship and remediates what's already burning.
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quick
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [futurice/terraform-monitor-lambda](https://github.com/futurice/terraform-monitor-lambda) - Monitors a Terraform repository and reports on configuration drift: changes that are in the repo, but not in the deployed infra, or vice versa. Hooks up to dashboards and alerts via CloudWatch or Infl
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
