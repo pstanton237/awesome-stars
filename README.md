@@ -955,7 +955,7 @@
 
 - [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [fivetaku/insane-search](https://github.com/fivetaku/insane-search) - Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
@@ -1804,7 +1804,7 @@
 ## TypeScript 
 
 - [ruru-m07/gitru](https://github.com/ruru-m07/gitru) - A Git Client.
-- [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
+- [zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [epoko77-ai/design-diversity](https://github.com/epoko77-ai/design-diversity) - Claude Code 산출물의 디자인 다양성 확보 — 공개 디자인 시스템을 증류한 프롬프트형 디자인 팩 100종 카탈로그 (PPT 50 + 웹 50)
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 - [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
