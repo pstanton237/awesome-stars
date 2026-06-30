@@ -1144,6 +1144,7 @@
 - [aws-samples/aws-management-and-governance-samples](https://github.com/aws-samples/aws-management-and-governance-samples) - Collection of samples for Management and Governance services
 - [aws-samples/aws-vpc-cidr-mgmt](https://github.com/aws-samples/aws-vpc-cidr-mgmt) - 
 - [aws-samples/amazon-cloudwatch-auto-alarms](https://github.com/aws-samples/amazon-cloudwatch-auto-alarms) - Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.
+- [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - Create, List, Update, Delete Amazon EKS clusters. Deploy and manage software on EKS. Run distributed model training and inference examples.
 - [aws-samples/iam-roles-pipeline](https://github.com/aws-samples/iam-roles-pipeline) - 
 - [aws-solutions-library-samples/cloud-intelligence-dashboards-framework](https://github.com/aws-solutions-library-samples/cloud-intelligence-dashboards-framework) - Command Line Interface tool for Cloud Intelligence Dashboards deployment
 - [aws-samples/aws-vpc-network-access-analyzer-automation](https://github.com/aws-samples/aws-vpc-network-access-analyzer-automation) - 
@@ -1670,7 +1671,6 @@
 - [ivangfr/keycloak-clustered](https://github.com/ivangfr/keycloak-clustered) - Keycloak-Clustered extends quay.io/keycloak/keycloak official Keycloak Docker image by adding JDBC_PING discovery protocol.
 - [jaroslawhartman/TimeZones-Alfred](https://github.com/jaroslawhartman/TimeZones-Alfred) - Alfred Workflow
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
-- [aws-samples/aws-do-eks](https://github.com/aws-samples/aws-do-eks) - Create, List, Update, Delete Amazon EKS clusters. Deploy and manage software on EKS. Run distributed model training and inference examples.
 - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 - [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
 - [mbelloiseau/website-monitoring](https://github.com/mbelloiseau/website-monitoring) - Monitore your websites availability, http status code (current and history), certificate, redirects and more with Grafana and Prometheus blackbox exporter.
