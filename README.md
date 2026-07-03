@@ -494,6 +494,7 @@
 
 ## JavaScript 
 
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [paraschopra/make-pages-interactive](https://github.com/paraschopra/make-pages-interactive) - 
 - [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - A better /goal for Codex and Claude Code
 - [askalf/dario](https://github.com/askalf/dario) - Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pricing, not per-token bills. One local endpoint that replays Claude Code's wire shape so your traffic 
@@ -975,7 +976,7 @@
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [ivanba-arch/cursor-chat-explorer](https://github.com/ivanba-arch/cursor-chat-explorer) - 
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [dohsimpson/kubernetes-doc-pdf](https://github.com/dohsimpson/kubernetes-doc-pdf) - Kubernetes PDF Documentation
