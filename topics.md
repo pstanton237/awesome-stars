@@ -2146,7 +2146,6 @@
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [carlpett/terraform-provider-sops](https://github.com/carlpett/terraform-provider-sops) - A Terraform provider for reading Mozilla sops files
 - [syssi/xiaomi_fan](https://github.com/syssi/xiaomi_fan) - Xiaomi Mi Smart Fan integration for Home Assistant
@@ -3121,6 +3120,7 @@
 - [aws-samples/aws-iam-permissions-guardrails](https://github.com/aws-samples/aws-iam-permissions-guardrails) - AWS IAM Permissions Guardrails https://aws-samples.github.io/aws-iam-permissions-guardrails/
 - [Netflix-Skunkworks/cloudtrail-anomaly](https://github.com/Netflix-Skunkworks/cloudtrail-anomaly) - 
 - [cdemko-fsecure/prowler-multiaccount](https://github.com/cdemko-fsecure/prowler-multiaccount) - WIP for automated Prowler scanning across multiple accounts in an AWS Organization
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [toddm92/vpc-delete](https://github.com/toddm92/vpc-delete) - Remove AWS Default VPCs
 - [jsonmaur/aws-regions](https://github.com/jsonmaur/aws-regions) - AWS Regions and Availability Zones
 - [aws-cloudformation/rain](https://github.com/aws-cloudformation/rain) - A development workflow tool for working with AWS CloudFormation.
