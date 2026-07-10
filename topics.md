@@ -231,6 +231,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -3278,7 +3279,6 @@
 - [RaoulMeyer/diagram-as-code](https://github.com/RaoulMeyer/diagram-as-code) - Create diagrams of infrastructure in code
 - [speshak/aws-saml-search](https://github.com/speshak/aws-saml-search) - Add a search box to the AWS SAML login page
 - [chrisbro/alfred-bear](https://github.com/chrisbro/alfred-bear) - Alfred 3 workflow to create and search notes in Bear.
-- [sbusso/Bear-Power-Pack](https://github.com/sbusso/Bear-Power-Pack) - A collection of workflows enhancing Bear writer app on iOS and Mac.
 - [jkueh/aws-rolex](https://github.com/jkueh/aws-rolex) - AWS Role Extension (AWS RolEx) - A little browser extension to make the role selection page a bit more tolerable :)
 - [ThreatResponse/aws_ir](https://github.com/ThreatResponse/aws_ir) - Python installable command line utiltity for mitigation of host and key compromises.
 - [maxsivanov/influxdb-timeshift-proxy](https://github.com/maxsivanov/influxdb-timeshift-proxy) - Add timeshift feature to influxdb for grafana users with mathematics between metrics feature
@@ -3574,7 +3574,6 @@
 - [karttoon/dnsQmon](https://github.com/karttoon/dnsQmon) - dnsQmon - Linux Python DNS Query Monitor
 - [hurulu/idrac-configure-script](https://github.com/hurulu/idrac-configure-script) - Using racadm to configure idrac under command line
 - [SublimeLinter/SublimeLinter-shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - This linter plugin for SublimeLinter provides an interface to shellcheck.
-- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [anoakb/review](https://github.com/anoakb/review) - questions from https://github.com/chassing/linux-sysadmin-interview-questions
 - [anonymuse/linux-operations-interview-questions](https://github.com/anonymuse/linux-operations-interview-questions) - Collection of linux sysadmin/devop interview questions
 - [kylejohnson/linux-sysadmin-interview-questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions) - A list of some of the questions which I've had to know during linux syadmin / devops interviews.
@@ -4761,6 +4760,18 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [timofurrer/colorful](https://github.com/timofurrer/colorful) - Terminal string styling done right, in Python :snake: :tada:
+
+## workflow 
+
+- [Nyrok/flompt](https://github.com/Nyrok/flompt) - flow + prompt = flompt - Visual AI Prompt Builder. Decompose, edit as flowchart, recompile into optimized machine-readable prompts
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
+- [zarifpour/alfred-you-suggest](https://github.com/zarifpour/alfred-you-suggest) - 🎩 Get in-line suggestions from You.com's search results with Alfred.
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
+- [sbusso/Bear-Power-Pack](https://github.com/sbusso/Bear-Power-Pack) - A collection of workflows enhancing Bear writer app on iOS and Mac.
+- [miname/Korean-Spelling-Checker-Workflow](https://github.com/miname/Korean-Spelling-Checker-Workflow) - macOS X Automator의 workflow 형태로 작동하는 한국어 맞춤법 검사기.
+- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 
 ## xcode 
 
