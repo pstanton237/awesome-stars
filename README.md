@@ -1776,6 +1776,7 @@
 
 ## Swift 
 
+- [nowtilous/GutchinTouchTool](https://github.com/nowtilous/GutchinTouchTool) - A vibe coded gesture customization tool for Mac
 - [nogu66/open-computer-use](https://github.com/nogu66/open-computer-use) - 
 - [himomohi/AirTranslate](https://github.com/himomohi/AirTranslate) - AirTranslate macOS app
 - [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
