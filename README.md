@@ -210,7 +210,7 @@
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [doitintl/gtoken](https://github.com/doitintl/gtoken) - Securely access AWS services from GKE cluster
-- [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [GoogleCloudPlatform/security-response-automation](https://github.com/GoogleCloudPlatform/security-response-automation) - Take automated actions against threats and vulnerabilities.
 - [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
@@ -897,7 +897,7 @@
 - [eskrug/meetup](https://github.com/eskrug/meetup) - 한국 Elasticsearch 사용자그룹 밋업 관련 자료들을 모아놓는 곳입니다. / Korea ES Usergroup Meetup resources
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [ellerbrock/chrome-extensions-for-webdeveloper](https://github.com/ellerbrock/chrome-extensions-for-webdeveloper) - :ox:  A list with useful Chrome Extensions
-- [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh) - git flavored zsh
+- [tylerreckart/hyperzsh](https://github.com/tylerreckart/hyperzsh) - A focused zsh prompt.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide) - 비공식 AWS 공인 솔루션스 아키텍트 – 어소시에이트 시험 가이드
