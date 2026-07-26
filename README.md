@@ -477,7 +477,7 @@
 - [loopingz/aws-smtp-relay](https://github.com/loopingz/aws-smtp-relay) - Local SMTP server that convert SMTP message to AWS SES API Call to allow you to use role instance
 - [cpopp/AWSUtilities](https://github.com/cpopp/AWSUtilities) - 
 - [widdix/aws-ec2-ssh](https://github.com/widdix/aws-ec2-ssh) - Manage AWS EC2 SSH access with IAM
-- [FINRAOS/aphelion](https://github.com/FINRAOS/aphelion) - Aphelion is a web application that captures and visualizes your AWS services usage limits. It continuously collects data in the background and you can visualize the data in easy-to-see graphs and char
+- [FINRAOS/aphelion](https://github.com/FINRAOS/aphelion) - ⚠️ Archived — This repository is no longer maintained and will not receive updates, including security patches. It is preserved in read-only form for reference.  Aphelion is an application that visual
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak
 - [thomasdarimont/keycloak-health-checks](https://github.com/thomasdarimont/keycloak-health-checks) - Keycloak Extension for health checks
@@ -573,7 +573,7 @@
 - [fallroot/dandy](https://github.com/fallroot/dandy) - “단디”는 부산대학교 인공지능연구실과 (주)나라인포테크가 공동으로 만들어 http://speller.cs.pusan.ac.kr 페이지에서 제공하는 “한국어 맞춤법/문법 검사기”를 맥에서 쉽게 사용할 수 있도록 해 주는 도구입니다. 맥의 오토메이터를 이용해서 맥 서비스 형태로 제작했습니다.
 - [fallroot/wormhole](https://github.com/fallroot/wormhole) - Copy text from A, paste to B automatically
 - [ashiina/aws-lambda-cloudwatch-slack](https://github.com/ashiina/aws-lambda-cloudwatch-slack) - Amazon Lambda to receive data from CloudWatch and post to Slack
-- [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest AWS SDK and Node.js v20!
+- [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest AWS SDK and Node.js v24!
 - [faultline/faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 - [carlosesilva/reinvent-planner](https://github.com/carlosesilva/reinvent-planner) - Plan your AWS re:Invent 2019 sessions by visualizing it in a calendar.
 - [iann0036/aws-account-controller](https://github.com/iann0036/aws-account-controller) - Self-service creation and deletion of sandbox-style accounts.
@@ -1326,7 +1326,6 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [gilbutITbook/006936](https://github.com/gilbutITbook/006936) - 파이썬 코딩 도장
 - [goldfiglabs/introspector](https://github.com/goldfiglabs/introspector) - A schema and set of tools for using SQL to query cloud infrastructure.
-- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [aws-samples/aws-account-vending-machine](https://github.com/aws-samples/aws-account-vending-machine) - This repository contains various versions of the account vending machine used to provision AWS accounts with custom configurations
 - [Skyscanner/whispers](https://github.com/Skyscanner/whispers) - Identify hardcoded secrets in static structured text
@@ -1776,6 +1775,7 @@
 
 ## Swift 
 
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [nowtilous/GutchinTouchTool](https://github.com/nowtilous/GutchinTouchTool) - A vibe coded gesture customization tool for Mac
 - [nogu66/open-computer-use](https://github.com/nogu66/open-computer-use) - 
 - [himomohi/AirTranslate](https://github.com/himomohi/AirTranslate) - AirTranslate macOS app
@@ -1927,6 +1927,7 @@
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
+- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [AutohomeCorp/autohome-compareQueries-datasource](https://github.com/AutohomeCorp/autohome-compareQueries-datasource) - This plugin is built as a datasource plugin that comapre and contrasts different time shifts data
 - [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
 - [3pillarlabs/aws-billing-visualization](https://github.com/3pillarlabs/aws-billing-visualization) - 
