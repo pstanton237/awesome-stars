@@ -180,6 +180,7 @@
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
+- [quant](#quant)
 - [quantitative-finance](#quantitative-finance)
 - [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
@@ -4025,6 +4026,12 @@
 ## qt 
 
 - [pedroCabrera/PyFlow](https://github.com/pedroCabrera/PyFlow) - Visual scripting framework for python
+
+## quant 
+
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+- [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
+- [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 
 ## quantitative-finance 
 
