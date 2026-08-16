@@ -674,6 +674,7 @@
 ## Makefile 
 
 - [aws-samples/visualize-iam-access-analyzer-policy-validation-findings](https://github.com/aws-samples/visualize-iam-access-analyzer-policy-validation-findings) - 
+- [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [clouddrove/toc](https://github.com/clouddrove/toc) - A Table of Contents of all CloudDrove Packages and Modules
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
@@ -758,7 +759,6 @@
 - [cloudyali/awesome-sre](https://github.com/cloudyali/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
 - [natethinks/jog](https://github.com/natethinks/jog) - Simple script to print the last 10 commands you ran in the current directory
-- [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page
 - [mark-rushakoff/awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) - A curated list of awesome projects, libraries, tools, etc. related to InfluxDB
 - [gites/awesome-vault-tools](https://github.com/gites/awesome-vault-tools) - Awesome tools around HashiCorp Vault
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
