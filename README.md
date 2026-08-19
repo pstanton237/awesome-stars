@@ -960,7 +960,7 @@
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [fivetaku/fablize](https://github.com/fivetaku/fablize) - A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.
-- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) - AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬
+- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) - AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1649,7 +1649,7 @@
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
 - [vladvasiliu/aws-health-exporter-rs](https://github.com/vladvasiliu/aws-health-exporter-rs) - AWS Health exporter for Prometheus
@@ -1815,6 +1815,8 @@
 
 ## TypeScript 
 
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+- [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
