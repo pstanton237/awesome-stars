@@ -1585,7 +1585,6 @@
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [brightcove-archive/ooyala_barkeep](https://github.com/brightcove-archive/ooyala_barkeep) - The friendly code review system.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [OpenCSPM/opencspm](https://github.com/OpenCSPM/opencspm) - Open Cloud Security Posture Management Engine
 - [joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon) - Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.
@@ -1965,7 +1964,7 @@
 - [tensult/cloud-reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports. Check out free hosted version:
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - This solution leverages AWS Trusted Advisor and Service Quotas to monitor AWS resource usage and raise alerts.
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
