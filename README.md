@@ -514,7 +514,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [nvuillam/npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint) - Lint, format and auto-fix your Groovy / Jenkinsfile / Gradle files using command line
 - [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container) - Firefox extension to open external links in a specific container
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
@@ -677,7 +677,6 @@
 - [aws-samples/visualize-iam-access-analyzer-policy-validation-findings](https://github.com/aws-samples/visualize-iam-access-analyzer-policy-validation-findings) - 
 - [adriannovegil/awesome-observability](https://github.com/adriannovegil/awesome-observability) - Awesome observability page
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [clouddrove/toc](https://github.com/clouddrove/toc) - A Table of Contents of all CloudDrove Packages and Modules
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 
 ## Markdown 
@@ -957,7 +956,7 @@
 
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [elvismdev/mem0-mcp-selfhosted](https://github.com/elvismdev/mem0-mcp-selfhosted) - Self-hosted mem0 MCP server for Claude Code. Run a complete memory server against self-hosted Qdrant + Neo4j + Ollama while using Claude as the main LLM.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
@@ -1333,6 +1332,7 @@
 - [Peter-Slump/python-keycloak-client](https://github.com/Peter-Slump/python-keycloak-client) - Python Client for Keycloak identity and access management service
 - [monkeyapple/TOC-Generator-for-Bear-Note](https://github.com/monkeyapple/TOC-Generator-for-Bear-Note) - Generating TOC(Table-of-contents) for Bear Notes users.
 - [marcospereirampj/python-keycloak](https://github.com/marcospereirampj/python-keycloak) - 
+- [clouddrove/toc](https://github.com/clouddrove/toc) - A Table of Contents of all CloudDrove Packages and Modules
 - [snowflakedb/SnowAlert](https://github.com/snowflakedb/SnowAlert) - Security Analytics Using The Snowflake Data Warehouse
 - [Signiant/aws-ses-recorder](https://github.com/Signiant/aws-ses-recorder) - AWS Lambda functions to process SES bounces and deliveries
 - [Signiant/aws-instance-auditor](https://github.com/Signiant/aws-instance-auditor) - How many instances are running in each region, grouped by name
@@ -1620,6 +1620,7 @@
 
 ## Rust 
 
+- [armgabrielyan/deadbranch](https://github.com/armgabrielyan/deadbranch) - Clean up stale git branches safely.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -1780,6 +1781,7 @@
 
 ## Swift 
 
+- [kawarimidoll/edgeneon](https://github.com/kawarimidoll/edgeneon) - Neon light on the display edge
 - [Licoy/CodexRunway](https://github.com/Licoy/CodexRunway) - Native macOS menu bar app for Codex and Grok: quota, reset-today status, reset credits, API-equivalent cost, local sessions, and multi-account management. 原生 macOS 状态栏应用，查看 Codex 与 Grok 额度、今日是否重置、rese
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [nowtilous/GutchinTouchTool](https://github.com/nowtilous/GutchinTouchTool) - A vibe coded gesture customization tool for Mac
@@ -1822,6 +1824,8 @@
 
 ## TypeScript 
 
+- [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
+- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [vectorize-io/self-driving-agents](https://github.com/vectorize-io/self-driving-agents) - 
