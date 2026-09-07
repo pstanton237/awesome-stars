@@ -266,6 +266,7 @@
 
 ## agent-skills 
 
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) - AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells
@@ -347,12 +348,13 @@
 
 ## ai-agents 
 
+- [vanillagreencom/kendex](https://github.com/vanillagreencom/kendex) - Package manager for agents, skills, hooks, and extensions. Author once, install on every harness. QOL features included.
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 토스증권을 AI 에이전트와 터미널에서 다루는 도구. CLI 와 MCP 서버로 계좌·시세·주문은 물론 웹앱 전용 기능(수급·AI 시그널·스크리너·배당)까지, JSON·CSV 구조화 출력으로 AI 도구·자동화에 바로 연동.
+- [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 토스증권 CLI·MCP 서버. 공식 Open API의 계좌·시세·주문에 WTS 전용 수급·AI 시그널·배당·관심종목을 더해, 터미널과 AI 에이전트에서 조회·자동화합니다. 비공식 프로젝트.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -1186,7 +1188,7 @@
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
-- [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 토스증권을 AI 에이전트와 터미널에서 다루는 도구. CLI 와 MCP 서버로 계좌·시세·주문은 물론 웹앱 전용 기능(수급·AI 시그널·스크리너·배당)까지, JSON·CSV 구조화 출력으로 AI 도구·자동화에 바로 연동.
+- [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 토스증권 CLI·MCP 서버. 공식 Open API의 계좌·시세·주문에 WTS 전용 수급·AI 시그널·배당·관심종목을 더해, 터미널과 AI 에이전트에서 조회·자동화합니다. 비공식 프로젝트.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
@@ -1976,7 +1978,7 @@
 
 ## go 
 
-- [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 토스증권을 AI 에이전트와 터미널에서 다루는 도구. CLI 와 MCP 서버로 계좌·시세·주문은 물론 웹앱 전용 기능(수급·AI 시그널·스크리너·배당)까지, JSON·CSV 구조화 출력으로 AI 도구·자동화에 바로 연동.
+- [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 토스증권 CLI·MCP 서버. 공식 Open API의 계좌·시세·주문에 WTS 전용 수급·AI 시그널·배당·관심종목을 더해, 터미널과 AI 에이전트에서 조회·자동화합니다. 비공식 프로젝트.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
@@ -2731,7 +2733,7 @@
 - [elvismdev/mem0-mcp-selfhosted](https://github.com/elvismdev/mem0-mcp-selfhosted) - Self-hosted mem0 MCP server for Claude Code. Run a complete memory server against self-hosted Qdrant + Neo4j + Ollama while using Claude as the main LLM.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
-- [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 토스증권을 AI 에이전트와 터미널에서 다루는 도구. CLI 와 MCP 서버로 계좌·시세·주문은 물론 웹앱 전용 기능(수급·AI 시그널·스크리너·배당)까지, JSON·CSV 구조화 출력으로 AI 도구·자동화에 바로 연동.
+- [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 토스증권 CLI·MCP 서버. 공식 Open API의 계좌·시세·주문에 WTS 전용 수급·AI 시그널·배당·관심종목을 더해, 터미널과 AI 에이전트에서 조회·자동화합니다. 비공식 프로젝트.
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -2991,6 +2993,7 @@
 
 ## others 
 
+- [ouzhenkun/pi-input-history](https://github.com/ouzhenkun/pi-input-history) - Cross-session prompt history and fuzzy reverse search for pi.
 - [TungLamC/pi-packages](https://github.com/TungLamC/pi-packages) - 
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
