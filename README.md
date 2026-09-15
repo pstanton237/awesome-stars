@@ -154,7 +154,7 @@
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
 - [synfinatic/aws-sso-cli](https://github.com/synfinatic/aws-sso-cli) - A powerful tool for using AWS Identity Center for the CLI and web console.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [reulan/clairvoyance](https://github.com/reulan/clairvoyance) - Drift detection and reporting for Terraform.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
@@ -430,7 +430,6 @@
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [altalt-org/Lightning-SimulWhisper](https://github.com/altalt-org/Lightning-SimulWhisper) - An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance
-- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [dolevf/Open-Policy-Agent-Alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - Reasonably Usable Self-hosted Version of OPA's Playground
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
@@ -496,6 +495,7 @@
 
 ## JavaScript 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
@@ -975,7 +975,7 @@
 - [fivetaku/insane-search](https://github.com/fivetaku/insane-search) - Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -1311,7 +1311,7 @@
 - [inovex/illuminatio](https://github.com/inovex/illuminatio) - The kubernetes network policy validator.
 - [intuit/costBuddy](https://github.com/intuit/costBuddy) - costBuddy will gather cost information from multiple AWS accounts and generate a  nice Grafana dashboard with alerting in place.
 - [xueyuanl/daily-hackernews](https://github.com/xueyuanl/daily-hackernews) - Daily hacker news top stories. Subscribe the hackernews daily top stories by watching this repo.
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [zulily/aws_monitor](https://github.com/zulily/aws_monitor) - Lambda function which creates/refreshes instance-based monitors and dashboards
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
@@ -1885,6 +1885,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
+- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
