@@ -465,6 +465,7 @@
 - [FX-HAO/keycloak-phone-authenticator](https://github.com/FX-HAO/keycloak-phone-authenticator) - Obtain token and reset password via SMS
 - [ashald/EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.x is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [akoserwal/keycloak-integrations](https://github.com/akoserwal/keycloak-integrations) - Repository will contain integration patterns with keycloak
+- [nicklambourne/slackblocks](https://github.com/nicklambourne/slackblocks) - :game_die: Native language APIs for building messages using the Slack Block Kit API
 - [gaia-app/gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻
 - [awslabs/route53-infima](https://github.com/awslabs/route53-infima) - Library for managing service-level fault isolation using Amazon Route 53.
 - [aws-samples/aws-service-catalog-terraform-reference-architecture](https://github.com/aws-samples/aws-service-catalog-terraform-reference-architecture) - Apply Terraform configurations using CloudFormation through a proxy lambda
@@ -1224,7 +1225,6 @@
 - [aws-samples/aws-health-aware](https://github.com/aws-samples/aws-health-aware) - AHA is an incident management & communication framework to provide real-time alert customers when there are active AWS event(s). For customers with AWS Organizations, customers can get aggregated acti
 - [toddm92/vpc-delete](https://github.com/toddm92/vpc-delete) - Remove AWS Default VPCs
 - [iam-mhaseeb/StandupMonkey](https://github.com/iam-mhaseeb/StandupMonkey) - A self hosted slack bot to conduct standups & generate reports.
-- [nicklambourne/slackblocks](https://github.com/nicklambourne/slackblocks) - :game_die: Native language APIs for building messages using the Slack Block Kit API
 - [kanayak123/pyadselfservice](https://github.com/kanayak123/pyadselfservice) - Easy and secure web based password change portal for Active Directory user accounts.
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
