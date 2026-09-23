@@ -504,7 +504,7 @@
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [paraschopra/make-pages-interactive](https://github.com/paraschopra/make-pages-interactive) - 
 - [tolimarchuk/goalbuddy](https://github.com/tolimarchuk/goalbuddy) - A better /goal for Codex and Claude Code
-- [askalf/dario](https://github.com/askalf/dario) - Use your Claude and ChatGPT subscriptions in Cursor, Cline, Aider, Claude Code and the Agent SDK — at subscription pricing, not per-token API bills. One local Anthropic + OpenAI-compatible endpoint: e
+- [askalf/dario](https://github.com/askalf/dario) - Use your Claude and ChatGPT subscriptions in Cursor, Cline, Aider, Claude Code and the Agent SDK: one local endpoint, failover, pooling.
 - [zarazhangrui/tab-out](https://github.com/zarazhangrui/tab-out) - Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
@@ -977,7 +977,7 @@
 - [fivetaku/insane-search](https://github.com/fivetaku/insane-search) - Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -1381,7 +1381,7 @@
 - [turnerlabs/antiope](https://github.com/turnerlabs/antiope) - AWS Inventory and Compliance Framework
 - [aws-samples/aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - A collection of tools to enable canary deployments of AWS Lambda functions.
 - [amazon-archives/automating-governance-sample](https://github.com/amazon-archives/automating-governance-sample) - Sample pipeline for handling of security events in AWS.
-- [theserverlessway/aws-baseline](https://github.com/theserverlessway/aws-baseline) - AWS Baseline to roll out into your Organization
+- [flomotlik/aws-baseline](https://github.com/flomotlik/aws-baseline) - AWS Baseline to roll out into your Organization
 - [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring supporting 100s of services and evaluations to harden your CSP & 
 - [concurrencylabs/aws-cost-analysis](https://github.com/concurrencylabs/aws-cost-analysis) - Tools that make it easier to analyze AWS Cost and Usage reports. Initial version provides support for Athena and QuickSight.
 - [atlassian-labs/peerd](https://github.com/atlassian-labs/peerd) - peerd is an AWS VPC Peering Connection management tool. It creates full-meshes of VPCs from a yaml file, and manages the full lifecycle of creation, deletion and route table updates needed to make VPC
