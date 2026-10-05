@@ -775,7 +775,7 @@
 - [ReversecLabs/awspx](https://github.com/ReversecLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [jckuester/awsls](https://github.com/jckuester/awsls) - A list command for AWS resources
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
-- [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
+- [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with a fluent interface, for TypeScript, JavaScript, Python, Java, C# and Go.
 - [Signiant/aws-target-group-cleanup](https://github.com/Signiant/aws-target-group-cleanup) - Remove ALB target groups that are not assigned to load balancers
 - [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.
@@ -2284,7 +2284,7 @@
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
+- [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with a fluent interface, for TypeScript, JavaScript, Python, Java, C# and Go.
 - [Signiant/LOCK](https://github.com/Signiant/LOCK) - Let's Occasionally Circulate Keys
 - [Signiant/aws-target-group-cleanup](https://github.com/Signiant/aws-target-group-cleanup) - Remove ALB target groups that are not assigned to load balancers
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
@@ -3061,6 +3061,7 @@
 
 ## others 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [FleetingEcho/pi-handoff](https://github.com/FleetingEcho/pi-handoff) - pi extension that keeps a per-project HANDOFF.md up to date automatically and injects it into every session
 - [DevMortimer/pi-warden](https://github.com/DevMortimer/pi-warden) - Guardrails for Pi that steer instead of interrupt: enforces your project rules on every write, holds only hard-to-undo actions (3 per 1,000 calls, measured on real sessions), catches unverified "done"
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
