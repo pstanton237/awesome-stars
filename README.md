@@ -1838,6 +1838,7 @@
 
 ## TypeScript 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [FleetingEcho/pi-handoff](https://github.com/FleetingEcho/pi-handoff) - pi extension that keeps a per-project HANDOFF.md up to date automatically and injects it into every session
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
@@ -1975,7 +1976,7 @@
 - [mpyw/aws-lambda-billing-slack-notification](https://github.com/mpyw/aws-lambda-billing-slack-notification) - Node.js 14 以降向けの AWS 当月利用料金 Slack 通知スクリプト
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
+- [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with a fluent interface, for TypeScript, JavaScript, Python, Java, C# and Go.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [AutohomeCorp/autohome-compareQueries-datasource](https://github.com/AutohomeCorp/autohome-compareQueries-datasource) - This plugin is built as a datasource plugin that comapre and contrasts different time shifts data
 - [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
