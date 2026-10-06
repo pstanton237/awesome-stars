@@ -428,7 +428,6 @@
 
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
-- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [altalt-org/Lightning-SimulWhisper](https://github.com/altalt-org/Lightning-SimulWhisper) - An MLX/CoreML implementation of SimulStreaming. ~15x increase in performance
 - [dolevf/Open-Policy-Agent-Alfred](https://github.com/dolevf/Open-Policy-Agent-Alfred) - Reasonably Usable Self-hosted Version of OPA's Playground
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -510,6 +509,7 @@
 - [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [mcpware/cross-code-organizer](https://github.com/mcpware/cross-code-organizer) - Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, an
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [JSpiner/viber](https://github.com/JSpiner/viber) - 
 - [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -530,7 +530,6 @@
 - [pitkley/aws-search-extension](https://github.com/pitkley/aws-search-extension) - A search-extension, providing quick, fuzzy-search results for AWS developers. Includes AWS API, AWS CLI and AWS CloudFormation references. Compatible with most browsers.
 - [aws-solutions/workload-discovery-on-aws](https://github.com/aws-solutions/workload-discovery-on-aws) - Workload Discovery on AWS is a solution to visualize AWS Cloud workloads. With it you can build, customize, and share architecture diagrams of your workloads based on live data from AWS. The solution 
 - [iann0036/aws.permissions.cloud](https://github.com/iann0036/aws.permissions.cloud) - A crowdsourced AWS IAM permissions reference.
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [schams-net/amazon-ses-logging](https://github.com/schams-net/amazon-ses-logging) - Simple prototype of a Lambda function to write Amazon SES logs to a S3 bucket
@@ -1791,6 +1790,7 @@
 
 ## Svelte 
 
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [Robin-Haupt-1/Obsidian-Map-of-Content](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) - Generate and display a Map of Content for your Obsidian vault that gets updated with any changes, based on the links in your vault
 
 ## Swift 
