@@ -598,6 +598,7 @@
 
 ## awesome-list 
 
+- [shaftoe/awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent) - An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
@@ -3182,7 +3183,7 @@
 - [lyft/awspricing](https://github.com/lyft/awspricing) - Python library for AWS pricing.
 - [elbanic/alfred.awsregion](https://github.com/elbanic/alfred.awsregion) - View & copy AWS region codes
 - [awslabs/aws-reserved-instance-expiration-notification](https://github.com/awslabs/aws-reserved-instance-expiration-notification) - Python SAM Lambda module for sending email about AWS Reserved Instance whose contract is expiring within the specified days
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [jtortorelli/head-first-design-patterns-python](https://github.com/jtortorelli/head-first-design-patterns-python) - The main examples from the Head First Design Patterns book translated into Python
 - [zulhilmizainuddin/aws-lambda-error-rate](https://github.com/zulhilmizainuddin/aws-lambda-error-rate) - AWS Lambda error rate monitoring application using Node.js, TypeScript, Serverless, AWS Lambda, CloudFormation, CloudWatch, S3, SNS and PagerTree
 - [cplankey/lambda-errors-to-slack-sar](https://github.com/cplankey/lambda-errors-to-slack-sar) - Subscribes to tagged Lambdas in your account and forwards their errors to a specified Slack channel
