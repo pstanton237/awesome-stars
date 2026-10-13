@@ -375,6 +375,7 @@
 
 ## ai-agents 
 
+- [eiei114/pi-model-fallback](https://github.com/eiei114/pi-model-fallback) - Pi extension that automatically switches to a fallback model when a provider request fails, for example on 429 rate limits, 5xx outages, or connection errors.
 - [2akouwu/reverify](https://github.com/2akouwu/reverify) - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is 
 - [vanillagreencom/kendex](https://github.com/vanillagreencom/kendex) - Package manager for agents, skills, hooks, and extensions. Author once, install on every harness. QOL features included.
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
@@ -2639,6 +2640,7 @@
 
 ## llm 
 
+- [eiei114/pi-model-fallback](https://github.com/eiei114/pi-model-fallback) - Pi extension that automatically switches to a fallback model when a provider request fails, for example on 429 rate limits, 5xx outages, or connection errors.
 - [2akouwu/reverify](https://github.com/2akouwu/reverify) - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is 
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -4871,6 +4873,7 @@
 
 ## typescript 
 
+- [eiei114/pi-model-fallback](https://github.com/eiei114/pi-model-fallback) - Pi extension that automatically switches to a fallback model when a provider request fails, for example on 429 rate limits, 5xx outages, or connection errors.
 - [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
