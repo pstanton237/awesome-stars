@@ -1801,6 +1801,7 @@
 
 ## Swift 
 
+- [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
 - [kawarimidoll/edgeneon](https://github.com/kawarimidoll/edgeneon) - Neon light on the display edge
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [nowtilous/GutchinTouchTool](https://github.com/nowtilous/GutchinTouchTool) - A vibe coded gesture customization tool for Mac
