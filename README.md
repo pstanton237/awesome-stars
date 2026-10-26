@@ -506,7 +506,7 @@
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [paraschopra/make-pages-interactive](https://github.com/paraschopra/make-pages-interactive) - 
 - [tolimarchuk/goalbuddy](https://github.com/tolimarchuk/goalbuddy) - A better /goal for Codex and Claude Code
-- [askalf/dario](https://github.com/askalf/dario) - One local endpoint that routes Cursor, Cline, Aider, Claude Code and the Agent SDK through your Claude and ChatGPT subscriptions, with failover and pooling and zero runtime dependencies.
+- [askalf/dario](https://github.com/askalf/dario) - One local endpoint that routes Claude Code, Cursor, Cline, Aider, Codex CLI and the SDKs through the Claude and ChatGPT plans you already pay for: seats first, then the fallback chain you configure, a
 - [zarazhangrui/tab-out](https://github.com/zarazhangrui/tab-out) - Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
@@ -1844,6 +1844,7 @@
 
 ## TypeScript 
 
+- [arthurfiorette/pi-episodes](https://github.com/arthurfiorette/pi-episodes) - Fold finished episodes out of pi's context, and recall, ask or fork them instead of compacting
 - [Jeffropz/pi-session-peek](https://github.com/Jeffropz/pi-session-peek) - Pi extension: search your session history by what was actually said, read the whole conversation in a side pane, then resume or fork it. /peek | 按对话内容搜索历史会话，右栏读完整对话
 - [minuque/pi-cc-extensions](https://github.com/minuque/pi-cc-extensions) - Claude Code-style TUI output with some personal touches and handy utilities.
 - [shaftoe/awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent) - An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily.
