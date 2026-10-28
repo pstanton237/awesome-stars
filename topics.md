@@ -206,6 +206,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
@@ -277,6 +278,7 @@
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
@@ -318,6 +320,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent) - Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [Nyrok/flompt](https://github.com/Nyrok/flompt) - flow + prompt = flompt - Visual AI Prompt Builder. Decompose, edit as flowchart, recompile into optimized machine-readable prompts
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
@@ -1575,6 +1578,7 @@
 
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## developer-tools 
@@ -3106,7 +3110,6 @@
 - [zerostaticthemes/square-ui](https://github.com/zerostaticthemes/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [epoko77-ai/design-diversity](https://github.com/epoko77-ai/design-diversity) - Claude Code 산출물의 디자인 다양성 확보 — 공개 디자인 시스템을 증류한 프롬프트형 디자인 팩 100종 카탈로그 (PPT 50 + 웹 50)
-- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 - [nogu66/open-computer-use](https://github.com/nogu66/open-computer-use) - 
 - [paraschopra/make-pages-interactive](https://github.com/paraschopra/make-pages-interactive) - 
 - [AIchovy/vibe-observer](https://github.com/AIchovy/vibe-observer) - Claude Code Tracer & Observer
@@ -3121,7 +3124,6 @@
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -4588,6 +4590,23 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
+
+## skills 
+
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
+- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
+- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
+- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
+- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
+- [Nyrok/flompt](https://github.com/Nyrok/flompt) - flow + prompt = flompt - Visual AI Prompt Builder. Decompose, edit as flowchart, recompile into optimized machine-readable prompts
+- [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
 ## software 
 
