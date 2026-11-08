@@ -203,7 +203,6 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [jsonmaur/aws-regions](https://github.com/jsonmaur/aws-regions) - AWS Regions and Availability Zones
 - [c1982/awsdtc](https://github.com/c1982/awsdtc) - AWS Data Transfer Cost Explorer
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -1676,6 +1675,7 @@
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [nicklambourne/slackblocks](https://github.com/nicklambourne/slackblocks) - :game_die: Native language APIs for building messages using the Slack Block Kit API
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [brocode/fblog](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
@@ -1847,6 +1847,7 @@
 
 ## TypeScript 
 
+- [jayzeng/pi-memory](https://github.com/jayzeng/pi-memory) - Persistent memory extension for pi with daily logs, scratchpad, and optional qmd‑powered semantic search.
 - [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
 - [arthurfiorette/pi-episodes](https://github.com/arthurfiorette/pi-episodes) - Fold finished episodes out of pi's context, and recall, ask or fork them instead of compacting
 - [Jeffropz/pi-session-peek](https://github.com/Jeffropz/pi-session-peek) - Pi extension: search your session history by what was actually said, read the whole conversation in a side pane, then resume or fork it. /peek | 按对话内容搜索历史会话，右栏读完整对话
@@ -2012,7 +2013,7 @@
 - [tensult/cloud-reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports. Check out free hosted version:
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [aws-solutions/quota-monitor-for-aws](https://github.com/aws-solutions/quota-monitor-for-aws) - This solution leverages AWS Trusted Advisor and Service Quotas to monitor AWS resource usage and raise alerts.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
