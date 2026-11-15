@@ -432,7 +432,7 @@
 - [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced trading bot written in Python
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## algorithms 
@@ -1045,7 +1045,7 @@
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced trading bot written in Python
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [moimz/iCoinTicker](https://github.com/moimz/iCoinTicker) - macOS crypto currency menubar ticker (맥 가상화폐 시세 메뉴바 티커)
 
@@ -1061,7 +1061,7 @@
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced trading bot written in Python
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with pluggable strategies, historical backtesting, a live dashboard, and connect an AI agent over MCP
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [redsift/scrumbot](https://github.com/redsift/scrumbot) - Slack bot for standup meetings
@@ -1156,7 +1156,7 @@
 
 - [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Licoy/Quosparr](https://github.com/Licoy/Quosparr) - 🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude, Gemini (Antigravity) and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay s
@@ -1191,7 +1191,7 @@
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [coldteadotai/abide](https://github.com/coldteadotai/abide) - Make your coding agent abide by all your project rules
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1498,7 +1498,7 @@
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced trading bot written in Python
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with pluggable strategies, historical backtesting, a live dashboard, and connect an AI agent over MCP
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [moimz/iCoinTicker](https://github.com/moimz/iCoinTicker) - macOS crypto currency menubar ticker (맥 가상화폐 시세 메뉴바 티커)
@@ -1592,6 +1592,7 @@
 
 ## design 
 
+- [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) - UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
@@ -1974,7 +1975,7 @@
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced trading bot written in Python
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
@@ -2222,6 +2223,7 @@
 
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -2830,7 +2832,7 @@
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [2akouwu/reverify](https://github.com/2akouwu/reverify) - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is 
 - [ezBuilder/chatgpt2codex](https://github.com/ezBuilder/chatgpt2codex) - macOS-first local MCP and Actions runtime that gives ChatGPT real coding hands over trusted projects
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
@@ -2865,7 +2867,7 @@
 ## mcp-server 
 
 - [2akouwu/reverify](https://github.com/2akouwu/reverify) - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [elvismdev/mem0-mcp-selfhosted](https://github.com/elvismdev/mem0-mcp-selfhosted) - Self-hosted mem0 MCP server for Claude Code. Run a complete memory server against self-hosted Qdrant + Neo4j + Ollama while using Claude as the main LLM.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.
 - [JungHoonGhae/tossinvest-cli](https://github.com/JungHoonGhae/tossinvest-cli) - 공식 API에 없는 30+ 기능까지, 터미널과 AI에서 쓰세요. 토스증권 비공식 CLI·MCP.
@@ -2894,6 +2896,7 @@
 ## mobile 
 
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [ayushi7rawat/Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub) - The Ultimate resource hub of Python: All at one place
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -4107,7 +4110,7 @@
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced trading bot written in Python
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [jwlodek/py_cui](https://github.com/jwlodek/py_cui) - A python library for intuitively creating CUI/TUI interfaces with widgets, inspired by gocui.
 - [ayushi7rawat/Ultimate-Python-Resource-Hub](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub) - The Ultimate resource hub of Python: All at one place
@@ -4262,7 +4265,7 @@
 - [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced trading bot written in Python
 
 ## rag 
 
@@ -4645,7 +4648,7 @@
 
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
@@ -4926,7 +4929,7 @@
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced trading bot written in Python
 
 ## tui 
 
@@ -4994,6 +4997,7 @@
 
 ## ui 
 
+- [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) - UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
