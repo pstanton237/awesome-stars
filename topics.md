@@ -986,7 +986,6 @@
 ## azure 
 
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [HoussemDellai/terraform-course](https://github.com/HoussemDellai/terraform-course) - Full course for deploying Infrastructure to the Cloud using Terraform
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
@@ -4827,7 +4826,6 @@
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis. Demo: https://terrareg-main.gitlab-pr.dockstudios.co.uk
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
-- [HoussemDellai/terraform-course](https://github.com/HoussemDellai/terraform-course) - Full course for deploying Infrastructure to the Cloud using Terraform
 - [infracost/infracost-atlantis](https://github.com/infracost/infracost-atlantis) - Atlantis integration for Infracost. Shows cloud cost estimates for Terraform in pull requests.
 - [cloudposse/terraform-aws-cloudwatch-events](https://github.com/cloudposse/terraform-aws-cloudwatch-events) - Terraform Module for provisioning CloudWatch Events rules connected with targets.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
