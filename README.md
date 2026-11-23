@@ -1848,6 +1848,7 @@
 
 ## TypeScript 
 
+- [johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis) - Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant replies are easy to scan
 - [mackt/pi-language-tutor](https://github.com/mackt/pi-language-tutor) - Learn a foreign language while you code — a pi extension that reviews your prompts for spelling, grammar, and natural phrasing, and renders agent replies as bilingual immersive translations.
 - [jayzeng/pi-memory](https://github.com/jayzeng/pi-memory) - Persistent memory extension for pi with daily logs, scratchpad, and optional qmd‑powered semantic search.
 - [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
