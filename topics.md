@@ -92,6 +92,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [framework](#framework)
 - [frontend](#frontend)
 - [game-development](#game-development)
@@ -166,6 +167,7 @@
 - [openai](#openai)
 - [osint](#osint)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
@@ -272,7 +274,7 @@
 
 ## agent-skills 
 
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows
 - [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) - UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
@@ -291,7 +293,7 @@
 
 ## agentic-ai 
 
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
@@ -358,7 +360,7 @@
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
@@ -414,7 +416,7 @@
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
@@ -424,7 +426,7 @@
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [openops-cloud/openops](https://github.com/openops-cloud/openops) - The batteries-included, No-Code FinOps automation platform, with the AI you trust.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud, SaaS, API and Model Context Protocol (MCP) resources through a unified SQL-based framework for humans and AI agents.
@@ -464,6 +466,7 @@
 
 ## android 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -526,7 +529,7 @@
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [stablyai/agent-slack](https://github.com/stablyai/agent-slack) - Slack automation CLI for AI agents
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -1069,7 +1072,7 @@
 ## bot 
 
 - [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [sebseager/slack-exporter](https://github.com/sebseager/slack-exporter) - A Slack bot for exporting content from public and private channels
 - [brunolemos/threadbot](https://github.com/brunolemos/threadbot) - 👀 Thread Bot for Slack - Make people use threads instead of flooding the channels
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
@@ -1123,7 +1126,7 @@
 
 ## chatgpt 
 
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [ezBuilder/chatgpt2codex](https://github.com/ezBuilder/chatgpt2codex) - macOS-first local MCP and Actions runtime that gives ChatGPT real coding hands over trusted projects
 - [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
@@ -1168,7 +1171,7 @@
 
 ## claude 
 
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows
 - [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
@@ -1199,12 +1202,13 @@
 
 ## claude-code 
 
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows
 - [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
 - [minuque/pi-cc-extensions](https://github.com/minuque/pi-cc-extensions) - Claude Code-style TUI output with some personal touches and handy utilities.
 - [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) - UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+- [DevMortimer/pi-warden](https://github.com/DevMortimer/pi-warden) - Zero-key runtime guardrails for Pi, Claude Code, and Codex — blocks destructive commands and secret exfiltration, enforces project rules, and breaks agent loops.
 - [coldteadotai/abide](https://github.com/coldteadotai/abide) - Make your coding agent abide by all your project rules
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemin
@@ -1228,7 +1232,7 @@
 - [askalf/dario](https://github.com/askalf/dario) - One local endpoint that routes Claude Code, Cursor, Cline, Aider, Codex CLI and the SDKs through the Claude and ChatGPT plans you already pay for: seats first, then the fallback chain you configure, a
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code & Codex — monitor and manage multiple sessions from any browser
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) - Local analytics dashboard for Claude Code. No cloud, no telemetry.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
@@ -1256,7 +1260,7 @@
 
 ## claude-skills 
 
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows
 - [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) - UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -1434,7 +1438,7 @@
 
 ## code-review 
 
-- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+- [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) - Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -1505,7 +1509,7 @@
 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 
@@ -1549,6 +1553,7 @@
 
 ## dart 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 
 ## data 
@@ -1821,7 +1826,7 @@
 - [vchinnipilli/kubestriker](https://github.com/vchinnipilli/kubestriker) - A Blazing fast Security Auditing tool for Kubernetes
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
@@ -1980,7 +1985,12 @@
 
 ## flutter 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
+
+## flutter-apps 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## framework 
 
@@ -2327,7 +2337,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) - Terraform provider for Keycloak
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
@@ -2418,6 +2428,7 @@
 
 ## ios 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
@@ -2578,7 +2589,7 @@
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) - Harbor is a CNCF graduated open-source container registry to manage container images and other OCI artifacts securely with policies, role-based access control, vulnerability scans and signing.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
 - [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
@@ -2658,6 +2669,7 @@
 
 ## linux 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [Licoy/Quosparr](https://github.com/Licoy/Quosparr) - 🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude, Gemini (Antigravity) and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay s
@@ -2722,7 +2734,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -2773,6 +2785,7 @@
 
 ## macos 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -2832,7 +2845,7 @@
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Field Theory CLI for bookmarks, Library, commands, and agent workflows
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [monkeyapple/TOC-Generator-for-Bear-Note](https://github.com/monkeyapple/TOC-Generator-for-Bear-Note) - Generating TOC(Table-of-contents) for Bear Notes users.
@@ -3144,6 +3157,8 @@
 
 ## others 
 
+- [johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis) - Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant replies are easy to scan
+- [sodo-so/Threads-Bot-Detector](https://github.com/sodo-so/Threads-Bot-Detector) - A Chrome extension for analyzing Threads followers to detect bots, fake accounts, and farmers using Cloud AI.
 - [mainplane-ai/mainplane](https://github.com/mainplane-ai/mainplane) - The open-source agent ecosystem
 - [mackt/pi-language-tutor](https://github.com/mackt/pi-language-tutor) - Learn a foreign language while you code — a pi extension that reviews your prompts for spelling, grammar, and natural phrasing, and renders agent replies as bilingual immersive translations.
 - [jayzeng/pi-memory](https://github.com/jayzeng/pi-memory) - Persistent memory extension for pi with daily logs, scratchpad, and optional qmd‑powered semantic search.
@@ -3153,7 +3168,6 @@
 - [xjh1994/opencli-admin](https://github.com/xjh1994/opencli-admin) - 基于 opencli 的可视化内容采集/AI打标/推送系统。可用于舆情监测。支持多开chrome 多账号采集，支持小红书 、微博、B 站等采集。支持 AI agent 处理（开发中）。支持一键 docker 部署，推送通知，分布式任务
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [FleetingEcho/pi-handoff](https://github.com/FleetingEcho/pi-handoff) - pi extension that keeps a per-project HANDOFF.md up to date automatically and injects it into every session
-- [DevMortimer/pi-warden](https://github.com/DevMortimer/pi-warden) - Guardrails for Pi that steer instead of interrupt: enforces your project rules on every write, holds only hard-to-undo actions (3 per 1,000 calls, measured on real sessions), catches unverified "done"
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [Thinkscape/agent-smart-fetch](https://github.com/Thinkscape/agent-smart-fetch) - Smarter, anti-bot resistant way to fetch stuff off the Internet
 - [just-joshn/pi-pstack](https://github.com/just-joshn/pi-pstack) - Native Pi coding-agent port of Cursor pstack (local CLI parity)
@@ -3579,7 +3593,7 @@
 - [hjacobs/aws-cost-and-usage-report](https://github.com/hjacobs/aws-cost-and-usage-report) - Simple script to generate a TSV file using the AWS Cost Explorer API
 - [whyscream/postfix-grok-patterns](https://github.com/whyscream/postfix-grok-patterns) - Logstash configuration and grok patterns for parsing postfix logging
 - [ActionScripted/elastic-kibana-postfix](https://github.com/ActionScripted/elastic-kibana-postfix) - Kibana dashboards, visualizations and searches for Postfix
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [yahoo/ariel](https://github.com/yahoo/ariel) - Ariel is an AWS Lambda designed to collect, analyze, and make recommendations about Reserved Instances for EC2.
 - [dwyl/aws-lambda-deploy](https://github.com/dwyl/aws-lambda-deploy) - ☁️ 🚀 Effortlessly deploy Amazon Web Services Lambda function(s) with a single command. Less to configure. Latest AWS SDK and Node.js v24!
 - [turnerlabs/antiope](https://github.com/turnerlabs/antiope) - AWS Inventory and Compliance Framework
@@ -3668,7 +3682,6 @@
 - [keewon/bus1](https://github.com/keewon/bus1) - 버스 운행 정보를 그래프로 표시
 - [hjacobs/kubernetes-on-aws-users](https://github.com/hjacobs/kubernetes-on-aws-users) - List of companies/organizations running Kubernetes on AWS
 - [thomasdarimont/keycloak-health-checks](https://github.com/thomasdarimont/keycloak-health-checks) - Keycloak Extension for health checks
-- [NYPL/engineering-general](https://github.com/NYPL/engineering-general) - Standards, values, and other information relevant to the NYPL Engineering Team.
 - [cloudtools/ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) - An implementation of an SSH certificate authority.
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [bchatard/jetbrains-alfred-workflow](https://github.com/bchatard/jetbrains-alfred-workflow) - Open a project with one of JetBrains' product.
@@ -3878,6 +3891,10 @@
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [cloudviz/agentless-system-crawler](https://github.com/cloudviz/agentless-system-crawler) - A tool to crawl systems like crawlers for the web
 - [elasticfence/elasticsearch-http-user-auth](https://github.com/elasticfence/elasticsearch-http-user-auth) - HTTP Basic Authentication and IP ACL plugin for Elasticsearch :key: (UNMAINTAINED)
+
+## p2p 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## package-manager 
 
@@ -4382,6 +4399,7 @@
 
 ## rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [armgabrielyan/deadbranch](https://github.com/armgabrielyan/deadbranch) - Clean up stale git branches safely.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
@@ -4780,7 +4798,7 @@
 - [browser-use/terminal](https://github.com/browser-use/terminal) - Terminal UI to get stuff done in the browser
 - [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent) - Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more
 - [subicura/purplemux](https://github.com/subicura/purplemux) - A web-native terminal multiplexer for Claude Code & Codex — monitor and manage multiple sessions from any browser
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -5117,6 +5135,7 @@
 
 ## windows 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [Licoy/Quosparr](https://github.com/Licoy/Quosparr) - 🐦 Native menu bar & tray app for macOS, Windows and Linux: track Codex, Claude, Gemini (Antigravity) and Grok quotas, resets, API-equivalent cost and local sessions, with multi-account and API relay s
